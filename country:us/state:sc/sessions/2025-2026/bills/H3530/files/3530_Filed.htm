@@ -1,0 +1,861 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scinsertblue
+	{mso-style-name:sc_insert_blue;
+	font-variant:normal !important;
+	color:#0070C0;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scstrikered
+	{mso-style-name:sc_strike_red;
+	color:red;
+	text-decoration:line-through;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccoversheetFISdirector, li.sccoversheetFISdirector, div.sccoversheetFISdirector
+	{mso-style-name:sc_coversheet_FIS_director;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetFISheader, li.sccoversheetFISheader, div.sccoversheetFISheader
+	{mso-style-name:sc_coversheet_FIS_header;
+	margin:0in;
+	text-align:center;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	text-decoration:underline;}
+p.sccoversheetFISsectionheaders, li.sccoversheetFISsectionheaders, div.sccoversheetFISsectionheaders
+	{mso-style-name:sc_coversheet_FIS_section_headers;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetFISsectioninfo, li.sccoversheetFISsectioninfo, div.sccoversheetFISsectioninfo
+	{mso-style-name:sc_coversheet_FIS_section_info;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scamendlanginstruction, li.scamendlanginstruction, div.scamendlanginstruction
+	{mso-style-name:sc_amend_langinstruction;
+	margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:24.0pt;
+	margin-left:0in;
+	line-height:normal;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 3530: Magistrates' Reform Act - South Carolina Legislature Online</title><meta name="keywords" content="Magistrates' Reform Act"><!-- http://www.scstatehouse.gov/sess126_2025-2026/bills/3530.htm --></head>
+
+<body lang=EN-US style='word-wrap:break-word'><div class="statusCoverSheet WordSection1"><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p>Download <a href="3530.docx">This Bill</a> in Microsoft Word Format</p><p><s>Indicates Matter Stricken</s><br><span style="text-decoration: underline;">Indicates New Matter</span></p><p style="font-weight: bold;">H. 3530</p><p style="font-weight: bold;">STATUS INFORMATION</p><p>General Bill<br>Sponsors: Reps. W. Newton, Pope, Spann-Wilder, Cobb-Hunter, Bernstein, Vaughan, C. Mitchell, Robbins, T. Moore, Henderson-Myers, Gilliard and Williams<br>Document Path: LC-0059AHB25.docx<br></p><p>Introduced in the House on January 14, 2025<br><span>Currently residing in the House Committee on<span style="font-weight: bold;"> Judiciary</span></span></p>Summary: Magistrates' Reform Act<p style="font-weight: bold;">HISTORY OF LEGISLATIVE ACTIONS</p><table style="border-collapse: collapse;"><thead>    <tr style="border-bottom: 1px solid #000;">      <th style="text-align: left; padding: .35rem;">Date</th>      <th style="text-align: left; padding: .35rem;">Body</th>      <th style="text-align: left; padding: .35rem;">Action Description with journal page number</th>    </tr>  </thead><tbody><tr>    <td style="padding: .35rem;">12/5/2024</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Prefiled
+ </td>  </tr><tr>    <td style="padding: .35rem;">12/5/2024</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Referred to Committee on <span style="font-weight: bold;">Judiciary</span> </td>  </tr><tr>    <td style="padding: .35rem;">1/14/2025</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Introduced and read first time (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj25/20250114.htm#p235">House Journal-page 235</a>)</td>  </tr><tr>    <td style="padding: .35rem;">1/14/2025</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Referred to Committee on <span style="font-weight: bold;">Judiciary</span>  (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj25/20250114.htm#p235">House Journal-page 235</a>)</td>  </tr><tr>    <td style="padding: .35rem;">1/28/2025</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name removed as sponsor: Pedalino
+ </td>  </tr><tr>    <td style="padding: .35rem;">1/29/2025</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Bernstein
+ </td>  </tr><tr>    <td style="padding: .35rem;">1/29/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Vaughan
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/4/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: C.
+ Mitchell, Robbins, T. Moore
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/5/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Committee report: Favorable with amendment <span style="font-weight: bold;">Judiciary</span>  (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260205.htm#p5">House Journal-page 5</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/10/2026</td>    <td style="padding: .35rem;"></td>    <td style="padding: .35rem;">Scrivener's error corrected
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/11/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned until Thur., 2-12-26 (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260211.htm#p15">House Journal-page 15</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/12/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned until Tues., 2-17-26 (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260212.htm#p22">House Journal-page 22</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/17/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor:
+ Henderson-Myers
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/17/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260217.htm#p13">House Journal-page 13</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/18/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260218.htm#p10">House Journal-page 10</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/19/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260219.htm#p22">House Journal-page 22</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/24/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned until Wed., 2-25-26 (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260224.htm#p62">House Journal-page 62</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/24/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Gilliard
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/25/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Williams
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/25/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260225.htm#p21">House Journal-page 21</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/26/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260226.htm#p21">House Journal-page 21</a>)</td>  </tr><tr>    <td style="padding: .35rem;">3/3/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned until Tuesday, March 24. (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260303.htm#p17">House Journal-page 17</a>)</td>  </tr><tr>    <td style="padding: .35rem;">3/24/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260324.htm#p47">House Journal-page 47</a>)</td>  </tr><tr>    <td style="padding: .35rem;">3/25/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Recommitted to Committee on <span style="font-weight: bold;">Judiciary</span>  (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260325.htm#p29">House Journal-page 29</a>)</td>  </tr></tbody></table><p>View the latest <a href="/billsearch.php?billnumbers=3530&amp;session126&amp;summary=B">legislative information</a> at the website</p><p style="font-weight: bold;">VERSIONS OF THIS BILL</p><p><a href="https://www.scstatehouse.gov/sess126_2025-2026/prever/3530_20241205.htm">12/05/2024</a><br><a href="https://www.scstatehouse.gov/sess126_2025-2026/prever/3530_20260205.htm">02/05/2026</a><br><a href="https://www.scstatehouse.gov/sess126_2025-2026/prever/3530_20260210.htm">02/10/2026</a><br></p><br><br></div>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken>Indicates Matter Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Committee Report</p>
+
+<p class=sccoversheetinfo>February 5, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>H. 3530</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6>Introduced by Reps. W. Newton, Pope,
+Spann-Wilder, Bernstein, Cobb-Hunter, Vaughan, C. Mitchell, Robbins and T.
+Moore </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetreadfirst>S. Printed 2/5/26--H.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SEC
+2/10/2026 1:09 PM]</p>
+
+<p class=sccoversheetreadfirst>Read the first time January 14, 2025</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader>The committee on House Judiciary</p>
+
+<p class=sccommitteereporttitle>To whom was referred a Bill (H. 3530) to amend
+the South Carolina Code of Laws by adding Section <a href="../../code/t02c019.php#2-19-115">2-19-115</a> so as to require
+candidates for magistrate positions to be reviewed by the Judicial Merit
+Selection, etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader>Report:</p>
+
+<p class=sccommitteereporttitle>That they have duly and carefully considered
+the same, and recommend that the same do pass with amendment:</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=scamendlanginstruction style='margin-top:0in;margin-right:0in;
+margin-bottom:6.0pt;margin-left:0in'>&nbsp;&nbsp; <a name="instruction_30b03cf9a"><span style='font-size:11.0pt'>Amend the bill, as and if amended, SECTION 3, by
+striking Section <a href="../../code/t22c001.php#22-1-15">22-1-15</a>(D) and inserting:</span></a></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; (D) The provisions of Section <a href="../../code/t22c001.php#22-1-10">22-1-10</a>(B)(2)(c) do
+not apply to a magistrate serving on June 30, <span class=scstrikered>2025</span><span class=scinsertblue>2026</span>, during his tenure in office including
+subsequent reappointments.</p>
+
+<p class=sccodifiedsection><a name="instruction_1c9ad1251">Amend the bill
+further, SECTION 4, by striking Section <a href="../../code/t22c003.php#22-3-10">22-3-10</a> and inserting:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; Section <a href="../../code/t22c003.php#22-3-10">22-3-10</a>. <a name="ss_T22C3N10SA_lv1_d17320bcI"><span class=scinsertblue>(</span></a><span class=scinsertblue>A) </span>Magistrates have concurrent civil jurisdiction in
+the following cases:</p>
+
+<p class=sccodifiedsection><a name="instruction_6440ddc48">Amend the bill
+further, SECTION 4, Section <a href="../../code/t22c003.php#22-3-10">22-3-10</a>, by adding a subsection to read:</p>
+
+<p class=sccodifiedsection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10SB_lv1_fd7970edI">(</a>B) Limited discovery is allowed in
+magistrates court in actions provided in this section. The discovery allowed is
+limited to potential witness disclosures, records intended to be produced at
+trial, and self-authenticating medical records and bills.</span></p>
+
+<p class=sccodifiedsection><a name="instruction_80fa359d4">Amend the bill
+further, by adding appropriately numbered SECTIONS to read:</a></p>
+
+<p class=scdirectionallanguage><a name="bs_num_10001_7067a9a1fD">S</a>ECTION X. <a name="dl_aac3cb62eD">S</a>ection <a href="../../code/t22c003.php#22-3-20">22-3-20</a> of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T22C3N20_19f4aa95cD">S</a>ection <a href="../../code/t22c003.php#22-3-20">22-3-20</a>. <a name="up_9d35c35aI">N</a>o magistrate shall have cognizance of a
+civil action:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N20S1_lv1_1937ec2ecD">(</a>1) <span class=scstrikered>In</span><span class=scinsertblue>in</span> which the State
+is a party, except an action for a penalty and not exceeding one <span class=scinsertblue>thousand five </span>hundred dollars;&nbsp; or</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N20S2_lv1_bc26174b0D">(</a>2) <span class=scstrikered>When</span><span class=scinsertblue>when</span> the title to
+real property shall come in question, except as provided in Article 11 of this
+chapter.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_10002_2e0fdb7d9D">S</a>ECTION X. <a name="dl_73f4d137aD">A</a>rticle 1, Chapter 7, Title 18 of the S.C. Code is
+amended by adding:</p>
+
+<p class=scnewcodesection><span class=scinsert><span style='text-decoration:
+ none'>&nbsp;</span></span></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T18C7N95_5ac4ec1d6D">S</a>ection <a href="../../code/t18c007.php#18-7-95">18-7-95</a>. If a magistrate fails to comply with Sections <a href="../../code/t18c007.php#18-7-60">18-7-60</a>, <a href="../../code/t18c007.php#18-7-70">18-7-70</a>, or <a href="../../code/t18c007.php#18-7-80">18-7-80</a>, or orders issued pursuant to these sections, an appellate court, in
+its discretion, may declare a magistrate unavailable as contemplated pursuant
+to Section <a href="../../code/t18c007.php#18-7-90">18-7-90</a>.</p>
+
+<p class=sccodifiedsection><a name="instruction_ea89abc68">Amend the bill
+further, SECTION 7, by striking Section&nbsp; and inserting:</a></p>
+
+<p class=scnoncodifiedsection>SECTION 7.&nbsp; This act takes effect on July 1, <span class=scstrikered>2025</span><span class=scinsertblue>2026; except that SECTION
+4 takes effect on July 1, 2028, and SECTION 5 takes effect on July 1, 2030.</span>.</p>
+
+<p class=sccommitteereporttitle>Renumber sections to conform.</p>
+
+<p class=sccommitteereporttitle>Amend title to conform.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson>W. NEWTON for Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetFISheader>statement of estimated fiscal impact</p>
+
+<p class=sccoversheetFISsectionheaders>Explanation of Fiscal Impact</p>
+
+<p class=sccoversheetFISsectionheaders>State Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo>This bill makes several changes to the
+appointment process, requirements, and jurisdiction of magistrates in the
+state. Under the bill, the Senate is required to forward prospective magistrate
+candidates to the JMSC for review in the same manner as other judicial
+vacancies. A report by JMSC must then be submitted to the Senate and the
+Governor prior to the Governor's appointment. Currently, senatorial delegations
+determine the individuals to be recommended to the Governor for appointment
+pursuant to Section <a href="../../code/t22c002.php#22-2-10">22-2-10</a>, or a nonpartisan preferential election is held
+pursuant to Section <a href="../../code/t22c002.php#22-2-15">22-2-15</a>, both of which are repealed by the bill. This bill
+specifies that a magistrate may serve in a holdover capacity for no more than
+14 days from the expiration of his term, and the Governor may make a temporary
+appointment if the Senate has not given advice and consent for a new
+appointment within this holdover timeframe. The bill adds the requirement that
+beginning July 1, 2025, a magistrate appointee must have received a juris
+doctor degree and be a member in good standing with the South Carolina Bar. </p>
+
+<p class=sccoversheetFISsectioninfo>The bill increases the concurrent civil
+jurisdiction of magistrates from the current $7,500 limit for civil claims to
+claims not to exceed $25,000. The bill also increases the limits on criminal
+cases that magistrates may hear from the current fine or forfeiture limit of
+$500 or imprisonment of no more than 30 days to up to $25,000 or imprisonment
+not exceeding 1 year. </p>
+
+<p class=sccoversheetFISsectioninfo>&nbsp;</p>
+
+<p class=sccoversheetFISsectioninfo><b>Judicial.</b> The bill expands
+concurrent jurisdiction for magistrate court for certain civil actions and
+criminal actions. Judicial reports that from July 1, 2024, to June 30, 2025,
+there were 6,886 misdemeanors disposed of in general sessions court, which
+would have been eligible for disposition in magistrate court under this bill.
+However, Judicial states that increasing magistrate-level criminal jurisdiction
+could result in more cases appealed to the circuit court. Judicial is further
+unable to estimate the number of plaintiffs who filed civil cases in the court
+of common pleas that would now choose to file a civil case in magistrate court.
+Since jurisdiction remains concurrent, Judicial indicates that it is possible
+that litigants would choose to continue to pursue relief in the court of common
+pleas. For plaintiffs who file cases in magistrate courts, an appeal would go
+to circuit court, thus further increasing the number of cases handled circuit
+court in its appellate capacity. While the potential change in the number of
+cases is unknown, <span style='line-height:150%'>Judicial currently anticipates
+that the caseload can be managed within existing appropriations. </span></p>
+
+<p class=sccoversheetFISsectioninfo><b>&nbsp;</b></p>
+
+<p class=sccoversheetFISsectioninfo><b>House of Representatives and the Senate.</b>
+The House of Representatives and the Senate indicate that the requirements of
+the bill, including JMSC review of prospective magistrate candidates, will be
+managed under normal operations for the legislative bodies. Therefore, this
+bill will have no impact on the House of Representatives or the Senate. </p>
+
+<p class=sccoversheetFISsectioninfo>&nbsp;</p>
+
+<p class=sccoversheetFISsectionheaders>State Revenue</p>
+
+<p class=sccoversheetFISsectioninfo>This bill may impact fine and fee revenue,
+depending on the number of cases that shift to magistrates court under the
+expanded civil and criminal jurisdiction. <span style='line-height:150%'>Court
+fines and fees are distributed to the General Fund, Other Funds, and local
+funds. Therefore, this bill may result in a change to General Fund and Other
+Funds revenue depending on the change in fines and fees collected.</span></p>
+
+<p class=sccoversheetFISsectioninfo><b>&nbsp;</b></p>
+
+<p class=sccoversheetFISsectionheaders>Local Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo>This bill makes several changes to the
+appointment process, requirements, and jurisdiction of magistrates in the
+state. The bill increases concurrent civil jurisdiction for magistrate court
+from $7,500 to 25,000 and provides jurisdiction for all criminal offenses with
+fine or forfeiture of no more than $25,000 or imprisonment for no more than 1
+year, an increase from current limits of $500 or imprisonment for no more than
+30 days.</p>
+
+<p class=sccoversheetFISsectioninfo>RFA surveyed all counties in the state and
+received responses from Charleston, Horry, Cherokee, Lancaster, and Edgefield
+Counties on the potential fiscal impact of this bill. All responding counties
+indicate that the increased jurisdiction under the bill would increase the
+number of cases heard in magistrates court and likely require additional
+personnel and expanded court operations to handle the increased caseload. Horry
+County estimates that an additional magistrate office would need to be
+established, at an additional cost of $1,450,000 in FY 2026-27 and $450,000 in
+each year thereafter for three additional personnel. Charleston, Cherokee,
+Lancaster, and Edgefield Counties all expressed concerns regarding the impact
+that increasing the jurisdiction on caseloads as well as the impact that
+requiring magistrates to obtain a juris doctor degree would have on the
+county's ability to replace magistrates when vacancies arise due to the
+disparity in current magistrate compensation when compared to other judicial and
+legal roles that require a juris doctor degree. As a result, the responding
+counties indicate that compensation for magistrates would likely need to
+increase, further increasing the local expenditure impact of the bill. </p>
+
+<p class=sccoversheetFISsectioninfo><b>&nbsp;</b></p>
+
+<p class=sccoversheetFISsectioninfo>&nbsp;</p>
+
+<p class=sccoversheetFISdirector>Frank A. Rainwater, Executive Director</p>
+
+<p class=sccoversheetFISdirector>Revenue and Fiscal Affairs Office</p>
+
+<p class=sccoversheetFISheader><span style='text-decoration:none'>&nbsp;</span></p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>_______</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION <a href="../../code/t02c019.php#2-19-115">2-19-115</a> SO AS TO REQUIRE CANDIDATES FOR MAGISTRATE POSITIONS TO BE REVIEWED BY
+THE JUDICIAL MERIT SELECTION COMMISSION IN THE SAME MANNER AS OTHER JUDICIAL
+CANDIDATES UPON VACANCIES, AND TO DEFINE WHEN VACANCIES OCCUR; BY AMENDING
+SECTION <a href="../../code/t22c001.php#22-1-10">22-1-10</a>, RELATING TO APPOINTMENT,&nbsp; TERM AND TERRITORIAL JURISDICTION,&nbsp;
+TRAINING, CERTIFICATION, OR RECERTIFICATION REQUIREMENTS OF MAGISTRATES, SO AS
+TO PROVIDE PROCEDURES AND LIMITATIONS ON MAGISTRATES' HOLDOVER STATUS AND TO
+REQUIRE MAGISTRATES GOING FORWARD TO HOLD A JURIS DOCTOR DEGREE AND BE A MEMBER
+IN GOOD STANDING OF THE SOUTH CAROLINA BAR; BY AMENDING SECTION <a href="../../code/t22c001.php#22-1-15">22-1-15</a>,
+RELATING TO MAGISTRATES PRESENTLY SERVING, SO AS TO GRANDFATHER MAGISTRATES
+SERVING IN OFFICE ON JUNE 30, 2025; BY AMENDING SECTION <a href="../../code/t22c003.php#22-3-10">22-3-10</a>, RELATING TO
+CIVIL JURISDICTION IN MAGISTRATES COURT, SO AS TO INCREASE THE CIVIL
+JURISDICTION OF MAGISTRATES COURT; BY AMENDING SECTION <a href="../../code/t22c003.php#22-3-550">22-3-550</a>, RELATING TO
+CRIMINAL JURISDICTION IN MAGISTRATES COURT, SO AS TO INCREASE THE CRIMINAL
+JURISDICTION OF MAGISTRATES COURT; AND BY REPEALING SECTIONS <a href="../../code/t22c002.php#22-2-10">22-2-10</a> AND <a href="../../code/t22c002.php#22-2-15">22-2-15</a> RELATING TO A SCREENING COMMITTEE TO ASSIST IN THE SELECTION OF
+MAGISTRATES AND THE SPECIAL ELECTION FOR NONPARTISAN SELECTION OF MAGISTRATES,
+RESPECTIVELY.<a name="at_839a5a6e6"></a></p>
+
+<p class=scbillwhereasclause>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_ba0383341">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_0df1b5591">S</a>ECTION 1.&nbsp; <a name="dl_af519fe7e">C</a>hapter 19, Title 2 of the S.C. Code is amended by
+adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T2C19N115_5c6f6a0a6">S</a>ection <a href="../../code/t02c019.php#2-19-115">2-19-115</a>.&nbsp; <a name="ss_T2C19N115SA_lv1_b687d01e9">(</a>A) Upon a magistrate position
+vacancy, the Senate shall forward a magistrate candidate to the Judicial Merit
+Selection Commission for review. The commission shall conduct the same review
+as for other judicial candidates and may conduct a public hearing in the same
+manner as other judicial candidates pursuant to the provisions of this chapter
+as the commission deems necessary. The commission shall forward a report on a
+magistrate candidate's qualifications to the Senate and Governor prior to the
+Governor's appointment. The Governor's appointment process followed by advice
+and consent of the Senate is pursuant to the provisions of Section <a href="../../code/t22c001.php#22-1-10">22-1-10</a>. No
+person found not qualified by the commission may be appointed to a magistrate
+position.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T2C19N115SB_lv1_aa461b7c2">(</a>B)
+For purposes of this section, a vacancy is created in a magistrate position when
+any of the following occurs, a:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T2C19N115S1_lv2_874ce6950">(</a>1)
+term expires;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T2C19N115S2_lv2_6ce5c4b53">(</a>2)
+new magistrate position is created; or</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T2C19N115S3_lv2_347d809a6">(</a>3)
+magistrate no longer can serve due to resignation, retirement, disciplinary
+action, disability, or death.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_3f6dffecc">S</a>ECTION 2.&nbsp; <a name="dl_54f9a6645">S</a>ection <a href="../../code/t22c001.php#22-1-10">22-1-10</a>(A) and (B) of the S.C. Code is amended
+to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T22C1N10_28a3e10b8">&nbsp;&nbsp;&nbsp; </a><a name="ss_T22C1N10SA_lv1_6ef8b52f9">(</a>A)<a name="ss_T22C1N10S1_lv2_5defc355d"><span class=scinsert>(</span></a><span class=scinsert>1)</span> The Governor, by and
+with the advice and consent of the Senate, may appoint magistrates in each
+county of the State for a term of four years and until their successors are
+appointed and qualified, or their positions are terminated as provided in
+subsection (B), Section <a href="../../code/t22c001.php#22-1-30">22-1-30</a>, or Section <a href="../../code/t22c002.php#22-2-40">22-2-40</a>.</p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10S2_lv2_0f414770a">(</a>2) A magistrate may serve in a holdover
+capacity for no more than fourteen days from the expiration of the magistrate's
+term. If a magistrate is not appointed within this time because of the Senate's
+failure to give advice and consent, then the Governor may make a temporary
+appointment until advice and consent are received for a permanent appointment.
+Any magistrate or magistrate candidate who has been reprimanded by the Supreme
+Court of South Carolina or any other disciplinary authority may not be
+appointed or reappointed unless approved by a majority of the Senate after the
+Senate is informed of the reprimand or disciplinary action.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10S3_lv2_851d80baf"><span class=scinsert>(</span></a><span class=scinsert>3) </span>Magistrates serving
+the counties of Abbeville, Allendale, Bamberg, Beaufort, Calhoun, Cherokee,
+Chesterfield, Clarendon, Colleton, Dillon, Edgefield, Florence, Greenville,
+Hampton, Jasper, Lancaster, Lee, Marion, McCormick, Oconee, Pickens, Saluda,
+Sumter, and Williamsburg shall serve terms of four years commencing May 1,
+1990.&nbsp; Magistrates serving the counties of Aiken, Anderson, Barnwell, Berkeley,
+Charleston, Chester, Darlington, Dorchester, Fairfield, Georgetown, Greenwood,
+Horry, Kershaw, Laurens, Lexington, Marlboro, Newberry, Orangeburg, Richland,
+Spartanburg, Union, and York shall serve terms of four years commencing May 1,
+1991.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10S4_lv2_7ba7538cb"><span class=scinsert>(</span></a><span class=scinsert>4) </span>At least ninety days
+before the date of the commencement of the terms provided in the preceding
+paragraph and every four years thereafter, each county governing body must
+inform, in writing, the Senators representing that county of the number of
+full-time and part-time magistrate positions available in the county, the
+number of work hours required by each position, the compensation for each
+position, and the area of the county to which each position is assigned. If the
+county governing body fails to inform, in writing, the Senators representing
+that county of the information as required in this section, then the
+compensation, hours, and location of the full-time and part-time magistrate
+positions available in the county remain as designated for the previous four
+years.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10S5_lv2_816e09d8f"><span class=scinsert>(</span></a><span class=scinsert>5) </span>Each magistrate's
+number of work hours, compensation, and work location must remain the same
+throughout the term of office, except for a change (1) specifically allowed by
+statute or (2) authorized by the county governing body at least four years
+after the magistrate's most recent appointment and after a material change in
+conditions has occurred which warrants the change. Nothing provided in this
+section prohibits the raising of compensation or hours and compensation during
+a term of office. No magistrate may be paid for work not performed except for
+bona fide illness or as otherwise provided by law.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10S6_lv2_9eabe58c4"><span class=scinsert>(</span></a><span class=scinsert>6) </span>The number of
+magistrates to be appointed for each county and their territorial jurisdiction
+are as prescribed by law before March 2, 1897, for trial justices in the
+respective counties of the State, except as otherwise provided in this section.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10SB_lv1_b3619ff4e">(</a>B)<a name="ss_T22C1N10S1_lv2_a192c78e3">(</a>1) No person is eligible to hold the
+office of magistrate who is not at the time of his appointment a citizen of the
+United States and of this State, and who has not been a resident of this State
+for at least five years, has not attained the age of twenty-one years upon his
+appointment, and has not received a high school diploma or its equivalent
+educational training as recognized by the State Department of Education.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10S2_lv2_69703c622">(</a>2)
+Notwithstanding the educational qualifications required in item (1):</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10Sa_lv3_7e91a1089">(</a>a)
+On and after July 1, 2001, no person is eligible for an initial appointment to
+hold the office of magistrate who<span class=scinsert>:</span> (i) is not at
+the time of his appointment a citizen of the United States and of this State,
+(ii) has not been a resident of this State for at least five years, (iii) has
+not attained the age of twenty-one years upon his appointment, and (iv) has not
+received a two-year associate degree.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10Sb_lv3_6367634dd">(</a>b)
+On and after July 1, 2005, no person is eligible for an initial appointment to
+hold the office of magistrate who<span class=scinsert>:</span> (i) is not at
+the time of his appointment a citizen of the United States and of this State,
+(ii) has not been a resident of this State for at least five years, (iii) has
+not attained the age of twenty-one years upon his appointment, and (iv) has not
+received a four-year baccalaureate degree.</p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T22C1N10Sc_lv3_f3ecaa827">(</a>c) On and after July 1, 2025, no person
+is eligible for an initial appointment to hold the office of magistrate who (i)
+is not at the time of his appointment a citizen of the United States and of
+this State, (ii) has not been a resident of this State for at least five years,
+(iii) has not attained the age of twenty-one years upon his appointment, and
+(iv) has not received a juris doctor degree and is not a member in good
+standing of the South Carolina Bar.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_d2a679aaf">S</a>ECTION 3.&nbsp; <a name="dl_abc07cbde">S</a>ection <a href="../../code/t22c001.php#22-1-15">22-1-15</a> of the S.C. Code is amended by adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection><a name="ns_T22C1N15_3941b271c">&nbsp;&nbsp;&nbsp; </a><a name="ss_T22C1N15SD_lv1_850f1341b">(</a>D) The provisions of Section <a href="../../code/t22c001.php#22-1-10">22-1-10</a>(B)(2)(c) do not apply to a magistrate serving on June 30, 2025, during
+his tenure in office including subsequent reappointments.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_f9df8e116">S</a>ECTION 4.&nbsp; <a name="dl_ca0c42db7">S</a>ection <a href="../../code/t22c003.php#22-3-10">22-3-10</a> of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T22C3N10_d19e8676e">S</a>ection <a href="../../code/t22c003.php#22-3-10">22-3-10</a>. <a name="up_c5d7f2668">M</a>agistrates have concurrent civil
+jurisdiction in the following cases:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S1_lv1_01f6553ed">(</a>1) in
+actions arising on contracts for the recovery of money only, if the sum claimed
+does not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span>
+thousand<span class=scstrike> five hundred</span> dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S2_lv1_2394ee996">(</a>2) in
+actions for damages for injury to rights pertaining to the person or personal
+or real property, if the damages claimed do not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span>
+dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S3_lv1_dc7591e6d">(</a>3) in
+actions for a penalty, fine, or forfeiture, when the amount claimed or
+forfeited does not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span>
+dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S4_lv1_f85cf0006">(</a>4) in
+actions commenced by attachment of property, as provided by statute, if the
+debt or damages claimed do not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span>
+dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S5_lv1_0bfb179aa">(</a>5) in
+actions upon a bond conditioned for the payment of money, not exceeding <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span> dollars, though the penalty exceeds that
+sum, the judgment to be given for the sum actually due, and when the payments
+are to be made by installments an action may be brought for each installment as
+it becomes due;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S6_lv1_fd46041f4">(</a>6) in
+any action upon a surety bond taken by them, when the penalty or amount claimed
+does not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span>
+thousand<span class=scstrike> five hundred</span> dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S7_lv1_816f6eb5b">(</a>7) in
+any action upon a judgment rendered in a court of a magistrate or an inferior
+court when it is not prohibited by the South Carolina Rules of Civil Procedure;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S8_lv1_e334924be">(</a>8) to
+take and enter judgment on the confession of a defendant in the manner
+prescribed by law when the amount confessed does not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span> dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S9_lv1_0256bcf80">(</a>9) in
+any action for damages or for fraud in the sale, purchase, or exchange of
+personal property, if the damages claimed do not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span>
+dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S10_lv1_3be156947">(</a>10)
+in all matters between landlord and tenant and the possession of land as
+provided in Chapters 33 through 41<span class=scinsert>,</span><span class=scstrike> of</span> Title 27;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S11_lv1_712c1eea2">(</a>11)
+in any action to recover the possession of personal property claimed, the value
+of which, as stated in the affidavit of the plaintiff, his agent, or attorney,
+does not exceed the sum of <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span>
+dollars;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S12_lv1_7b18ff45b">(</a>12)
+in all actions provided for in this section when a filed counterclaim involves
+a sum not to exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span>
+thousand<span class=scstrike> five hundred</span> dollars, except that this
+limitation does not apply to counterclaims filed in matters between landlord
+and tenant and the possession of land;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S13_lv1_f7ba26bdf">(</a>13)
+in interpleader actions arising from real estate contracts for the recovery of
+earnest money, only if the sum claimed does not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span> thousand<span class=scstrike> five hundred</span>
+dollars; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T22C3N10S14_lv1_3866819f8">(</a>14)
+in actions for damages arising from a person's failure to return leased or
+rented personal property within seventy-two hours after the expiration of the
+lease or rental agreement, such damages to be based on the loss of revenue or
+replacement value of the property, whichever is less, if the damages claimed do
+not exceed <span class=scstrike>seven</span><span class=scinsert>twenty-five</span>
+thousand<span class=scstrike> five hundred</span> dollars;&nbsp; however, the lease
+or rental agreement must set forth the manner in which the amount of the loss
+of revenue or replacement value of the item leased or rented is calculated.</p>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p class=scdirectionallanguage><a name="bs_num_5_6d5255f09">S</a>ECTION 5.&nbsp; <a name="dl_6a3002214">S</a>ection <a href="../../code/t22c003.php#22-3-550">22-3-550</a> of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T22C3N550_c45ca6370">S</a>ection <a href="../../code/t22c003.php#22-3-550">22-3-550</a>.&nbsp; <span class=scstrike>(A)</span> Magistrates have jurisdiction of all
+offenses which may be subject to the penalties of a fine or forfeiture not
+exceeding <span class=scstrike>five hundred</span><span class=scinsert>twenty-five
+thousand</span> dollars, or imprisonment not exceeding <span class=scstrike>thirty
+days</span><span class=scinsert>one year</span>, or both. In addition, a
+magistrate may order restitution in an amount not to exceed the civil
+jurisdictional amount provided in Section <a href="../../code/t22c003.php#22-3-10">22-3-10</a>(2). In determining the amount
+of restitution, the judge shall determine and itemize the actual amount of damage
+or loss in the order. In addition, the judge may set an appropriate payment
+schedule.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; A magistrate may hold a party in contempt for
+failure to pay the restitution ordered if the judge finds the party has the
+ability to pay. In addition, a magistrate may convert any unpaid restitution,
+fines, costs, fees, surcharges, and assessments to a civil judgment as provided
+in Section <a href="../../code/t17c025.php#17-25-323">17-25-323</a>(C).</p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; (B) However, a magistrate
+does not have the power to sentence a person to consecutive terms of
+imprisonment totaling more than ninety days except for convictions resulting
+from violations of Chapter 11, Title 34, pertaining to fraudulent checks, or
+violations of Section <a href="../../code/t16c013.php#16-13-110">16-13-110</a>(B)(1), relating to shoplifting. Further, a
+magistrate must specify an amount of restitution in damages at the time of
+sentencing as an alternative to any imprisonment of more than ninety days which
+is lawfully imposed. The provisions of this subsection do not affect the
+transfer of criminal matters from the general sessions court made pursuant to
+Section <a href="../../code/t22c003.php#22-3-545">22-3-545</a>.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="bs_num_6_01705fdea">S</a>ECTION 6.&nbsp; Sections <a href="../../code/t22c002.php#22-2-10">22-2-10</a> and <a href="../../code/t22c002.php#22-2-15">22-2-15</a> of the S.C. Code are repealed.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section_61603f90b"></a><a name="bs_num_7_40f694904">S</a>ECTION 7.&nbsp; This act takes effect on July 1, 2025.</p>
+
+<p class=scbillendxx>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on February 10, 2026 at 1:10 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
