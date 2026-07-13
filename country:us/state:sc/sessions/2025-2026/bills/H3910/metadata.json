@@ -364,6 +364,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:08Z"
+    "logs_latest_update": "2026-07-13T06:07:08Z",
+    "text_extraction_latest_update": "2026-07-13T13:09:35.821709Z"
   }
 }
