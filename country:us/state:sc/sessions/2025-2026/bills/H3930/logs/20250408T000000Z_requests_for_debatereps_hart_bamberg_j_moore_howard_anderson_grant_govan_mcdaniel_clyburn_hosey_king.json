@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). Hart, Bamberg, J Moore, Howard, Anderson, Grant, Govan, McDaniel, Clyburn, Hosey, King, Garvin, Henderson-Myers, Rivers, Spann-Wilder, Jones, Gibson, Jordan, Forrest, Hixon, Ligon, Gillard, Williams, Haddon",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3930&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3930"
+}

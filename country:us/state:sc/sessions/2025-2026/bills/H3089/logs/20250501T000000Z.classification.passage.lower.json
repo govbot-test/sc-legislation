@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Read third time and sent to Senate",
+    "occurred_at": "2025-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3089&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3089"
+}

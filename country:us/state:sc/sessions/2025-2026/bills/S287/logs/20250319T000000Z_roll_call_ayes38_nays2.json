@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Roll call Ayes-38  Nays-2",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=287&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 287"
+}

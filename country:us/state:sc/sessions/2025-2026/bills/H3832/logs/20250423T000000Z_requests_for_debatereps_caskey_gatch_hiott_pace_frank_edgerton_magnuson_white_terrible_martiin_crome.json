@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). Caskey, Gatch, Hiott, Pace, Frank, Edgerton, Magnuson, White, Terrible, Martiin, Cromer, Gilreath, Reese, Huff, Harris, Hixon, Mitchell",
+    "occurred_at": "2025-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3832&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3832"
+}

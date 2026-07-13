@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: Bannister, Sessions, Jordan, Robbins, Collins, Martin, Lawson, Wickensimer, Landing, Long, Hiott, Forrest, Sanders, Teeple, Oremus, Hartz, Guest, Pedalino, M.M.Smith, Schuessler, Hixon, Chapman, Gatch, McGinnis, Neese, Hardee, Ligon, Taylor, Willis, Vaughan, Brittain, Erickson, Bradley, Rankin, Hager, Whitmire, Gilliam, Crawford, Hewitt, Yow",
+    "occurred_at": "2025-01-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3430&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3430"
+}

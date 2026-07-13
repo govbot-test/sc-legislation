@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: Pope, Wickensimer, Hixon, Forrest, Duncan, Sanders, Chapman, Wooten, Landing, Bradley, Pedalino, Hager, Sessions, Gatch, J.E.Johnson, J.L.Johnson, Rankin, Gilliam, Teeple, Hartnett, Robbins, Anderson, T.Moore, J.Moore, Davis, McGinnis",
+    "occurred_at": "2025-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4519&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 4519"
+}

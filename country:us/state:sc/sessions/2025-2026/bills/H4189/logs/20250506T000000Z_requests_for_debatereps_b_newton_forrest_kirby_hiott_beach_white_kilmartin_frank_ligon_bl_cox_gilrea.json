@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B Newton, Forrest, Kirby, Hiott, Beach, White, Kilmartin, Frank, Ligon, BL Cox, Gilreath, Cromer, Robbins, Gilliam",
+    "occurred_at": "2025-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4189&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 4189"
+}

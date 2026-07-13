@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B Newton, Lawson, Bowers, T Moore, Edgerton, Guffey, Beach, Magnuson, Frank, Hixon, Taylor, Huff, Hewitt, J Moore, Reese, Gilreath, Cromer, Gilliard, Kirby, Bamberg, Erickson, Whitmire, Henderson-Myers, McDaniels, Hosey, Clyburn, Hager, Williams, Govan, King, Bradley, Rankin, Gilliam, Garvin, Spann-Wilder, Rivers, Alexander, Cobb-Hunter, Mitchell, Yow, Grant, JL Johnson, Brittain, McGinnis, JE Johnson, Guest, Weeks, Jones, Dilliard, Hart, Caskey, Wooten, Montgomery, Chapman, Ballentine, Martin",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3927&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3927"
+}

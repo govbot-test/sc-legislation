@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Committee report: Favorable with amendment Agriculture, Natural Resources and Environmental Affairs",
+    "occurred_at": "2025-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3872&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3872"
+}

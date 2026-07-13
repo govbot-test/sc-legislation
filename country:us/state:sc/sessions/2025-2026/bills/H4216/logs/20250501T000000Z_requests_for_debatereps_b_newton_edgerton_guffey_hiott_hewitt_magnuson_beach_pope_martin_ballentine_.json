@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B Newton, Edgerton, Guffey, Hiott, Hewitt, Magnuson, Beach, Pope, Martin, Ballentine, White, Kilmartin, Frank, Taylor, Harris, Kirby, Rivers, Anderson, Gilliard, Bamberg, Spann-Wilder, Garvin, Dilliard, Weeks, Jones",
+    "occurred_at": "2025-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4216&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 4216"
+}

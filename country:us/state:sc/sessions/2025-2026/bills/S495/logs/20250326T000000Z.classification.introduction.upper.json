@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced, read first time, placed on calendar without reference",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=495&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 495"
+}

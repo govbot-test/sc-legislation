@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). Herbkersman, B Newton, McDaniel, Lawson, Hixon, Hewitt, Taylor, Oremus, Harris, Vromer, BL Cox, Holman, MM Smith, Martin, Robbins, Gatch, Gilliard, Anderson, Rivers, King, Bamberg, JL Johnson, Hager, Henderson-Myers, JA Moore, Williams, Govan, Grant, Spann-Wilder, Crawford, Guest, T Moore, McGinnis, Jones, Huff, White",
+    "occurred_at": "2025-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3309&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3309"
+}

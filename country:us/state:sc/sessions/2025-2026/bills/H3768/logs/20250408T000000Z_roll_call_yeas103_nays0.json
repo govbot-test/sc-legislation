@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Roll call Yeas-103  Nays-0",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3768&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3768"
+}
