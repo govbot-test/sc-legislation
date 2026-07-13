@@ -1,0 +1,8 @@
+📊 Text Extraction Summary for sc
+========================================
+
+Total bills:                 2244
+Processed:                   2244
+Successful:                  1227
+Errors:                      0
+Skipped (already processed): 1017
