@@ -1,0 +1,814 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillfooter, li.scbillfooter, div.scbillfooter
+	{mso-style-name:sc_bill_footer;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sctablecodifiedsection, li.sctablecodifiedsection, div.sctablecodifiedsection
+	{mso-style-name:sc_table_codified_section;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sctableln, li.sctableln, div.sctableln
+	{mso-style-name:sc_table_ln;
+	margin:0in;
+	text-align:right;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection3
+	{page:WordSection3;}
+@page WordSection4
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection4
+	{page:WordSection4;}
+@page WordSection5
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection5
+	{page:WordSection5;}
+@page WordSection6
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection6
+	{page:WordSection6;}
+@page WordSection7
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection7
+	{page:WordSection7;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 3477: Maximum potential employment benefits - South Carolina Legislature Online</title><meta name="keywords" content="Maximum potential employment benefits"><!-- http://www.scstatehouse.gov/sess126_2025-2026/bills/3477.htm --></head>
+
+<body lang=EN-US style='word-wrap:break-word'><div class="statusCoverSheet WordSection1"><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p>Download <a href="3477.docx">This Bill</a> in Microsoft Word Format</p><p><s>Indicates Matter Stricken</s><br><span style="text-decoration: underline;">Indicates New Matter</span></p><p style="font-weight: bold;">H. 3477</p><p style="font-weight: bold;">STATUS INFORMATION</p><p>General Bill<br>Sponsors: Reps. Caskey, Bannister, G.M. Smith, B. Newton, Hewitt, Long, Wooten, C. Mitchell, Pope, W. Newton, Sessions, Neese, Weeks, Bowers, Moss, Hartz, Lawson, Rankin, Guest, Brittain, Lowe, Sanders, M.M. Smith, T. Moore, Ballentine, Martin, Ligon, Oremus, Pedalino, Calhoon, Davis, Taylor, Holman, Erickson, Brewer, Gatch, Yow, Haddon, Hixon, Hiott, Wickensimer, Jordan, Hardee and Chapman<br>Document Path: LC-0075WAB25.docx<br></p><p>Introduced in the House on January 14, 2025<br>Introduced in the Senate on February 24, 2026<br>Last Amended on February 18, 2026
+<br><span>Currently residing in the Senate Committee on<span style="font-weight: bold;"> Labor, Commerce and Industry</span></span></p>Summary: Maximum potential employment benefits<p style="font-weight: bold;">HISTORY OF LEGISLATIVE ACTIONS</p><table style="border-collapse: collapse;"><thead>    <tr style="border-bottom: 1px solid #000;">      <th style="text-align: left; padding: .35rem;">Date</th>      <th style="text-align: left; padding: .35rem;">Body</th>      <th style="text-align: left; padding: .35rem;">Action Description with journal page number</th>    </tr>  </thead><tbody><tr>    <td style="padding: .35rem;">12/5/2024</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Prefiled
+ </td>  </tr><tr>    <td style="padding: .35rem;">12/5/2024</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Referred to Committee on <span style="font-weight: bold;">Ways and Means</span> </td>  </tr><tr>    <td style="padding: .35rem;">1/14/2025</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Introduced and read first time (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj25/20250114.htm#p218">House Journal-page 218</a>)</td>  </tr><tr>    <td style="padding: .35rem;">1/14/2025</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Referred to Committee on <span style="font-weight: bold;">Ways and Means</span>  (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj25/20250114.htm#p218">House Journal-page 218</a>)</td>  </tr><tr>    <td style="padding: .35rem;">1/28/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor:
+ Sessions, Neese
+ </td>  </tr><tr>    <td style="padding: .35rem;">1/29/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Weeks
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/3/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Bowers, 
+ Moss, Hartz, Lawson, Rankin, Guest, 
+ Brittain, Lowe, Sanders, M.M. Smith, T.
+ Moore, Ballentine, Martin, Ligon, Oremus, 
+ Pedalino, Calhoon, Davis, Taylor, Holman, 
+ Erickson, Brewer, Gatch, Yow, Haddon, 
+ Hixon, Hiott, Wickensimer, Jordan, Hardee
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/3/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Committee report: Favorable with amendment <span style="font-weight: bold;">Ways and Means</span>  (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260203.htm#p4">House Journal-page 4</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/4/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned until Tues., 2-10-26 (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260204.htm#p18">House Journal-page 18</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/10/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Debate adjourned (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260210.htm#p17">House Journal-page 17</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/11/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Requests for debate-Rep(s). Hewitt, B Newton,
+ Hiott, Duncan, Lawson, McCravy, Caskey, Martin,
+ Calhoon, White, Kirby, Brittain (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260211.htm#p14">House Journal-page 14</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/18/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Member(s) request name added as sponsor: Chapman
+ </td>  </tr><tr>    <td style="padding: .35rem;">2/18/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Amended (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260218.htm#p17">House Journal-page 17</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/18/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Read second time (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260218.htm#p17">House Journal-page 17</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/18/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Roll call Yeas-114 Nays-0 (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260218.htm#p23">House Journal-page 23</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/19/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Read third time and sent to Senate (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260219.htm#p31">House Journal-page 31</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/19/2026</td>    <td style="padding: .35rem;">House</td>    <td style="padding: .35rem;">Roll call Yeas-107 Nays-0 (<a href="https://www.scstatehouse.gov/sess126_2025-2026/hj26/20260219.htm#p32">House Journal-page 32</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/24/2026</td>    <td style="padding: .35rem;">Senate</td>    <td style="padding: .35rem;">Introduced and read first time (<a href="https://www.scstatehouse.gov/sess126_2025-2026/sj26/20260224.htm#p6">Senate Journal-page 6</a>)</td>  </tr><tr>    <td style="padding: .35rem;">2/24/2026</td>    <td style="padding: .35rem;">Senate</td>    <td style="padding: .35rem;">Referred to Committee on <span style="font-weight: bold;">Labor, Commerce and Industry</span>  (<a href="https://www.scstatehouse.gov/sess126_2025-2026/sj26/20260224.htm#p6">Senate Journal-page 6</a>)</td>  </tr></tbody></table><p>View the latest <a href="/billsearch.php?billnumbers=3477&amp;session126&amp;summary=B">legislative information</a> at the website</p><p style="font-weight: bold;">VERSIONS OF THIS BILL</p><p><a href="https://www.scstatehouse.gov/sess126_2025-2026/prever/3477_20241205.htm">12/05/2024</a><br><a href="https://www.scstatehouse.gov/sess126_2025-2026/prever/3477_20260203.htm">02/03/2026</a><br><a href="https://www.scstatehouse.gov/sess126_2025-2026/prever/3477_20260218.htm">02/18/2026</a><br></p><br><br></div>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken><a name="open_doc_here"></a>Indicates Matter
+Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Amended</p>
+
+<p class=sccoversheetinfo>February 18, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>H. 3477</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6>Introduced by Reps. Caskey, Bannister, G. M.
+Smith, B. Newton, Hewitt, Long, Wooten, C. Mitchell, Pope, W. Newton, Sessions,
+Neese, Weeks, Bowers, Moss, Hartz, Lawson, Rankin, Guest, Brittain, Lowe,
+Sanders, M. M. Smith, T. Moore, Ballentine, Martin, Ligon, Oremus, Pedalino,
+Calhoon, Davis, Taylor, Holman, Erickson, Brewer, Gatch, Yow, Haddon, Hixon,
+Hiott, Wickensimer, Jordan, Hardee and Chapman </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetinfo>S. Printed 2/18/26--H.</p>
+
+<p class=sccoversheetreadfirst>Read the first time January 14, 2025</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________<br clear=all style='page-break-before:always'>
+</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING
+SECTION <a href="../../code/t41c035.php#41-35-50">41-35-50</a>, RELATING TO THE MAXIMUM UNEMPLOYMENT INSURANCE BENEFITS
+ALLOWED IN A BENEFIT YEAR, SO AS TO BASE THE DURATION OF UNEMPLOYMENT BENEFITS
+ALLOWED ON SEASONALLY ADJUSTED STATEWIDE UNEMPLOYMENT RATES, TO PROVIDE
+REQUIREMENTS FOR CALCULATING THE RATES, AND TO PROVIDE THE DEPARTMENT OF
+EMPLOYMENT AND WORKFORCE SHALL PROMULGATE CERTAIN RELATED REGULATIONS; AND BY
+AMENDING SECTION <a href="../../code/t41c035.php#41-35-120">41-35-120</a>, RELATING TO DISQUALIFICATION FOR BENEFITS.<a name="at_eb79c512b"></a></p>
+
+<p class=scnoncodifiedsection>&nbsp;&nbsp;&nbsp; Amend Title To Conform</p>
+
+<p class=scnoncodifiedsection>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_525d5fe4d">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_4175d3722">S</a>ECTION 1.&nbsp; <a name="dl_6acf06667">S</a>ection <a href="../../code/t41c035.php#41-35-50">41-35-50</a> of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T41C35N50_934ae4662">S</a>ection <a href="../../code/t41c035.php#41-35-50">41-35-50</a>.&nbsp; <a name="up_ee6dc6c6"><span class=scstrike>T</span></a><span class=scstrike>he maximum potential benefits of any insured worker in a benefit
+year are the lesser of:</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N50S1_lv1_7584b27dR">(</a>1) twenty times his weekly benefit
+amount;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N50S2_lv1_5bb88018R">(</a>2) one-third of his wages for insured
+work paid during his base period.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; If the resulting amount is
+not a multiple of one dollar, the amount must be reduced to the next lower
+multiple of one dollar, except that no insured worker may receive benefits in a
+benefit year unless,</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;subsequent to the beginning of
+the next preceding benefit year during which he received benefits, he performed
+"insured work" as defined in Section <a href="../../code/t41c027.php#41-27-300">41-27-300</a> and earned wages in the employ
+of a single employer in an amount equal to not less than eight times the weekly
+benefit amount established for the individual in the preceding benefit year</span><a name="ss_T41C35N50SA_lv2_e6e6246a4"><span class=scinsert>(</span></a><span class=scinsert>A) The maximum number of weeks an individual is allowed to
+receive one hundred percent of his or her weekly benefit amount depends on the
+seasonally adjusted statewide unemployment rate that applies to the three-month
+reference period in which the effective date of the claim falls. One
+three-month reference period begins on January first, the second three-month
+reference period begins on April first, the third three-month reference period
+begins on July first, and the fourth three-month reference period begins on
+October first. For the reference period that begins January first, the average
+of the seasonally adjusted unemployment rates for the State for the preceding
+months of August, September, and October apply. For the reference period that
+begins April first, the average of the seasonally adjusted unemployment rates
+for the State for the preceding months of</span></p>
+
+</div>
+
+<span class=scinsert><span style='font-size:11.0pt;line-height:150%;font-family:
+"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span></span>
+
+<div class=WordSection3>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;November, December, and
+January apply. For the<a name="up_deae53af"> </a>reference period that begins
+July first, the average of the seasonally adjusted unemployment rates for the
+State for the preceding months of February, March, and April apply. For the
+reference period that begins October first, the average of the seasonally
+adjusted unemployment rates for the State for the preceding months of May,
+June, and July apply. The Department of Employment and Workforce must use the
+most recent seasonally adjusted unemployment rates determined by the U.S.
+Department of Labor, Bureau of Labor Statistics.</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 summary="table_draft_1731441987087" width=650 style='margin-left:-.5in;
+ border-collapse:collapse'>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>7</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Seasonally Adjusted
+  Unemployment Rate</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Number of Weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>8</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Less than or equal to
+  5.5% </span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>12 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>9</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 5.5% up to
+  6%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>13 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>10</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 6% up to
+  6.5%&nbsp; </span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>14 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>11</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 6.5% up to
+  7%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>15 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>12</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 7% up to
+  7.5%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>16 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>13</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 7.5% up to
+  8%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>17 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>14</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 8% up to
+  8.5%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>18 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>15</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 8.5% up to
+  9%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>19 weeks</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sctableln>16</p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Greater than 9%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>20 weeks</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<span class=scinsert><span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:auto'>
+</span></span>
+
+<div class=WordSection4>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N50SB_lv2_129c2602c">(</a>B) The maximum total benefits paid to
+an individual in a benefit year equals the individual's weekly benefit amount
+allowed under Section <a href="../../code/t41c035.php#41-35-40">41-35-40</a> multiplied by the number of weeks allowed under
+subsection (A).</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N50SC_lv2_812f7acea">(</a>C) The department shall promulgate
+regulations to ensure compliance with job search requirements and to prevent
+fraud. These regulations may include verification of attendance at job
+interviews.</span></p>
+
+<p class=scemptyline><span class=scstrike><span style='text-decoration:none'>&nbsp;</span></span></p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_742aec69f">S</a>ECTION 2.&nbsp; <a name="dl_2cf05ea93">S</a>ection <a href="../../code/t41c035.php#41-35-120">41-35-120</a> (2), (3), and (4) of the S.C. Code is
+amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T41C35N120_72298f0b8">&nbsp;&nbsp;&nbsp; </a><a name="ss_T41C35N120S2_lv1_02f408cfa">(</a>2)<a name="ss_T41C35N120Sa_lv2_8a8dd1d7d">(</a>a) Discharge for misconduct connected
+with the employment. If the department finds that he has been discharged for
+misconduct connected with his most recent work prior to filing a request for
+determination of insured status or a request for initiation of a claim series
+within an established benefit year, with ineligibility beginning with the
+effective date of the request, and continuing for the<span class=scstrike> next
+twenty weeks</span><span class=scinsert> maximum duration of benefits
+applicable to the claim</span>, in addition to the waiting period, with a corresponding
+and mandatory reduction of the insured worker's benefits to be calculated by
+multiplying his weekly benefit amount by<span class=scstrike> twenty</span><span class=scinsert> the maximum duration of benefits applicable to the claim</span>.
+For the purposes of this item, "misconduct" is limited to conduct evincing such
+wilful and wanton disregard of an employer's interests as is found in
+deliberate violations or disregard of standards of behavior which the employer
+has the right to expect of his employee, or in the carelessness or negligence
+of such degree or recurrence as to manifest equal culpability, wrongful intent,
+or evil design, or to show an intentional and substantial disregard of the
+employer's interest or of the employee's duties</p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection5>
+
+<p class=sccodifiedsection>and obligations to his employer. No finding of
+misconduct may be made for discharge resulting from an extreme hardship,
+emergency, sickness, or other extraordinary circumstance.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Sb_lv2_ae596a60a">(</a>b)
+If the department finds that he has been discharged for cause, other than
+misconduct as defined in item (2)(a), connected with his most recent work prior
+to filing a request for determination of insured status or a request for
+initiation of a claim series within an established benefit year, then the
+department must find him partially ineligible. The ineligibility must begin
+with the effective date of the request, and continuing not less than five nor
+more than<span class=scstrike> the next nineteen weeks</span><span class=scinsert> one week less than the<a name="up_2b297948"> </a>maximum
+duration of benefits applicable to the claim</span>, in addition to the waiting
+period. A corresponding and mandatory reduction of the insured worker's
+benefits, to be calculated by multiplying his weekly benefit amount by the
+number of weeks of his disqualification, must be made. The ineligibility period
+must be determined by the department in each case according to the seriousness
+of the cause for discharge. Discharge resulting from substandard performance
+due to inefficiency, inability, or incapacity shall not serve as a basis for
+disqualification under either subitem (a) or (b) of this item.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120S3_lv1_fdb4639d8">(</a>3)<a name="ss_T41C35N120Sa_lv2_2ddb8b9e4">(</a>a) Discharge for illegal drug use,
+and is ineligible for benefits beginning with the effective date of the request
+and continuing <span class=scstrike>until he has secured employment and shows
+to the satisfaction of the department that he has performed services in
+employment as defined by Chapters 27 through 41 of this title and earned wages
+for those services equal to at least eight times the weekly benefit amount of
+his claim</span><span class=scinsert> for the maximum duration of benefits
+applicable to the claim, in addition to the waiting period, with a
+corresponding and mandatory reduction of the insured worker's benefits to be
+calculated by multiplying his weekly benefit amount by the maximum duration of
+benefits applicable to the claim</span> if the:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Si_lv3_f87d43d86">(</a>i)
+company has communicated a policy prohibiting the illegal use of drugs, the
+violation of</p>
+
+<p class=sccodifiedsection>&nbsp;which may result in termination;&nbsp; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Sii_lv3_1aea209f8">(</a>ii)
+insured worker fails or refuses to provide a specimen pursuant to a request
+from the employer, or otherwise fails or refuses to cooperate by providing an
+adulterated specimen;&nbsp; or</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Siii_lv3_e26b3bb16">(</a>iii)
+insured worker provides a blood, hair, oral fluid, or urine specimen during a
+drug test administered on behalf of the employer, which tests positive for
+illegal drugs or legal drugs used unlawfully, provided:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120SA_lv4_5a47c19d1">(</a>A) the sample was collected and
+labeled by a licensed health care professional or another individual authorized
+to collect and label test samples by federal or state law, including law
+enforcement personnel;&nbsp; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120SB_lv4_3e524dedc">(</a>B) the test was performed by a
+laboratory certified to perform such tests by the United States Department of
+Health and Human Services (USDHHS)/Substance Abuse Mental Health Services
+Administration (SAMHSA), the College of American Pathologists or the State Law
+Enforcement Division;&nbsp; and</p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection6>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120SC_lv4_78668672d">(</a>C) an initial positive test was
+confirmed on the specimen using the gas chromatography/mass spectrometry
+method, or an equivalent or a more accurate scientifically accepted method
+approved by USDHHS/SAMHSA;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Siv_lv3_2d601d750">(</a>iv)
+for purposes of this item, "unlawfully" means without a prescription.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Sb_lv2_3873551fe">(</a>b)
+If an insured worker makes an admission pursuant to the employer's policy,
+which provides that voluntary admissions made before the employer's request to
+the employee to submit to testing may protect an employee from immediate
+termination, then the admission is inadmissible for purposes of<a name="up_7a1a72bd"> </a>this section as long as the:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Si_lv3_ab52ab20b">(</a>i)
+employer has communicated a written policy, which provides protection from
+immediate termination for employees who voluntarily admit prohibited drug use
+before the employer's request to submit to a test; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Sii_lv3_e973fb872">(</a>ii)
+employee makes the admission specifically pursuant to the employer's policy.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120Sc_lv2_a1b2d46b9">(</a>c)
+Information, interviews, reports, and drug-test results, written or otherwise,
+received by an employer through a drug-testing program may be used or received
+in evidence in proceedings conducted pursuant to the provisions of this title
+for the purposes of determining eligibility for unemployment compensation,
+including administrative or judicial appeal.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C35N120S4_lv1_8e3dafa07">(</a>4) <span class=scstrike>Discharge for gross misconduct, and is ineligible for benefits
+beginning with the effective date of the request and continuing until he has
+secured employment and shows to the satisfaction of the department that he has
+performed services in employment as defined by Chapters 27 through 41 of this
+title and earned wages for those services equal to at least eight times the
+weekly benefit amount of his claim if he is discharged due to:</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (i) wilful or reckless
+employee damage to employer property that results in damage of more than fifty
+dollars;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (ii) employee
+consumption of alcohol or being under the influence of alcohol on employer
+property in violation of a written company policy restricting or prohibiting
+consumption of alcohol;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iii) employee theft of
+items valued at more than fifty dollars;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (iv) failure to comply
+with applicable state or federal drug and alcohol testing and use regulations
+including, but not limited to, 49 C.F.R. part 40 and part 382 of the federal
+motor carrier safety regulations, while on the job or on duty, and regulations
+applicable for employees performing transportation and other safety sensitive
+job functions as defined by the federal government;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (v) employee committing
+criminal assault or battery of another employee or a customer;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (vi) employee committing
+criminal abuse of patient or child in his professional care;</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (vii) employee
+insubordination, which is defined as wilful failure to comply with a lawful,
+reasonable order of a supervisor directly related to the employee's employment
+as described in an</span></p>
+
+</div>
+
+<span class=scstrike><span style='font-size:11.0pt;line-height:150%;font-family:
+"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span></span>
+
+<div class=WordSection7>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;applicable written job
+description;&nbsp; or</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (viii) employee wilful
+neglect of duty directly related to the employee's employment as described in
+an applicable written job description</span><a name="up_7cbf7654"><span class=scinsert>R</span></a><span class=scinsert>eserved</span>.</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_a1f496634">SECTION 3</a>&nbsp;&nbsp; <a name="dl_ed5ec0ef6">A</a>rticle 5, Chapter 27, Title 41 of the S.C. Code is
+amended by adding:</p>
+
+<p class=scnewcodesection><span class=scinsert><span style='text-decoration:
+ none'>&nbsp;</span></span></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T41C27N660_4c4da63af">S</a>ection <a href="../../code/t41c027.php#41-27-660">41-27-660</a>. <a name="up_b2eee6ce">U</a>nless the context clearly requires
+otherwise, the Department of Employment and Workforce is authorized to send by
+electronic means any report, notice, demand, bill, or other communication or
+item that is statutorily required in Chapters 27 through 41 to be mailed. Any
+reference to a requirement that something be mailed must be construed to mean
+it may be sent physically by the United States Postal Service or a commercial
+or courier or electronically or digitally by electronic transmission, including
+email or other digital messaging systems.</p>
+
+<p class=scemptyline><span class=scinsert><span style='text-decoration:none'>&nbsp;</span></span></p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_48f406802">S</a>ECTION 4.&nbsp; <a name="dl_ff267f269">A</a>rticle 5, Chapter 27, Title 41 of the S.C. Code is
+amended by adding:</p>
+
+<p class=scnewcodesection><span class=scinsert><span style='text-decoration:
+ none'>&nbsp;</span></span></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T41C27N315_85088018c">S</a>ection <a href="../../code/t41c027.php#41-27-315">41-27-315</a>. <a name="up_dee4d1b7"> "</a>Mailed" means sent to a recipient:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C27N315S1_lv1_06657d0e">(</a>1)
+physically by the United States Postal Service or a private or commercial
+courier; or</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C27N315S2_lv1_69374635">(</a>2)
+electronically or digitally by electronic transmission, including email or
+other digital messaging systems. Any reference to a requirement in this chapter
+that a report, notice, demand, bill, or other item be mailed must be construed
+to mean it may be transmitted physically as provided in item (1) or
+electronically as provided in this item.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section"></a><a name="bs_num_5_lastsection">S</a>ECTION 5.&nbsp; This act takes effect upon approval
+by the Governor and is applicable to unemployment insurance claims with an
+effective date on or after January 1, 2027.</p>
+
+<p class=scnoncodifiedsection>&nbsp;</p>
+
+<p class=scbillendxx>----XX----</p>
+
+<p class=scbillendxx>&nbsp;</p>
+
+</div>
+
+<p>This web page was last updated on February 18, 2026 at 7:58 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
