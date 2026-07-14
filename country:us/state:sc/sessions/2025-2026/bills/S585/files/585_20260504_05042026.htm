@@ -1,0 +1,534 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 585 Text of Previous Version (May. 04, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Motor Vehicle Registration"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 585</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken>Indicates Matter Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>House Amendments Amended Returned To House</p>
+
+<p class=sccoversheetinfo>April 29, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>S. 585</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Senators Tedder, Adams, Devine, Zell and Sutton </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetreadfirst>S. Printed 4/29/26--S.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SEC
+5/4/2026 11:13 AM]</p>
+
+<p class=sccoversheetreadfirst>Read the first time April 16, 2025</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE
+"SAFEGUARDING AMERICAN FAMILIES EVERYWHERE (SAFE) ACT" AND BY ADDING SECTION
+56-3-125 SO AS TO PROVIDE APPLICATIONS FOR MOTOR VEHICLE REGISTRATIONS MUST
+INCLUDE LANGUAGE ALLOWING APPLICANTS TO VOLUNTARILY INDICATE THEY OR THEIR
+FAMILY MEMBERS HAVE BEEN DIAGNOSED WITH CERTAIN DISABILITIES OR DISORDERS, AND
+TO REQUIRE THE DEPARTMENT OF MOTOR VEHICLES TO INCLUDE THE DESIGNATION "SAFE"
+IN THE MOTOR VEHICLE'S RECORDS.<a name="at_2cf406b62"></a></p>
+
+<p class=scnoncodifiedsection>&nbsp;&nbsp;&nbsp; Amend Title To Conform</p>
+
+<p class=scnoncodifiedsection>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_81d2e6ee1">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="citing_act_0a26db803"></a><a name="bs_num_1_bac9e6319">S</a>ECTION 1.&nbsp; <span style='color:black;background:
+white'>This act may be cited as the "Safeguarding American Families Everywhere
+(SAFE) Act".</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_157779d2e">S</a>ECTION 2.&nbsp; <a name="dl_f1d31f3e1">S</a>ection 56-3-115 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T56C3N115_7e5f0fb1f">S</a>ection
+56-3-115.&nbsp; <a name="ss_T56C3N115SA_lv1_bb12c5f08"><span class=scinsert>(</span></a><span class=scinsert>A) </span><span class=scstrike>The Department of Motor Vehicles
+may add a notation to a private passenger-carrying motor vehicle registration
+to indicate that the driver</span><span class=scinsert>The registered owner or
+co-owner of a private passenger carrying automobile may voluntarily disclose to
+the department that he or his child or ward has been diagnosed with certain
+disabilities or disorders. Upon presenting an original certificate from a licensed
+physician as defined in Section 40-47-20 and other documentation determined
+necessary by the department, the department may add the notation "SAFE" to the
+vehicle registration to indicate that the person has been diagnosed with any of
+the following disabilities or disorders:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S1_lv2_840fe596d">(</a>1)</span> <span class=scstrike>may be</span>
+deaf or hard of hearing. The application for <span class=scstrike>this special
+motor vehicle</span><span class=scinsert>a</span> registration notation <span class=scinsert>pursuant to this subsection </span>must include an original
+certificate from a licensed physician<span class=scstrike>,</span> as defined
+in Section 40-47-20, or <span class=scinsert>a </span>licensed audiologist<span class=scstrike>,</span> as defined in Section <span class=scstrike>40-67-220</span><span class=scinsert>40-67-20</span>, that certifies that the <span class=scstrike>applicant</span><span class=scinsert>registered owner or his child or ward</span> has a permanent,
+uncorrectable hearing loss of forty decibels or more in one or both ears<span class=scstrike>.</span><span class=scinsert>;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S2_lv2_f72a9d460">(</a>2) autism;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S3_lv2_d36f8de11">(</a>3) attention deficit hyperactivity
+disorder;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S4_lv2_c1582fa3d">(</a>4) Down syndrome;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S5_lv2_8341d6429">(</a>5) Alzheimer's disease;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S6_lv2_b6099d528">(</a>6) traumatic brain injury;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S7_lv2_adcd4a906">(</a>7) post-traumatic stress disorder;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S8_lv2_5ad7edc1f">(</a>8) diabetes;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S9_lv2_a32a83261">(</a>9) an autoimmune disorder;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S10_lv2_2397a42f4">(</a>10) blindness; or</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115S11_lv2_444599da3">(</a>11) any other mentally or physically
+limiting disorder.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115SB_lv1_aa87be9ba">(</a>B)</span> The<span class=scstrike>
+"deaf or hard of hearing" notation</span> <span class=scinsert>"SAFE" notation
+must </span><span class=scstrike>would </span>only appear when <span class=scstrike>a </span>law enforcement <span class=scinsert>runs a </span>check
+<span class=scstrike>is run </span>on the vehicle's license plate through the
+department's online interface <span class=scstrike>with law enforcement </span>to
+alert the officer that the driver <span class=scinsert>or a passenger </span>may
+<span class=scstrike>be deaf or hard of hearing</span><span class=scinsert>have
+a disability or disorder contained in subsection (A)</span>.<span class=scinsert> The department may not include in the vehicle registration
+personal identifying information of, or any diagnosis of, a person for whom a
+diagnosis is indicated.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115SC_lv1_25d765cdb">(</a>C) The department must allow a motor
+vehicle owner or co-owner to update a motor vehicle registration to include or
+remove the "SAFE" notation at any time. The child or ward may remove himself as
+a designee of the "SAFE" notation upon attaining the age of eighteen and submitting
+documentation determined necessary by the department.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N115SD_lv1_ee75a3317">(</a>D) No cause of action may arise nor
+may liability be imposed against any person, government entity, or government
+entity officer, agent, or employee arising from any action taken by any person
+in reliance upon information indicated on a person's vehicle registration when
+the &nbsp;registered owner or co-owner or his child or ward, a licensed physician,
+or a licensed audiologist provided the information on the forms required
+pursuant to this section.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_6bb042ed8">S</a>ECTION 3.&nbsp; <a name="dl_7c85d3971">S</a>ection 56-3-1910(A) of the S.C. Code is amended to
+read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T56C3N1910_d7c91a124">&nbsp;&nbsp;&nbsp; </a><a name="ss_T56C3N1910SA_lv1_15047a429">(</a>A) As used in this article,
+"handicapped" means a person who has one or more of the following conditions:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S1_lv2_2b32f0588">(</a>1)
+an inability to ordinarily walk one hundred feet nonstop without aggravating an
+existing medical condition, including the increase of pain;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S2_lv2_9c8749e62">(</a>2)
+an inability to ordinarily walk without the use of, or assistance from a brace,
+cane, crutch, another person, prosthetic device, wheelchair, or other assistive
+device;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S3_lv2_6d6de748a">(</a>3)
+a restriction by lung disease to the extent that the person's forced expiratory
+volume for one second when measured by spirometry is less than one liter, or
+the arterial oxygen tension is less than sixty mm/hg on room air at rest;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S4_lv2_5ae624bd3">(</a>4)
+requires use of portable oxygen;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S5_lv2_432c302d0">(</a>5)
+a cardiac condition to the extent that the person's functional limitations are
+classified in severity as Class III or Class IV according to standards
+established by the American Heart Association. If the person's status improves
+to a higher level, for example as a result of bypass surgery or
+transplantation, he no longer meets this criteria;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S6_lv2_fe82744fc">(</a>6)
+a substantial limitation in the ability to walk due to an arthritic,
+neurological, or orthopedic condition, for example, coordination problems and
+muscle spasticity due to conditions that include Parkinson's disease, cerebral
+palsy, or multiple sclerosis;<span class=scstrike> or</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S7_lv2_faee1f57d">(</a>7)
+blindness<span class=scinsert>; or</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N1910S8_lv2_fee9426f3">(</a>8) autism if the condition causes
+significant safety or mobility risks in parking environments</span>.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_sub_A_46c72bf7e">S</a>ECTION
+4.A.&nbsp; <a name="dl_e2c353d76">S</a>ection 56-3-14950(A) of the S.C. Code is
+amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T56C3N14950_37d611f84">&nbsp;&nbsp;&nbsp; </a><a name="ss_T56C3N14950SA_lv1_53c8ce888">(</a>A) The department may issue the
+following special license plates reflective of campaign medals for private
+passenger vehicles and motorcycles to active service members or prior service
+members who participated in the following military campaigns:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S1_lv2_43a5795bc">(</a>1)
+World War II Veteran</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S2_lv2_c9f71b28f">(</a>2)
+Pearl Harbor Survivor</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S3_lv2_ade907794">(</a>3)
+Normandy Invasion Survivor</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S4_lv2_5e3028a05">(</a>4)
+Korean War</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S5_lv2_3fb20ce02">(</a>5)
+Vietnam War</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S6_lv2_6d1824d36">(</a>6)
+Operation Desert Shield/Desert Storm</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S7_lv2_4ce99ed8f">(</a>7)
+Operation Iraqi Freedom</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S8_lv2_253e45d39">(</a>8)
+Operation Enduring Freedom<span class=scstrike>.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14950S9_lv2_32e37b101">(</a>9) Operation Inherent Resolve.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="bs_num_4_sub_B_fd58536d0">B</a>. <a name="eff_within_section_85d24d277">T</a>his SECTION takes effect six months
+after approval of the license plate design.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_5_sub_A_40896fe97">S</a>ECTION
+5.A.&nbsp; <a name="dl_59f323c33">S</a>ection 56-3-14970(A) of the S.C. Code is
+amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T56C3N14970_2835ad9e2">&nbsp;&nbsp;&nbsp; </a><a name="ss_T56C3N14970SA_lv1_4398932be">(</a>A) The department may issue the
+following special license plates reflective of military service for private
+passenger vehicles and motorcycles to active or prior service members
+associated with the following military components or designations:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S1_lv2_a864d1f7f">(</a>1)
+Veteran or Veteran wheelchair if the registrant qualifies for handicapped
+parking pursuant to Section 56-3-1910(H)</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S2_lv2_db7a25491">(</a>2)
+Female Veteran or Female Veteran wheelchair if the registrant qualifies for
+handicapped parking pursuant to Section 56-3-1910(H)</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S3_lv2_39e1e3096">(</a>3)
+Combat-Related Disabled Veteran - the registrant must have a combat-related
+disability as evidenced by a letter from the U.S. Department of Veterans
+Affairs defining a combat and operations-related disability</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S4_lv2_8ede2d0b9">(</a>4)
+Army</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S5_lv2_62646b81f">(</a>5)
+Marine Corps</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S6_lv2_0bde7613f">(</a>6)
+Navy</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S7_lv2_3bd7b5940">(</a>7)
+Air Force</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S8_lv2_13ec06dc9">(</a>8)
+Coast Guard</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S9_lv2_5a51b428b">(</a>9)
+US Space Force</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S10_lv2_84e7cff3b">(</a>10)
+National Guard- Army</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S11_lv2_5da44edaa">(</a>11)
+National Guard- Air</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S12_lv2_710e38b06">(</a>12)
+National Guard- Retired</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S13_lv2_dc2503f71">(</a>13)
+US Military Reserve- Army</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S14_lv2_4171c7156">(</a>14)
+US Military Reserve- Marine Corps</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S15_lv2_7917545f6">(</a>15)
+US Military Reserve- Navy</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S16_lv2_631717557">(</a>16)
+US Military Reserve- Air Force</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S17_lv2_2b8b44d8f">(</a>17)
+US Military Reserve- Coast Guard</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S18_lv2_3e3396b19">(</a>18)
+US Armed Forces Retired</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S19_lv2_aa60d7384">(</a>19)
+State Guard<span class=scstrike>.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C3N14970S20_lv2_270deaed8">(</a>20) Armed Forces Surviving Spouse -
+available to the surviving spouse of a military veteran.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="bs_num_5_sub_B_36a604a32">B</a>. <a name="eff_within_section_4fa291197">T</a>his SECTION takes effect six months
+after approval of the license plate design.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section_8b4fcbed2"></a><a name="bs_num_6_bb9deb88a">S</a>ECTION 6.&nbsp; This act takes effect one year after
+approval by the Governor.</p>
+
+<p class=scbillendxx>----XX----</p>
+
+<p class=scbillendxx>&nbsp;</p>
+
+</div>
+
+<p>This web page was last updated on May 04, 2026 at 11:14 AM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
