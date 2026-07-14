@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S 415",
-  "title": "Kin-Specific Licensing Standards",
+  "title": "Child Welfare Caregivers",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 63-7-20, RELATING TO CHILDREN'S CODE DEFINITIONS, SO AS TO ADD THE TERM \"LICENSED\"; BY AMENDING SECTION 63-9-1110, RELATING TO ADOPTION BY A STEPPARENT OR RELATIVE, SO AS TO APPLY TO CHILDREN PLACED WITH RELATIVES OR FICTIVE KIN FOR THE PURPOSE OF ADOPTION; BY AMENDING SECTION 63-7-2320, RELATING TO THE KINSHIP FOSTER CARE PROGRAM, SO AS TO LOWER THE MINIMUM AGE OF A KINSHIP FOSTER PARENT FROM TWENTY-ONE TO EIGHTEEN AND TO ALLOW THE DEPARTMENT TO USE DIFFERENT STANDARDS WHEN LICENSING RELATIVES AND FICTIVE KIN; BY AMENDING SECTION 63-7-2350, RELATING TO RESTRICTIONS ON FOSTER CARE, ADOPTION, OR LEGAL GUARDIAN PLACEMENTS, SO AS TO MAKE CONFORMING CHANGES; AND BY AMENDING SECTION 63-7-2400, RELATING TO THE NUMBER OF FOSTER CHILDREN WHO MAY BE PLACED IN A FOSTER HOME, SO AS TO REMOVE THERAPEUTIC FOSTER CARE PLACEMENT LIMITATIONS FROM KINSHIP FOSTER CARE PLACEMENTS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 63-7-20, RELATING TO CHILDREN'S CODE DEFINITIONS, SO AS TO ADD THE TERM \"LICENSED\"; BY AMENDING SECTION 63-9-1110, RELATING TO ADOPTION BY A STEPPARENT OR RELATIVE, SO AS TO APPLY TO CHILDREN PLACED WITH RELATIVES OR FICTIVE KIN FOR THE PURPOSE OF ADOPTION; BY AMENDING SECTION 63-7-2320, RELATING TO THE KINSHIP FOSTER CARE PROGRAM, SO AS TO LOWER THE MINIMUM AGE OF A KINSHIP FOSTER PARENT FROM TWENTY-ONE TO EIGHTEEN AND TO ALLOW THE DEPARTMENT TO USE DIFFERENT STANDARDS WHEN LICENSING RELATIVES AND FICTIVE KIN; BY AMENDING SECTION 63-7-2350, RELATING TO RESTRICTIONS ON FOSTER CARE, ADOPTION, OR LEGAL GUARDIAN PLACEMENTS, SO AS TO MAKE CONFORMING CHANGES; AND BY AMENDING SECTION 63-7-2400, RELATING TO THE NUMBER OF FOSTER CHILDREN WHO MAY BE PLACED IN A FOSTER HOME, SO AS TO REMOVE THERAPEUTIC FOSTER CARE PLACEMENT LIMITATIONS FROM KINSHIP FOSTER CARE PLACEMENTS. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -126,6 +126,127 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-109  Nays-0",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Unanimous consent for third reading on next legislative day",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Ratified R 103",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Effective date 02/27/26",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Act No. 99",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -222,6 +343,28 @@
       "classification": ""
     },
     {
+      "note": "02/03/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/415_20260203.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/05/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/415_20260205.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -253,7 +396,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T12:42:50.937914Z"
   }
 }

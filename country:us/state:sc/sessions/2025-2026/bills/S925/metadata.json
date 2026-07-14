@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 925",
+  "title": "A JOINT RESOLUTION TO APPROVE REGULATIONS OF THE STATE BOARD OF FINANCIAL INSTITUTIONS, RELATING TO NON-INTEREST BEARING NEGOTIABLE ORDER OF WITHDRAWAL (NINOW) ACCOUNTS BY STATE-CHARTERED SAVINGS AND LOAN ASSOCIATIONS, DESIGNATED AS",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": ", PURSUANT TO THE PROVISIONS OF ARTICLE 1, CHAPTER 23, TITLE 1 OF THE SOUTH CAROLINA CODE OF LAWS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s925"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, read first time, placed on calendar without reference",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Banking and Insurance",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Senate Banking and Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"Senate Banking and Insurance\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/12/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/925_20260212.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/12/2026-A",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/925_20260212a.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/925.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/925.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=925&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

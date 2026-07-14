@@ -118,6 +118,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:08Z"
       }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Wickensimer",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Henderson-Myers, Grant",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -224,6 +244,30 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schuessler\"}",
       "organization_id": null
+    },
+    {
+      "name": "Wickensimer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wickensimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson-Myers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Henderson-Myers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grant",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Grant\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -271,7 +315,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:08Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T09:56:05.976565Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 16-1-60, RELATING TO OFFENSES DEFINED AS VIOLENT CRIMES, SO AS TO INCLUDE THE OFFENSE OF DISCHARGING FIREARMS AT OR INTO A DWELLING HOUSE, OTHER BUILDING, STRUCTURE, ENCLOSURE, VEHICLE, AIRCRAFT, WATERCRAFT, OR OTHER CONVEYANCE, DEVICE, OR EQUIPMENT; AND BY AMENDING SECTION 16-23-440, RELATING TO DISCHARGING FIREARMS INTO A DWELLING HOUSE, OTHER BUILDING, STRUCTURE, ENCLOSURE, VEHICLE, AIRCRAFT, WATERCRAFT, OR OTHER CONVEYANCE, DEVICE, OR EQUIPMENT, SO AS TO CREATE A TIERED PENALTY STRUCTURE."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 16-1-60, RELATING TO OFFENSES DEFINED AS VIOLENT CRIMES, SO AS TO INCLUDE THE OFFENSE OF DISCHARGING FIREARMS AT OR INTO A DWELLING HOUSE, OTHER BUILDING, STRUCTURE, ENCLOSURE, VEHICLE, AIRCRAFT, WATERCRAFT, OR OTHER CONVEYANCE, DEVICE, OR EQUIPMENT; AND BY AMENDING SECTION 16-23-440, RELATING TO DISCHARGING FIREARMS INTO A DWELLING HOUSE, OTHER BUILDING, STRUCTURE, ENCLOSURE, VEHICLE, AIRCRAFT, WATERCRAFT, OR OTHER CONVEYANCE, DEVICE, OR EQUIPMENT, SO AS TO CREATE A TIERED PENALTY STRUCTURE. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -202,6 +202,125 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-45  Nays-0",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-106  Nays-0",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Ratified R 181",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Effective date 05/15/26",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Act No. 138",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -354,6 +473,28 @@
       "classification": ""
     },
     {
+      "note": "04/15/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3650_20260415.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/22/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3650_20260422.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -385,7 +526,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T10:24:53.004312Z"
   }
 }

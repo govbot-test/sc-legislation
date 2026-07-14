@@ -78,6 +78,26 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Gagnon",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Brewer, Ford",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,11 +118,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -135,6 +155,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hardee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gagnon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gagnon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ford\"}",
       "organization_id": null
     }
   ],
@@ -183,7 +227,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T13:03:24.967665Z"
   }
 }

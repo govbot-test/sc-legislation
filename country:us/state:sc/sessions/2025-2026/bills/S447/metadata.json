@@ -44,6 +44,18 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:10Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable Judiciary",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +75,17 @@
       "links": [
         {
           "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/447_20250312.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/09/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/447_20260409.htm",
           "media_type": "text/html"
         }
       ],
@@ -101,7 +124,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:35Z",
     "text_extraction_latest_update": "2026-07-13T11:42:51.826835Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 23-23-57 SO AS TO PROVIDE LAW ENFORCEMENT OFFICERS ARE REQUIRED TO COMPLETE CONTINUING LAW ENFORCEMENT EDUCATION CREDITS IN AUTISM SPECTRUM DISORDER; AND BY AMENDING SECTION 44-61-80, RELATING TO EMERGENCY MEDICAL TECHNICIAN CERTIFICATION, SO AS TO PROVIDE THE EMERGENCY MEDICAL TECHNICIAN TRAINING PROGRAM MUST INCLUDE COURSES IN AUTISM SPECTRUM DISORDER."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 23-23-57 SO AS TO PROVIDE LAW ENFORCEMENT OFFICERS ARE REQUIRED TO COMPLETE CONTINUING LAW ENFORCEMENT EDUCATION CREDITS IN AUTISM SPECTRUM DISORDER; AND BY AMENDING SECTION 44-61-80, RELATING TO EMERGENCY MEDICAL TECHNICIAN CERTIFICATION, SO AS TO PROVIDE THE EMERGENCY MEDICAL TECHNICIAN TRAINING PROGRAM MUST INCLUDE COURSES IN AUTISM SPECTRUM DISORDER. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -190,6 +190,95 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:08Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable Judiciary",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-43  Nays-0",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and enrolled",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Ratified R 173",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Effective date 05/15/26",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Act No. 134",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -358,6 +447,17 @@
       "classification": ""
     },
     {
+      "note": "04/09/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3285_20260409.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -389,7 +489,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T10:59:44.269039Z"
   }
 }

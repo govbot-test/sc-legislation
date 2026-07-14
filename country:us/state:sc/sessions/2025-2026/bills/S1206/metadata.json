@@ -1,0 +1,94 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 1206",
+  "title": "Honda Motor Company",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A SENATE RESOLUTION TO CONGRATULATE AMERICAN HONDA MOTOR CO., INC. SOUTH CAROLINA MANUFACTURING FOR BEING A MANUFACTURING COMPANY WHICH BRINGS GREAT PRIDE TO THE STATE OF SOUTH CARLINA."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s1206"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and adopted",
+      "date": "2024-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"K. Johnson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/26/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess125_2023-2024/prever/1206_20240326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1206.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1206.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1206&session=125&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

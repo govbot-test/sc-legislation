@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 44-95-65 SO AS TO PROVIDE REGULATIONS FOR THE SALE OF ELECTRONIC NICOTINE DELIVERY SYSTEMS AND TO PROVIDE PENALTIES FOR VIOLATIONS OF THIS SECTION; AND TO PROVIDE A TIMELINE FOR THE REQUIRED DEALER CERTIFICATION, DIRECTORY PUBLICATION, AND EFFECTIVE DATE OF CERTAIN PROVISIONS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 44-95-65 SO AS TO PROVIDE REGULATIONS FOR THE SALE OF ELECTRONIC NICOTINE DELIVERY SYSTEMS, TO PROVIDE PENALTIES FOR VIOLATIONS OF THE SECTION, AND TO PROVIDE CERTAIN TIMELINES AND EFFECTIVE DATES; AND BY AMENDING SECTION 16-17-501, RELATING TO TERMS DEFINED IN THE \"YOUTH ACCESS TO TOBACCO PREVENTION ACT,\" SO AS TO CHANGE THE DEFINITION OF \"ELECTRONIC SMOKING DEVICE\". - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -179,6 +179,116 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:10Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and sent to Senate",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-66  Nays-33",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-40  Nays-6",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Ratified R 101",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Effective date 02/27/26",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Act No. 97",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
       }
     }
   ],
@@ -381,6 +491,17 @@
       "classification": ""
     },
     {
+      "note": "01/21/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/287_20260121.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -412,7 +533,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T10:16:58.966516Z"
   }
 }

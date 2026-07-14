@@ -76,6 +76,78 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:11Z"
       }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Govan",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: White",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned until Wed., 1-21-26",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Reese, Henderson-Myers",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Medical, Military, Public and Municipal Affairs",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +254,38 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dillard\"}",
       "organization_id": null
+    },
+    {
+      "name": "Govan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Govan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henderson-Myers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Henderson-Myers\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -220,6 +324,17 @@
       "classification": ""
     },
     {
+      "note": "02/11/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4385_20260211.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -251,7 +366,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:11Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T12:07:22.551169Z"
   }
 }

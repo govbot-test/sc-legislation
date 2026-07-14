@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SMALL BUSINESS REGULATORY FREEDOM ACT\" BY ADDING SECTION 1-23-285 SO AS TO PROVIDE THE SMALL BUSINESS REGULATORY REVIEW COMMITTEE SHALL CONDUCT AN INITIAL REVIEW OF REGULATIONS PENDING REAUTHORIZATION AND MAKE RECOMMENDATIONS TO THE GENERAL ASSEMBLY FOR RETAINING OR REMOVING REGULATIONS, TO PROVIDE IT IS THE DUTY OF THE COMMITTEE WHEN REVIEWING REGULATIONS TO REDUCE THE OVERALL REGULATORY BURDEN ON BUSINESSES BY REDUCING THE NUMBER OF REGULATORY REQUIREMENTS BY TWENTY-FIVE PERCENT, AND TO PROVIDE THE COMMITTEE MAY REQUEST ANY NECESSARY INFORMATION FROM STATE AGENCIES AND TO REQUIRE THE COMPLIANCE OF AGENCIES WITH THESE REQUESTS, AMONG OTHER THINGS; BY AMENDING SECTION 1-23-110, RELATING TO THE PROCESS FOR PROMULGATING REGULATIONS UNDER THE ADMINISTRATIVE PROCEDURES ACT SO AS TO PROVIDE AGENCIES MAY NOT PROMULGATE REGULATIONS ABSENT EXPRESS STATUTORY AUTHORITY AND CITATION TO THE SPECIFIC STATUTORY AUTHORITY, TO PROVIDE FOR EVERY REGULATION AN AGENCY PROPOSES, IT MUST IDENTIFY AND PROPOSE TWO OF ITS REGULATIONS TO REMOVE, TO PROVIDE PERSONS AGGRIEVED BY A REGULATION MAY CHALLENGE THE VALIDITY OF THE REGULATION IN A COURT OF COMPETENT JURISDICTION, AND TO PROVIDE COURTS MAY DECLARE REGULATIONS INVALID UPON FINDING AN ABSENCE OF EXPRESS STATUTORY AUTHORITY TO PROMULGATE; BY AMENDING SECTION 1-23-115, RELATING TO ASSESSMENT REPORTS FOR REGULATIONS SUBMITTED FOR PROMULGATION, SO AS TO PROVIDE ALL REGULATIONS SUBMITTED FOR PROMULGATION MUST INCLUDE ASSESSMENT REPORTS, TO ALLOW LONGER REVIEW PERIODS IN CERTAIN CIRCUMSTANCES, TO PROVIDE DISCOUNT RATES MUST BE JUSTIFIED IF APPLIED IN AN ANALYSIS REPORT, TO PROVIDE PROMULGATING AGENCIES MUST CONDUCT RETROSPECTIVE ASSESSMENT REPORTS IN CERTAIN CIRCUMSTANCES, TO PROVIDE ASSESSMENT CONTENTS MUST BE MADE PUBLICLY AVAILABLE IN A CERTAIN MANNER, TO PROVIDE CERTAIN STANDARDIZED ANALYTIC METHODS AND METRICS MUST BE APPLIED TO ALL REGULATIONS, TO REQUIRE RETROSPECTIVE ASSESSMENT REPORTS BE CONDUCTED WHEN REGULATIONS ARE REVIEWED FOR RENEWAL, AMONG OTHER THINGS; BY AMENDING SECTION 1-23-120, RELATING TO DOCUMENTS REQUIRED TO BE FILED TO INITIATE THE REVIEW PROCESS FOR A REGULATION, SO AS TO REQUIRE THE DOCUMENTS INCLUDE AN AUTOMATIC EXPIRATION DATE, AND TO PROVIDE FOR THE AUTOMATIC EXPIRATION AND PERIODIC REVIEW OF REGULATIONS; AND BY AMENDING SECTION 1-23-380, RELATING TO JUDICIAL REVIEW UPON EXHAUSTION OF ADMINISTRATIVE REMEDIES, SO AS TO PROVIDE REQUIREMENTS FOR JUDICIAL REVIEW OF AGENCY INTERPRETATIONS OF REGULATIONS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SMALL BUSINESS REGULATORY FREEDOM ACT\" BY AMENDING SECTION 1-23-115, RELATING TO ASSESSMENT REPORTS FOR REGULATIONS SUBMITTED FOR PROMULGATION, SO AS TO REQUIRE LEGISLATIVE APPROVAL OF REGULATIONS WITH AN ESTIMATED ECONOMIC IMPACT OF ONE MILLION DOLLARS OR MORE OVER A FIVE-YEAR PERIOD, AMONG OTHER THINGS; BY AMENDING SECTION 1-23-120, RELATING TO THE REGULATORY REVIEW AND APPROVAL PROCESS IN THE ADMINISTRATIVE PROCEDURES ACT, SO AS TO REMOVE OBSOLETE PROVISIONS; BY AMENDING SECTION 1-23-270, RELATING TO REGULATORY FLEXIBILITY ANALYSES UNDER THE SOUTH CAROLINA SMALL BUSINESS REGULATORY FLEXIBILITY ACT, SO AS TO REMOVE OBSOLETE PROVISIONS; BY AMENDING SECTION 1-23-380, RELATING TO JUDICIAL REVIEW OF AGENCY DECISIONS, SO AS TO REQUIRE DE NOVO REVIEW OF STATUTES AND REGULATIONS;  BY AMENDING SECTION 1-23-610, RELATING TO JUDICIAL REVIEW OF ADMINISTRATIVE LAW COURT FINAL DECISIONS, SO AS TO REQUIRE DE NOVO REVIEW OF STATUTES AND REGULATIONS; BY ADDING ARTICLE 4 TO CHAPTER 23, TITLE 1, SO AS TO PROVIDE FOR PERIODIC LEGISLATIVE AUDIT COUNCIL REVIEW OF AGENCY REGULATIONS AND TO PROVIDE RELATED REQUIREMENTS OF STATE AGENCIES; BY AMENDING SECTION 2-15-60, RELATING TO DUTIES OF THE LEGISLATIVE AUDIT COUNCIL, SO AS TO MAKE CONFORMING AND OTHER RELATED CHANGES; BY AMENDING SECTION 1-23-110, RELATING TO PUBLIC PARTICIPATION IN THE PROMULGATION OF REGULATIONS, SO AS TO PROVIDE THAT RELATED SUBMISSIONS MUST BE PROVIDED TO THE SMALL BUSINESS REGULATORY REVIEW COMMITTEE; AND BY AMENDING SECTION 1-23-280, RELATING TO THE COMPOSITION OF THE SMALL BUSINESS REGULATORY REVIEW COMMITTEE, SO AS TO INCLUDE ADDITIONAL NONVOTING LEGISLATIVE EX OFFICIO MEMBERS. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -100,13 +100,13 @@
       }
     },
     {
-      "description": "Member(s) request name added as sponsor: Erickson, Hager, Ballentine, Calhoon, Ligon, Holman, Moss, Burns, Gilreath, Gilliam, Rankin, Vaughan, B.L.Cox",
+      "description": "Member(s) request name added as sponsor: Erickson, Hager, Ballentine, Calhoon, Ligon, Holman, Moss, Gilreath, Gilliam, Rankin, Vaughan, B.L.Cox",
       "date": "2025-02-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:09Z"
+        "log_file_created": "2026-07-14T13:54:37Z"
       }
     },
     {
@@ -272,6 +272,251 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-40  Nays-0",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Senate amendment amended",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Returned to Senate with amendments",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-112  Nays-0",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Non-concurrence in House amendment",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "House insists upon amendment and conference committee appointed Reps. Herbkersman, Bradley, Anderson",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Conference committee appointed Campsen, Elliott, Ott",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Conference report received and adopted",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-104  Nays-0",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Conference report received and adopted",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-38  Nays-0",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled for ratification",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ratified R 268",
+      "date": "2026-06-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-06-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Effective date 06/30/26",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Act No. 251",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -324,11 +569,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -532,14 +777,6 @@
       "organization_id": null
     },
     {
-      "name": "Burns",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Burns\"}",
-      "organization_id": null
-    },
-    {
       "name": "Gilreath",
       "classification": "primary",
       "entity_type": "person",
@@ -734,6 +971,61 @@
       "classification": ""
     },
     {
+      "note": "04/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3021_20260429.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3021_20260506.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/07/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3021_20260507.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3021_20260513.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/25/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3021_20260625.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -765,7 +1057,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:38Z",
     "text_extraction_latest_update": "2026-07-13T11:32:05.471923Z"
   }
 }

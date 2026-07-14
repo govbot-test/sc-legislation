@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 891",
+  "title": "Financing Agreements",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 11-27-110, RELATING TO LEASE PURCHASE OR FINANCING AGREEMENTS SUBJECT TO CONSTITUTIONAL DEBT LIMITS, SO AS TO PROVIDE AN EXPANDED DEFINITION OF FINANCING AGREEMENTS; BY AMENDING SECTION 11-27-40, RELATING TO THE EFFECT OF THE NEW ARTICLE X ON BONDS OF POLITICAL SUBDIVISIONS, SO AS TO PROVIDE THAT ANY MEMBER OF A LOCAL GOVERNING BODY WHO KNOWINGLY VOTES IN FAVOR OF A PROPOSED ACTION THAT VIOLATES SECTION 14 OF THE NEW ARTICLE X OF THE CONSTITUTION IS GUILTY OF MISCONDUCT IN OFFICE; AND BY AMENDING SECTION 11-27-50, RELATING TO THE EFFECT OF THE NEW ARTICLE X ON BONDS OF SCHOOL DISTRICTS, SO AS TO PROVIDE THAT ANY MEMBER OF A GOVERNING BODY OF THE STATE'S SCHOOL DISTRICTS WHO VOTES IN FAVOR OF A PROPOSED ACTION THAT KNOWINGLY VIOLATES SECTION 15 OF THE NEW ARTICLE X OF THE CONSTITUTION IS GUILTY OF MISCONDUCT IN OFFICE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s891"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Finance",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Corbin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Corbin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peeler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Peeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Garrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/891_20260204.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/891.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/891.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=891&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

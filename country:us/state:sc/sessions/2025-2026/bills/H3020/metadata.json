@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTIONS 63-1-40 AND 63-19-20, BOTH RELATING TO STATUS OFFENSES, SO AS TO ELIMINATE PLAYING A PINBALL MACHINE AS A STATUS OFFENSE; AND BY REPEALING SECTION 63-19-2430 RELATING TO THE PLAYING OF PINBALL MACHINES BY A MINOR."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTIONS 63-1-40 AND 63-19-20, BOTH RELATING TO STATUS OFFENSES, SO AS TO ELIMINATE PLAYING A PINBALL MACHINE AS A STATUS OFFENSE; AND BY REPEALING SECTION 63-19-2430 RELATING TO THE PLAYING OF PINBALL MACHINES BY A MINOR. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -160,6 +160,95 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable Judiciary",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-42  Nays-1",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and enrolled",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Ratified R 167",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Effective date 05/19/26",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Act No. 212",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -172,11 +261,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -253,6 +342,17 @@
       "classification": ""
     },
     {
+      "note": "04/09/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3020_20260409.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -284,7 +384,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T12:06:19.951513Z"
   }
 }

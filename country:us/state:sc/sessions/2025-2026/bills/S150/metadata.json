@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"SOUTH CAROLINA RENTAL KART AGE ACT\"; BY AMENDING SECTION 41-18-30, RELATING TO APPLICABILITY AND EXCEPTIONS FOR THE SOUTH CAROLINA AMUSEMENT RIDES SAFETY CODE, SO AS TO PROVIDE THAT AN INDIVIDUAL IS ALLOWED TO OPERATE A RENTAL KART IF THEY ARE EIGHTEEN YEARS OF AGE OR OLDER OR ARE FIFTEEN YEARS OF AGE OR OLDER AND HOLD A VALID DRIVER'S LICENSE OR PERMIT; AND BY AMENDING SECTION 41-18-40, RELATING TO DEFINITIONS FOR THE SOUTH CAROLINA AMUSEMENT PARK RIDES SAFETY CODE, SO AS TO MAKE CONFORMING CHANGES."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SOUTH CAROLINA RENTAL KART AGE ACT\" BY AMENDING SECTION 41-18-30, RELATING TO APPLICABILITY AND EXCEPTIONS FOR THE SOUTH CAROLINA AMUSEMENT RIDES SAFETY CODE, SO AS TO REVISE REQUIREMENTS FOR PEOPLE OPERATING RENTAL KARTS, TO PROVIDE RENTAL KARTS OPERATED BY PEOPLE UNDER EIGHTEEN YEARS OF AGE MUST BE EQUIPPED WITH OCCUPANT RESTRAINT SYSTEMS AND ROLLOVER RESTRAINT SYSTEMS, TO REVISE MANDATORY SIGNAGE REQUIREMENTS, AND TO MAKE CONFORMING CHANGES; AND BY AMENDING SECTION 41-18-40, RELATING TO DEFINITIONS FOR THE SOUTH CAROLINA AMUSEMENT PARK RIDES SAFETY CODE, SO AS TO MAKE CONFORMING CHANGES. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -162,6 +162,127 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:08Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Labor, Commerce and Industry",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-108  Nays-0",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Ratified R 130",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Effective date 05/18/26",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Act No. 163",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -229,6 +350,28 @@
       "classification": ""
     },
     {
+      "note": "04/22/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/150_20260422.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/150_20260429.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -260,7 +403,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:12Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T10:25:15.935039Z"
   }
 }

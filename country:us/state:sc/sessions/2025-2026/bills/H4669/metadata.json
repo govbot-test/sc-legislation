@@ -1,0 +1,164 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4669",
+  "title": "Municipal elections",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 5-15-50, RELATING TO ESTABLISHMENT OF MUNICIPAL WARD LINES AND THE TIME FOR GENERAL AND SPECIAL ELECTIONS, SO AS TO REQUIRE THAT MUNICIPAL GENERAL ELECTIONS BE HELD ON ONE OF CERTAIN ENUMERATED DATES; BY AMENDING SECTION 5-15-60, RELATING TO MUNICIPALITIES ADOPTING METHODS OF NOMINATING CANDIDATES AND DETERMINING ELECTION RESULTS, SO AS TO PROVIDE THAT ANY MUNICIPALITY WHICH ELECTS TO HOLD PARTISAN ELECTIONS FOR MUNICIPAL OFFICES IS RESPONSIBLE FOR PAYING ALL COSTS AND EXPENSES ASSOCIATED WITH THE CONDUCT OF A MUNICIPAL PRIMARY; BY AMENDING SECTION 5-15-120, RELATING TO VOTE COUNTING IN MUNICIPAL ELECTIONS, SO AS TO ALLOW MUNICIPALITIES TO DETERMINE WHEN NEWLY ELECTED OFFICIALS MAY BE QUALIFIED AND THEIR TERMS COMMENCE, AND TO PROVIDE THAT A CANDIDATE DECLARED ELECTED HAS THE RIGHT TO TAKE THE OATH OF OFFICE AND PERFORM THE DUTIES OF THAT OFFICE PENDING THE OUTCOME OF AN APPEAL; BY AMENDING SECTION 5-15-130, RELATING TO PROCEDURES FOR CONTESTING THE RESULTS OF A MUNICIPAL ELECTION, SO AS TO EXTEND THE DEADLINE FOR FILING A WRITTEN NOTICE OF A CONTEST, AND TO REQUIRE A MUNICIPAL ELECTION COMMISSION TO CONDUCT A HEARING ON A CONTEST BY A CERTAIN DATE; BY AMENDING SECTION 5-15-140, RELATING TO APPEALS FROM DECISIONS REGARDING MUNICIPAL ELECTION CONTESTS, SO AS TO REMOVE LANGUAGE INDICATING A NOTICE OF APPEAL STAYS FURTHER PROCEEDINGS PENDING APPEAL, AND TO PROVIDE THAT A COURT SHALL GIVE SUCH APPEALS FIRST PRIORITY OF CONSIDERATION; AND BY AMENDING SECTION 5-15-145, RELATING TO THE TRANSFER OF AUTHORITY TO CONDUCT MUNICIPAL ELECTIONS TO COUNTY BOARDS OF VOTER REGISTRATION AND ELECTIONS, SO AS TO REQUIRE COUNTY BOARDS OF VOTER REGISTRATION AND ELECTIONS TO CONDUCT MUNICIPAL ELECTIONS FOR MUNICIPALITIES THAT ELECT TO TRANSFER THIS AUTHORITY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h4669"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: M.M.Smith",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Newton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Newton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/17/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4669_20251217.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4669.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4669.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4669&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

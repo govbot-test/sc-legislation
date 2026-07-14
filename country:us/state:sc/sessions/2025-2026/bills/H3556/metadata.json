@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 7-17-560, RELATING TO THE AUTHORITY OF THE STATE EXECUTIVE COMMITTEE OF A POLITICAL PARTY TO HEAR CERTAIN PRIMARY PROTESTS AND CONTESTS, SO AS TO REQUIRE THE STATE EXECUTIVE COMMITTEE TO ALSO HEAR PROTESTS AND CONTESTS IN THE CASE OF COUNTY OFFICERS, LESS THAN COUNTY OFFICERS, AND MUNICIPAL OFFICERS, TO AUTHORIZE THE STATE EXECUTIVE COMMITTEE TO ADOPT A RESOLUTION TO REQUIRE THE FILING OF ANY PROTEST OR CONTEST TO BE ACCOMPANIED BY A BOND WITH SURETY, AND TO PROVIDE FOR APPEALS FROM DECISIONS BY THE STATE EXECUTIVE COMMITTEE; BY AMENDING SECTION 7-17-570, RELATING TO HEARINGS OF PRIMARY PROTESTS AND CONTESTS, SO AS TO EXTEND THE TIME IN WHICH THE STATE EXECUTIVE COMMITTEE MUST CONDUCT SUCH HEARINGS; BY AMENDING SECTION 5-15-80, RELATING TO MUNICIPAL PRIMARY PROTESTS AND CONTESTS, SO AS TO PROVIDE THAT SUCH PROTESTS AND CONTESTS ARE TO BE FILED, HEARD, AND DECIDED IN THE MANNER PROVIDED IN SECTIONS 7-17-560 AND 7-17-570; AND BY REPEALING SECTIONS 7-17-520, 7-17-530, 7-17-540, 7-17-550, 7-17-580, AND 7-17-590 ALL RELATING TO PRIMARY PROTESTS AND CONTESTS FOR CERTAIN OFFICES."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 7-17-560, RELATING TO THE AUTHORITY OF THE STATE EXECUTIVE COMMITTEE OF A POLITICAL PARTY TO HEAR CERTAIN PRIMARY PROTESTS AND CONTESTS, SO AS TO REQUIRE THE STATE EXECUTIVE COMMITTEE TO ALSO HEAR PROTESTS AND CONTESTS IN THE CASE OF COUNTY OFFICERS, LESS THAN COUNTY OFFICERS, AND MUNICIPAL OFFICERS, AND TO AUTHORIZE THE STATE EXECUTIVE COMMITTEE TO ADOPT A RESOLUTION TO REQUIRE THE FILING OF ANY PROTEST OR CONTEST TO BE ACCOMPANIED BY A REFUNDABLE DEPOSIT; BY AMENDING SECTION 7-17-570, RELATING TO HEARINGS OF PRIMARY PROTESTS AND CONTESTS, SO AS TO EXTEND THE TIME IN WHICH THE STATE EXECUTIVE COMMITTEE MUST CONDUCT SUCH HEARINGS, AND TO PROVIDE FOR APPEALS FROM DECISIONS BY THE STATE EXECUTIVE COMMITTEE; BY AMENDING SECTION 5-15-80, RELATING TO MUNICIPAL PRIMARY PROTESTS AND CONTESTS, SO AS TO PROVIDE THAT SUCH PROTESTS AND CONTESTS ARE TO BE FILED, HEARD, AND DECIDED IN THE MANNER PROVIDED IN SECTIONS 7-17-560 AND 7-17-570; BY REPEALING SECTIONS 7-17-520, 7-17-530, 7-17-540, 7-17-550, 7-17-580, AND 7-17-590 ALL RELATING TO PRIMARY PROTESTS AND CONTESTS FOR CERTAIN OFFICES; BY AMENDING SECTION 5-15-120, RELATING TO THE COUNTING OF VOTES IN MUNICIPAL ELECTIONS, SO AS TO ALLOW A MUNICIPAL GOVERNING BODY TO DETERMINE BY ORDINANCE WHEN THE TERMS OF ITS NEWLY ELECTED OFFICERS BEGIN; BY AMENDING SECTION 7-3-25, RELATING TO THE DUTY OF THE STATE ELECTION COMMISSION TO DETERMINE AND CERTIFY RESULTS WHEN A COUNTY BOARD OF VOTER REGISTRATION AND ELECTIONS FAILS TO DO SO, SO AS TO REQUIRE THE SAME WHEN A MUNICIPAL ELECTION COMMISSION FAILS TO DETERMINE AND CERTIFY RESULTS; BY ADDING SECTION 5-15-45 SO AS TO PROVIDE WHEN THE TERMS OF MUNICIPAL COUNCILMEMBERS IN OFFICE AS OF JANUARY 1, 2027 EXPIRE; BY AMENDING SECTION 5-15-50, RELATING TO THE ESTABLISHMENT OF THE TIME FOR GENERAL AND SPECIAL ELECTIONS WITHIN A MUNICIPALITY, SO AS TO REQUIRE MUNICIPAL GOVERNING BODIES TO CHOOSE ONE OF TWO DATES FOR SUCH ELECTIONS IN ODD-NUMBERED YEARS; BY AMENDING SECTION 5-15-60, RELATING TO MUNICIPALITIES ADOPTING METHODS OF NOMINATING CANDIDATES AND DETERMINING RESULTS OF ELECTIONS, SO AS TO ONLY PERMIT PARTISAN ELECTIONS IN MUNICIPALITIES WITH POPULATIONS UNDER A CERTAIN AMOUNT; BY AMENDING SECTION 5-15-100, RELATING TO THE FUNCTIONS, POWERS, AND DUTIES OF MUNICIPAL ELECTION COMMISSIONS, SO AS TO REMOVE CERTAIN FUNCTIONS, POWERS, AND DUTIES; BY AMENDING SECTION 5-15-130, RELATING TO PROCEDURES FOR CONTESTING RESULTS OF MUNICIPAL ELECTIONS, SO AS TO EXTEND THE DEADLINES FOR FILING A NOTICE OF CONTEST AND FOR CONDUCTING A HEARING ON THE CONTEST; BY AMENDING SECTION 5-15-140, RELATING TO APPEALS FROM DECISIONS ON MUNICIPAL ELECTION CONTESTS, SO AS TO DELETE LANGUAGE PROVIDING THE NOTICE OF APPEAL ACTS AS A STAY OF FURTHER PROCEEDINGS; AND BY ADDING SECTION 5-15-175 SO AS TO PROVIDE THAT MUNICIPAL ELECTION COMMISSIONS ONLY MAY BE ESTABLISHED FOR MUNICIPALITIES WITH POPULATIONS OVER A CERTAIN AMOUNT. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -182,6 +182,169 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-41  Nays-4",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Debate interrupted by adjournment",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Senate amendment amended",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Returned to Senate with amendments",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Ratified R 177",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Effective date See Act for Effective Date",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Act No. 213",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -273,6 +436,50 @@
       "classification": ""
     },
     {
+      "note": "02/18/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3556_20260218.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/03/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3556_20260303.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/23/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3556_20260423.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3556_20260506.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -304,7 +511,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T10:31:23.299029Z"
   }
 }

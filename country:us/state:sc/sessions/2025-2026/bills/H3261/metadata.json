@@ -68,6 +68,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:10Z"
       }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Taylor",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -109,6 +119,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"McCravy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Taylor\"}",
       "organization_id": null
     }
   ],
@@ -157,7 +175,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:12Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T10:47:21.233939Z"
   }
 }

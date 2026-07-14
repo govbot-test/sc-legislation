@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 48-39-150, RELATING TO APPROVAL OR DENIAL OF PERMITS, SO AS TO ESTABLISH TIMELINES FOR THE DEPARTMENT TO TAKE ACTION ON A PERMIT APPLICATION."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 48-39-150, RELATING TO APPROVAL OR DENIAL OF PERMITS, SO AS TO ESTABLISH TIMELINES FOR THE DEPARTMENT TO TAKE ACTION ON A PERMIT APPLICATION; BY AMENDING SECTION 48-39-80, RELATING TO THE DEVELOPMENT OF A COASTAL MANAGEMENT PROGRAM, SO AS TO DEEM A COASTAL ZONE CONSISTENCY CERTIFICATION APPROVED IF, FOR ALL OTHER STATE PERMITS, CERTIFICATION REVIEW IS NOT COMPLETED WITHIN NINETY DAYS OF THE PUBLIC COMMENT CLOSING; BY ADDING SECTION 48-6-35 SO AS TO PERMIT THE DEPARTMENT OF ENVIRONMENTAL SERVICES TO HIRE THIRD-PARTY, INDEPENDENT ENGINEERS TO ASSIST THE DEPARTMENT WITH ITS DUTIES AND TO REQUIRE THE DEPARTMENT TO ESTABLISH REGULATIONS FOR CONTRACTOR QUALIFICATIONS TO BID ON THE DEPARTMENT'S WORK; AND BY REPEALING A PORTION OF SECTION 48-39-130 AS OF SEPTEMBER 30, 2032, AND TO ESTABLISH REQUIREMENTS FOR CERTAIN MAINTENANCE DREDGING AFTER THAT DATE. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -158,6 +158,137 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:12Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Medical Affairs",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-37  Nays-0",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-112  Nays-0",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Ratified R 124",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-04-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Effective date 04/06/26",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Act No. 116",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -226,14 +357,6 @@
       "organization_id": null
     },
     {
-      "name": "Rutherford",
-      "classification": "primary",
-      "entity_type": "person",
-      "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rutherford\"}",
-      "organization_id": null
-    },
-    {
       "name": "Schuessler",
       "classification": "primary",
       "entity_type": "person",
@@ -297,6 +420,39 @@
       "classification": ""
     },
     {
+      "note": "03/24/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3931_20260324.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3931_20260326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/01/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3931_20260401.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -328,7 +484,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:12Z",
+    "logs_latest_update": "2026-07-14T13:54:35Z",
     "text_extraction_latest_update": "2026-07-13T12:05:26.805973Z"
   }
 }

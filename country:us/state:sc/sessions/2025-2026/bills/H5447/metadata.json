@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5447",
+  "title": "Closed primaries",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 7-5-115 SO AS TO PROVIDE THAT A PERSON IS NOT ALLOWED TO VOTE IN A PARTISAN PRIMARY ELECTION OR PARTISAN ADVISORY REFERENDUM UNLESS THE PERSON HAS REGISTERED AS BEING A MEMBER OF THAT PARTY; BY AMENDING SECTION 7-5-110, RELATING TO REGISTRATION IN ORDER TO VOTE, SO AS TO PROVIDE THAT A PERSON IS NOT ALLOWED TO VOTE IN A PARTISAN PRIMARY ELECTION OR PARTISAN ADVISORY REFERENDUM UNLESS THE PERSON HAS REGISTERED AS BEING A MEMBER OF THAT POLITICAL PARTY; BY AMENDING SECTION 7-5-170, RELATING TO THE REQUIREMENTS FOR VOTER REGISTRATION, SO AS TO PROVIDE THE REQUIREMENT OF STATING POLITICAL PARTY AFFILIATION, IF ANY, ON THE FORM AND INCLUDING IT IN THE OATH, AND TO REQUIRE THE STATE ELECTION COMMISSION TO ASSIST IN CAPTURING THIS DATA; AND BY AMENDING SECTION 7-9-20, RELATING TO QUALIFICATIONS FOR VOTING IN PRIMARY ELECTIONS, SO AS TO INCLUDE, AS A REQUIREMENT, REGISTERING AS A MEMBER OF THE PARTY AND TO PROVIDE A PROCEDURE FOR CHANGING POLITICAL PARTY AFFILIATION OR NONAFFILIATION AFTER A SELECTION HAS BEEN MADE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5447"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:34Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:34Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"White\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5447_20260326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5447.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5447.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5447&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:34Z"
+  }
+}

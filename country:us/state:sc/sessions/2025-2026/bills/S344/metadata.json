@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"SOUTH CAROLINA EQUINE ADVANCEMENT ACT\"; BY ADDING CHAPTER 61 TO TITLE 11 SO AS TO ESTABLISH THE SOUTH CAROLINA EQUINE COMMISSION AS A GRANT PROGRAM THAT ASSISTS THE GROWTH AND DEVELOPMENT OF THE EQUINE INDUSTRY IN SOUTH CAROLINA, TO PROVIDE APPLICATION GUIDELINES FOR PARI-MUTUEL WAGERING, TO ESTABLSIH THE POWERS OF THE SOUTH CAROLINA EQUINE COMMISSION, TO PROVIDE FOR THE EQUINE INDUSTRY DEVELOPMENT FUND, AND TO PROVIDE DEFINITIONS RELATED TO HORSE RACING."
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"SOUTH CAROLINA EQUINE ADVANCEMENT ACT\"; BY ADDING CHAPTER 61 TO TITLE 11 SO AS TO ESTABLISH THE SOUTH CAROLINA EQUINE COMMISSION AS A GRANT PROGRAM THAT ASSISTS THE GROWTH AND DEVELOPMENT OF THE EQUINE INDUSTRY IN SOUTH CAROLINA, TO PROVIDE APPLICATION GUIDELINES FOR PARI-MUTUEL WAGERING, TO ESTABLISH THE POWERS OF THE SOUTH CAROLINA EQUINE COMMISSION, TO PROVIDE FOR THE EQUINE INDUSTRY DEVELOPMENT FUND, AND TO PROVIDE DEFINITIONS RELATED TO HORSE RACING."
     }
   ],
   "other_titles": [],
@@ -43,6 +43,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:11Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Finance",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
       }
     }
   ],
@@ -118,6 +140,28 @@
       "classification": ""
     },
     {
+      "note": "03/18/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/344_20260318.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/20/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/344_20260420.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -149,7 +193,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:11Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T11:17:44.180255Z"
   }
 }

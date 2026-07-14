@@ -1,0 +1,146 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5699",
+  "title": "Barbers and barbering",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 40-7-15 SO AS TO PROVIDE LICENSURE TO PRACTICE BARBERING IS VOLUNTARY, AND TO PROVIDE FOR THE AUTHORITY AND LIMITATIONS OF LICENSED AND UNLICENSED BARBERS; BY AMENDING SECTION 40-7-20, RELATING TO DEFINITIONS CONCERNING BARBERS AND BARBERING, SO AS TO DEFINE THE TERM \"REGISTERED BARBER\"; BY AMENDING SECTION 40-7-200, RELATING TO PRACTICING BARBERING IN VIOLATION OF THE CHAPTER, SO AS TO PROVIDE IT IS UNLAWFUL FOR A PERSON TO FALSELY REPRESENT HIMSELF AS A LICENSED OR REGISTERED BARBER OR TO OTHERWISE VIOLATE CERTAIN STATUTORY PROVISIONS APPLICABLE TO LICENSED BARBERS; BY AMENDING SECTION 40-7-290, RELATING TO REQUIREMENTS FOR BARBERS WHO TRAIN STUDENTS, SO AS TO PROVIDE ONLY REGISTERED BARBERS MAY SUPERVISE AND TRAIN STUDENTS IN REGISTERED BARBER SCHOOLS; BY AMENDING SECTION 40-7-320, RELATING TO THE REQUIREMENT THAT BARBERSHOPS BE REGISTERED AND THE MANDATORY POSTING OF INSPECTION RATINGS AND REGULATIONS IN BARBERSHOPS AND BARBER SCHOOLS, SO AS TO PROVIDE RELATED STATUTORY REQUIREMENTS AND REGULATIONS APPLY REGARDLESS OF WHETHER INDIVIDUALS WHO OWN, OPERATE, OR PRACTICE WITHIN A BARBERSHOP ARE LICENSED BARBERS, AND TO PROVIDE A PERSON MAY OWN, OPERATE, OR WORK IN A REGISTERED BARBERSHOP WITHOUT BEING A REGISTERED BARBER; AND BY REPEALING SECTION 40-7-30 RELATING TO THE REQUIREMENT OF LICENSURE TO BE A BARBER OR PRACTICE BARBERING."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5699"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Medical, Military, Public and Municipal Affairs",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Frank",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Frank\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Huff",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Huff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Teeple",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Teeple\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harris",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pace",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McCabe",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McCabe\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "05/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5699_20260513.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5699.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5699.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5699&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

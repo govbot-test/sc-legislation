@@ -46,13 +46,43 @@
       }
     },
     {
-      "description": "Member(s) request name added as sponsor: Yow, Rankin, Gilliam, McCabe, Mitchell, Wickensimer",
+      "description": "Member(s) request name added as sponsor: Yow, Rankin, Gilliam, McCabe, C.Mitchell, Wickensimer",
       "date": "2025-03-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:09Z"
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Chumley",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Beach",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Vaughan",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
       }
     }
   ],
@@ -210,11 +240,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -223,6 +253,30 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wickensimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chumley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chumley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Beach\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vaughan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vaughan\"}",
       "organization_id": null
     }
   ],
@@ -271,7 +325,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T11:01:03.997898Z"
   }
 }

@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SMART HEART ACT\" BY ADDING SECTION 59-17-165 SO AS TO PROVIDE DEFINITIONS AND TO PROVIDE FOR THE DEVELOPMENT AND IMPLEMENTATION OF A CARDIAC EMERGENCY RESPONSE PLAN IN EACH PUBLIC SCHOOL; AND BY AMENDING SECTION 59-17-155, RELATING TO THE AUTOMATED EXTERNAL DEFIBRILLATOR PROGRAM IN HIGH SCHOOLS, SO AS TO PROVIDE EACH PUBLIC SCHOOL SHALL ENSURE THE PRESENCE OF AN AUTOMATED EXTERNAL DEFIBRILLATOR ONSITE AND WITHIN CERTAIN PROXIMITY OF SCHOOL ATHLETIC VENUES, AND TO PROVIDE RELATED TESTING, MAINTENANCE, AND PERSONNEL TRAINING REQUIREMENTS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SMART HEART ACT\" BY ADDING SECTION 59-17-165 SO AS TO PROVIDE DEFINITIONS AND TO PROVIDE FOR THE DEVELOPMENT AND IMPLEMENTATION OF A CARDIAC EMERGENCY RESPONSE PLAN IN EACH PUBLIC SCHOOL; AND BY AMENDING SECTION 59-17-155, RELATING TO THE AUTOMATED EXTERNAL DEFIBRILLATOR PROGRAM IN HIGH SCHOOLS, SO AS TO PROVIDE EACH PUBLIC SCHOOL SHALL ENSURE THE PRESENCE OF AN AUTOMATED EXTERNAL DEFIBRILLATOR ONSITE AND WITHIN CERTAIN PROXIMITY OF SCHOOL ATHLETIC VENUES, AND TO PROVIDE RELATED TESTING, MAINTENANCE, AND PERSONNEL TRAINING REQUIREMENTS. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -187,6 +187,127 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Education",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-40  Nays-0",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-117  Nays-0",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Ratified R 115",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Effective date 07/01/26",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Act No. 108",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
       }
     }
   ],
@@ -407,6 +528,28 @@
       "classification": ""
     },
     {
+      "note": "03/11/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3831_20260311.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/17/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3831_20260317.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -438,7 +581,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:35Z",
     "text_extraction_latest_update": "2026-07-13T10:13:03.894833Z"
   }
 }

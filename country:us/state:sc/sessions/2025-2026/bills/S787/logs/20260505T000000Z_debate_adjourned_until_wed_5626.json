@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Debate adjourned until Wed., 5-6-26",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=787&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 787"
+}

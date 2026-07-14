@@ -1,0 +1,242 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 696",
+  "title": "JMSC Reform",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 2-19-5, RELATING TO SOUTH CAROLINA JUDICIAL MERIT SELECTION COMMISSION CREATION, SO AS TO REQUIRE THAT THE COMMISSION BE COMPOSED OF TWELVE MEMBERS APPOINTED BY THE GOVERNOR; BY AMENDING SECTION 2-19-20, RELATING TO INVESTIGATION BY THE COMMISSION AND PUBLICATION OF VACANCIES, SO AS TO REQUIRE THAT ANY STATE AGENCY MUST COOPERATE WITH THE COMMISSION'S REQUESTS FOR INFORMATION; BY AMENDING SECTION 2-19-30, RELATING TO HEARINGS AND EXECUTIVE SESSION, SO AS TO REQUIRE WRITTEN TESTIMONY FOR PUBLIC HEARINGS BE SUBMITTED NO LATER THAN SEVENTY-TWO HOURS BEFORE THE SCHEDULED HEARING AND COPIES OF WRITTEN AND SPOKEN TESTIMONY BE AVAILABLE AT NO CHARGE; BY AMENDING SECTION 2-19-35, RELATING TO CRITERIA FOR INVESTIGATIONS AND CONSIDERATION OF THE COMMISSION, SO AS TO OMIT RACE, GENDER, SEX, SEXUAL PREFERENCE, COLOR, RELIGION, NATIONAL ORIGIN, INTERSECTIONAL IDENTIFIERS, ANY DIVERSITY, EQUITY, AND INCLUSION CRITERA, PHILOSOPHY, OR FRAMEWORKS FROM BEING CONSIDERED BY THE COMMISSION WHEN MAKING NOMINATIONS AND APPOINTMENTS; BY AMENDING SECTION 2-19-50, RELATING TO CONFIDENTIALITY OF RECORDS, INFORMATION, AND OTHER MATERIAL, SO AS TO EXCLUDE RECORDS HELD BY THE COMMISSION NOT PREVIOUSLY OR OTHERWISE CONFIDENTIAL FROM BEING KEPT STRICTLY CONFIDENTIAL; BY AMENDING SECTION 2-19-60, RELATING TO POWERS OF THE COMMISSION, SO AS TO REQUIRE THAT THE COMMISSION MAY CARRY OUT ITS DUTIES STRICTLY IN SELECTING AND VETTING VIABLE CANDIDATES AND THAT NO INDIVIDUAL MAY BE PROSECUTED OR SUBJECTED TO PUNISHMENT, FORFEITURE, CRIMINAL, OR CIVIL PENALTY BASED UPON TESTIMONY SUBMITTED TO THE COMMISSION; BY AMENDING SECTION 2-19-70, RELATING TO PROHIBITION AGAINST DUAL OFFICES, PRIVILEGES OF THE FLOOR, AND PLEDGES, SO AS TO PROHIBIT FLOOR PRIVILEGES TO IMMEDIATE FAMILY MEMBERS OF CANDIDATES WHILE THE CANDIDATE'S APPLICATION IS UNDER REVIEW BY THE COMMISSION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s696"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Climer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Climer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Goldfinch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Goldfinch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stubbs",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stubbs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rice",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Turner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimbrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimbrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chaplin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Chaplin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grooms",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Grooms\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fernandez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Fernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peeler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Peeler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reichenbach",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Reichenbach\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/10/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/696_20251210.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/696.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/696.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=696&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

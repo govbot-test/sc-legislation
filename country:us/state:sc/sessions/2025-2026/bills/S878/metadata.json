@@ -1,0 +1,143 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 878",
+  "title": "Third-Party Electric Supplier",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING CHAPTER 32 TO TITLE 58 SO AS TO DEFINE TERMS RELATED TO THIRD-PARTY ELECTRIC CHOICE; TO ALLOW AN ELIGIBLE CUSTOMER TO PERMIT ITS ELECTRICITY DEMAND FROM A THIRD-PARTY ELECTRIC SUPPLIER; TO REQUIRE THE ELIGIBLE CUSTOMER TO PROVIDE ARRANGEMENT FOR FIRM TRANSMISSION SERVICE OF THIRD-PARTY ELECTRIC TO THE INCUMBENT ELECTRIC SUPPLIER'S TRANSMISSION SYSTEM; TO NOT HOLD THE INCUMBENT ELECTRIC SUPPLIER LIABLE FOR ANY COSTS ASSOCIATED WITH THIRD-PARTY ELECTRIC SUPPLY; TO REQUIRE THE INCUMBENT ELECTRIC SUPPLIER TO HAVE REMOTE CUTOFF CAPABILITIES IN PLACE FOR THIRD-PARTY ELECTRIC SUPPLY; TO ASSIGN THE COST OF REQUIRED TRANSMISSION UPGRADES; TO REQUIRE A CUSTOMER TO CONTINUE TO PAY FOR CAPITAL COSTS IN CERTAIN CIRCUMSTANCES; TO REQUIRE AN INCUMBENT ELECTRIC SUPPLIER TO PROVIDE COST-OF-SERVICE SUPPLY TO CUSTOMERS OR CUSTOMER LOAD RETURNING FROM A PERIOD OF RETAIL ACCESS SERVICE ON THE SAME TERMS, RATES, AND PRIORITY AS A NEW CUSTOMER REQUESTING SERVICE; AND TO REQUIRE THE COMMISSION TO APPROVE A TARIFF CONTAINING A PRO FORMA CONTRACT AND OTHER REQUIREMENTS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s878"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Climer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Climer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/03/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/878_20260203.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/878_20260204.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/878.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/878.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=878&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

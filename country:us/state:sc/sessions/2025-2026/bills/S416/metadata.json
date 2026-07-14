@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-63-210, RELATING TO GROUNDS FOR WHICH TRUSTEES MAY EXPEL, SUSPEND, OR TRANSFER PUPILS; PETITIONS FOR READMISSION; AND EXPULSION, SUSPENSION, OR TRANSFER, SO AS TO PROHIBIT EXPELLED STUDENTS FROM ENTERING SCHOOL OR SCHOOL GROUNDS INCLUDING ATTENDING DAY OR NIGHT SCHOOL FUNCTIONS OR RIDING A SCHOOL BUS, TO FURTHER PROHIBIT SUSPENDED STUDENTS FROM ENTERING THE SCHOOL OR SCHOOL GROUNDS EXCEPT FOR ATTENDING DAY OR NIGHT SCHOOL FUNCTIONS OR RIDING THE SCHOOL BUS; BY AMENDING SECTION 59-63-235, RELATING TO THE EXPULSION OF A STUDENT DETERMINED TO HAVE BROUGHT A FIREARM TO SCHOOL, SO AS TO REQUIRE A STUDENT TO BE EXPELLED FOR NO LESS THAN ONE ACADEMIC YEAR FOR KNOWINGLY BRINGING A FIREARM TO A SCHOOL, TO ESTABLISH THE EXPULSION HEARING BE CONDUCTED BY THE DISTRICT BOARD OF TRUSTEES AND TO ALLOW AN EXPELLED STUDENT TO RECEIVE EDUCATIONAL SERVICES IN ALTERNATIVE SETTINGS TO INCLUDE VIRTUAL PROGRAMMING; AND BY AMENDING SECTION 59-63-250, RELATING TO THE TRANSFER OF PUPILS, SO AS TO CLARIFY THAT A BOARD MAY TRANSFER A PUPIL WITHIN THE SCHOOL DISTRICT AND REQUIRE NOTIFICATION AND INPUT FROM THE PRINCIPAL AT THE RECEIVING SCHOOL."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-63-210, RELATING TO THE EXPULSION, SUSPENSION, AND TRANSFER OF STUDENTS, SO AS TO REVISE RESTRICTIONS APPLICABLE TO EXPELLED AND SUSPENDED STUDENTS WHILE ON SCHOOL PROPERTY OR ATTENDING SCHOOL ACTIVITIES, AND TO REMOVE LIMITATIONS ON DISCIPLINARY ACTION FOR CERTAIN VIOLATIONS; BY AMENDING SECTION 59-63-235, RELATING TO THE EXPULSION OF STUDENTS WHO BRING FIREARMS TO SCHOOL, SO AS TO REQUIRE A MINIMUM ONE-YEAR EXPULSION FOR KNOWINGLY BRINGING A FIREARM TO SCHOOL, TO PROVIDE PROCEDURES FOR MODIFICATION, REVIEW, AND REINSTATEMENT OF THE EXPULSION PERIOD, TO PRESERVE STUDENT APPEAL RIGHTS, AND TO AUTHORIZE EDUCATIONAL SERVICES IN ALTERNATIVE OR VIRTUAL SETTINGS; BY ADDING SECTION 59-63-237 SO AS TO PROVIDE FOR THE EXPULSION OF STUDENTS WHO MAKE CERTAIN THREATS OF VIOLENCE AGAINST SCHOOLS OR SCHOOL PERSONNEL, TO ESTABLISH STANDARDS AND PROCEDURES FOR SUCH EXPULSIONS, TO AUTHORIZE EDUCATIONAL SERVICES IN ALTERNATIVE OR VIRTUAL SETTINGS, AND TO REQUIRE REFERRAL TO THE DEPARTMENT OF JUVENILE JUSTICE; AND BY AMENDING SECTION 59-63-250, RELATING TO THE TRANSFER OF STUDENTS, SO AS TO CLARIFY THE AUTHORITY OF DISTRICT BOARDS AND DESIGNATED ADMINISTRATORS TO TRANSFER STUDENTS WITHIN THE DISTRICT IN LIEU OF SUSPENSION OR EXPULSION, TO REQUIRE PARENT CONFERENCES OR HEARINGS AND NOTICE TO AND INPUT FROM THE RECEIVING SCHOOL PRINCIPAL, AND TO PROVIDE APPEAL RIGHTS FOR TRANSFERS ORDERED BY AN ADMINISTRATOR. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -128,6 +128,177 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:12Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Education and Public Works",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Requests for debate-Rep(s). Bauer, Wetmore, Stavrinakis, Garvin, Cobb-Hunter, Alexander, Kirby, J Moore, Anderson, Grant, Govan, Williams, Clyburn, Hosey, Henderson-Myers, Gilliard, Bamberg, Gilreath",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Requests for debate removed-Rep(s). Williams",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-98  Nays-7",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Non-concurrence in House amendment",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "House recedes from amendment(s)",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled for ratification",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Ratified R 225",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Effective date 05/18/26",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Act No. 193",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -195,6 +366,50 @@
       "classification": ""
     },
     {
+      "note": "04/22/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/416_20260422.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/416_20260429.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/416_20260513.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/416_20260514.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -226,7 +441,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:12Z",
+    "logs_latest_update": "2026-07-14T13:54:38Z",
     "text_extraction_latest_update": "2026-07-13T12:19:08.771006Z"
   }
 }

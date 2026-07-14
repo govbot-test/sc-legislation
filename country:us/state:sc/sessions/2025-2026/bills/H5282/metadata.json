@@ -1,0 +1,171 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5282",
+  "title": "Utility Billing Accountability and Consumer Protection Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"UTILITY BILLING ACCOUNTABILITY AND CONSUMER PROTECTION ACT OF 2026\" BY ADDING CHAPTER 44 TO TITLE 58 SO AS TO PROHIBIT A UTILITY FROM CHANGING BILLING OR PAYMENT PRACTICES WITHOUT APPROVAL FROM THE PUBLIC SERVICE COMMISSION; TO ESTABLISH A PROCESS FOR THE PUBLIC SERVICE COMMISSION; TO PERMIT TEMPORARY APPROVAL PROCESSES IN THE EVENT OF AN EMERGENCY; TO REQUIRE UTILITIES TO SUBMIT QUARTERLY REPORTS TO THE PUBLIC SERVICE COMMISSION AND OFFICE OF REGULATORY STAFF; TO REQUIRE THE PUBLIC SERVICE COMMISSION, IN COORDINATION WITH THE OFFICE OF REGULATORY STAFF, TO ENGAGE AN AUDITOR TO EXAMINE PRESCRIBED BILLING ISSUES; TO REQUIRE A UTILITY TO PROVIDE WRITTEN NOTICE TO CUSTOMERS FOR BILLING OR PAYMENT CHANGES; TO ESTABLISH CONDITIONS AND PROHIBITIONS IN CERTAIN RENTAL CIRCUMSTANCES; TO REQUIRE ELECTRIC, GAS, AND WATER UTILITIES TO IMPLEMENT CONSUMER PROTECTIONS FOR RURAL ENERGY-BURDENED HOUSEHOLDS, TO REQUIRE THE PUBLIC SERVICE COMMISSION TO PUBLISH A RURAL ENERGY BURDEN REPORT, AND TO CONSIDER METRICS IN ALL RATE PROCEEDINGS; TO PERMIT THE PUBLIC SERVICE COMMISSION TO IMPOSE ADMINISTRATIVE FINES FOR VIOLATIONS, FOR A CUSTOMER TO FILE A COMPLAINT WITH THE COMMISSION, AND TO REQUIRE THE PUBLIC SERVICE COMMISSION TO PROMULGATE RELATED REGULATIONS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5282"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Dillard, Jones",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Scott",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Reese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dillard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dillard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jones\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5282_20260226.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5282_20260604.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5282.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5282.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5282&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

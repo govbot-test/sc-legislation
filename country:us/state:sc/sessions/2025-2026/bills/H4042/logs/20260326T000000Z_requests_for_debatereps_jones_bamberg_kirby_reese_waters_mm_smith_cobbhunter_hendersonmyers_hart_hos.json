@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). Jones, Bamberg, Kirby, Reese, Waters, MM Smith, Cobb-Hunter, Henderson-Myers, Hart, Hosey, Williams, Luck, King, JL Johnson, Grant",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4042&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 4042"
+}

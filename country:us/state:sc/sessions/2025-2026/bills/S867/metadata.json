@@ -1,0 +1,243 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 867",
+  "title": "Data Center Development",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"DATA CENTER DEVELOPMENT ACT\"; BY ADDING SECTION 49-35-10 SO AS TO DEFINE TERMS PERTAINING TO DATA CENTER DEVELOPMENT; BY ADDING SECTION 49-35-20 SO AS TO ESTABLISH THE DATA CENTER DEVELOPMENT OFFICE IN THE DEPARTMENT OF ENVIRONMENTAL SERVICES, TO PROVIDE FOR THE POWERS AND DUTIES OF THE OFFICE, TO ESTABLISH THE DATA CENTER INDUSTRY ADVISORY COMMITTEE, TO PROVIDE FOR THE ADVISORY COMMITTEE'S MEMBERSHIP, AND TO PROVIDE FOR THE ADVISORY COMMITTEE'S POWERS AND DUTIES; BY ADDING SECTION 49-35-30 SO AS TO REQUIRE A SITING PERMIT BEFORE A DATA CENTER MAY LOCATE A FACILITY AT A PARTICULAR LOCATION, TO PROVIDE FOR THE PERMIT APPLICATION PROCESS, AND TO PROVIDE FOR THE TIMELINE FOR CONSIDERATION OF APPLICATIONS; BY ADDING SECTION 49-35-40 SO AS TO PROVIDE FOR PERFORMANCE-BASED OPERATIONAL EFFICIENCY STANDARDS, WATER EFFICIENCY STANDARDS, AND TO REQUIRE ANNUAL REPORTS; BY ADDING SECTION 49-35-50 SO AS TO PROVIDE FOR INFRASTRUCTURE ADEQUACY ASSESSMENTS, TO PROVIDE FOR ENVIRONMENTAL IMPACT ASSESSMENTS, AND TO PROVIDE FOR REASONABLE BUFFER REQUIREMENTS; BY ADDING SECTION 49-35-60 SO AS TO PROVIDE FOR THE PUBLIC SERVICE COMMISSION'S ROLE CONCERNING RATES, AGREEMENTS BETWEEN UTILITIES AND DATA CENTERS, AND COST ALLOCATION METHODOLOGIES; BY ADDING SECTION 49-35-70 SO AS TO PROVIDE FOR DECOMMISSIONING PLANS AND FINANCIAL ASSURANCES ASSOCIATED WITH DECOMMISSIONING; BY ADDING SECTION 49-35-80 SO AS TO PROVIDE FOR THE INTERACTION BETWEEN THE PROVISIONS OF THIS CHAPTER AND LOCAL GOVERNMENTS AND LOCAL GOVERNMENT LAND USE PLANNING; BY ADDING SECTION 49-35-90 SO AS TO REQUIRE DATA CENTERS TO IMPLEMENT REASONABLE MEASURES TO MINIMIZE NOISE, VIBRATION, AND LIGHT IMPACTS RESULTING FROM THEIR OPERATION; BY ADDING SECTION 49-35-100 SO AS TO PROVIDE PROTECTIONS FOR CONFIDENTIAL INFORMATION SHARED WITH THE OFFICE BY DATA CENTER OPERATORS; BY ADDING SECTION 49-35-110 SO AS TO CLARIFY THE INTERACTION BETWEEN THIS CHAPTER AND OTHER ENVIRONMENTAL LAWS; BY ADDING SECTION 49-35-120 SO AS TO PROVIDE FOR ENFORCEMENT AND PENALTIES; TO PROVIDE THAT THE PROVISIONS OF THIS CHAPTER ARE PROSPECTIVE; TO PROVIDE FOR REGULATIONS FROM THE DEPARTMENT OF ENVIRONMENTAL SERVICES; AND TO PROVIDE THAT FOR TWO YEARS AFTER ENACTMENT THE DEPARTMENT OF ENVIRONMENTAL SERVICES SHALL PRIORITIZE TECHNICAL ASSISTANCE AND GUIDANCE OVER ENFORCEMENT TO FACILITATE INDUSTRY TRANSITION TO THE NEW REQUIREMENTS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s867"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Agriculture and Natural Resources",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable Agriculture and Natural Resources",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimbrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimbrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garrett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Garrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sutton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sutton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Blackmon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Turner",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Devine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Devine\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/867_20260129.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/30/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/867_20260130.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/28/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/867_20260428.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/867_20260506.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/867.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/867.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=867&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:38Z"
+  }
+}

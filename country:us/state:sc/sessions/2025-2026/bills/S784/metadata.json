@@ -1,0 +1,175 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 784",
+  "title": "Energy",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 58-37-20, RELATING TO THE PUBLIC SERVICE COMMISSION, SO AS TO PROVIDE FOR DEMAND-SIDE PILOT PROGRAMS; BY AMENDING SECTION 58-37-120, RELATING TO APPLICATIONS FOR PERMIT, SO AS TO REQUIRE A PUBLIC COMMENT PERIOD FOR ANY APPLICATION FOR A PERMIT FOR AN ENERGY INFRASTRUCTURE PROJECT AND TO REQUIRE NOTICE TO AFFECTED LANDOWNERS IF A PUBLIC UTILITY THAT PLANS TO CONSTRUCT, OR HAS ENTERED INTO AGREEMENTS TO CONSTRUCT, AN ENERGY INFRASTRUCTURE PROJECT THAT MAY RESULT IN THE USE OF EMINENT DOMAIN AND TO PRESCRIBE THE METHODS AND CONTENT OF THE NOTICE; BY ADDING SECTION 58-37-835 SO AS TO PROVIDE FOR THE TERMS AND CONDITIONS OF ELECTRIC SERVICE TO COMMERCIAL DATA CENTERS; BY ADDING SECTION 58-37-836 SO AS TO PROVIDE FOR REPORTS TO THE DEPARTMENT OF ENVIRONMENTAL SERVICES CONCERNING SURFACE AND GROUND WATER USED BY COMMERCIAL DATA CENTERS; BY AMENDING SECTION 12-36-2120, RELATING TO EXEMPTIONS FROM SALES TAX, SO AS TO PROVIDE THAT THE COMPUTER EQUIPMENT EXEMPTION IS AVAILABLE TO A TAXPAYER THAT ENTERED INTO A FEE IN LIEU AGREEMENT ON OR BEFORE MAY 30, 2025; TO PROVIDE THAT THE EXEMPTION FOR ELECTRICITY USED BY A TECHNOLOGY INTENSIVE FACILITY IS NOT AVAILABLE TO A TAXPAYER THAT DID NOT CLAIM THE CREDIT PRIOR TO MAY 30, 2025; TO PROVIDE THAT TO CLAIM THE EXEMPTION FOR ORIGINAL OR REPLACEMENT COMPUTERS, COMPUTER EQUIPMENT, AND COMPUTER HARDWARE AND SOFTWARE PURCHASES USED IN A DATACENTER, THE TAXPAYER MUST HAVE NOTIFIED THE DEPARTMENTS OF REVENUE AND COMMERCE OF ITS INTENTION TO CLAIM THE CREDIT ON OR BEFORE MAY 30, 2025; AND TO PROVIDE THAT THE EXEMPTION FOR ORIGINAL OR REPLACEMENT COMPUTERS, COMPUTER EQUIPMENT, AND COMPUTER HARDWARE AND SOFTWARE PURCHASES USED IN A DATACENTER THE TAXPAYER MUST HAVE BEEN CERTIFIED BY THE DEPARTMENT OF COMMERCE PRIOR TO MAY 30, 2030."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s784"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Massey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campsen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Campsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sutton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sutton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Blackmon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Devine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Devine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/784_20260113.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/784_20260114.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/784.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/784.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=784&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

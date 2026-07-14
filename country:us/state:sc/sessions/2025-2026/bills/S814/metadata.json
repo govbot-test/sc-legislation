@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 814",
+  "title": "Retirement System Investment Commission- ex officio board member",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 54-3-10, RELATING TO THE STATE PORTS AUTHORITY BOARD OF DIRECTORS MEMBERSHIP, SO AS TO ADD THE CHIEF EXECUTIVE OFFICER OF THE RETIREMENT SYSTEM INVESTMENT COMMISSION AS AN EX OFFICIO MEMBER AND TO PERMIT EX OFFICIO MEMBERS TO ATTEND EXECUTIVE SESSION MEETINGS; BY AMENDING SECTION 54-3-20, RELATING TO THE STATE PORTS AUTHORITY BOARD OF DIRECTORS APPOINTMENT AND TERMS OF MEMBERSHIP, SO AS TO EXCLUDE THE CHIEF EXECUTIVE OFFICER OF THE RETIREMENT SYSTEM INVESTMENT COMMISSION FROM APPOINTMENT BY THE GOVERNOR; BY AMENDING SECTION 54-3-60, RELATING TO THE STATE PORTS AUTHORITY BOARD MEMBER QUALIFICATIONS, SO AS TO EXCLUDE THE CHIEF EXECUTIVE OFFICER OF THE RETIREMENT SYSTEM INVESTMENT COMMISSION; AND BY AMENDING SECTION 58-31-20, RELATING TO THE PUBLIC SERVICE AUTHORITY BOARD OF DIRECTORS, SO AS TO ADD THE CHIEF EXECUTIVE OFFICER OF THE RETIREMENT SYSTEM INVESTMENT COMMISSION AS AN EX OFFICIO MEMBER."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s814"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Transportation",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bennett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bennett\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/814_20260114.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/814.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/814.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=814&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

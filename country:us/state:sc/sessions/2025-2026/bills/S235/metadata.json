@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 16-15-90, RELATING TO PROSTITUTION, SO AS TO REVISE THE STATUTE TO PROHIBIT PROSTITUTION BY A PROSTITUTED PERSON AND TO INCREASE THE PENALTY FOR VIOLATIONS; BY AMENDING SECTION 16-15-100, RELATING TO PROSTITUTION, SO AS TO REVISE THE STATUTE TO PROHIBIT CERTAIN ACTIONS RELATED TO A PERSON WHO SOLICITS CUSTOMERS FOR A PROSTITUTED PERSON AND TO INCREASE THE PENALTY FOR VIOLATIONS; BY AMENDING SECTION 16-15-110, RELATING TO VIOLATIONS FOR PROSTITUTION, SO AS TO REVISE THE STATUTE TO PROHIBIT A PERSON FROM SOLICITING A PROTITUTED PERSON."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 16-15-90, RELATING TO PROSTITUTION, SO AS TO DEFINE THE TERM \"PROSTITUTION,\" REVISE THE STATUTE AND PENALTIES FOR VIOLATIONS, AND PROVIDE EXCEPTIONS TO PROSECUTION FOR VICTIMS OF HUMAN TRAFFICKING AND VICTIMS UNDER THE AGE OF EIGHTEEN; BY AMENDING SECTION 16-15-100, RELATING TO FURTHER ACTS OF PROSTITUTION, SO AS TO DEFINE NECESSARY TERMS, REVISE THE STATUTE REGARDING PROMOTING PROSTITUTION, INCREASE THE PENALTIES FOR VIOLATIONS, AND PROVIDE EXCEPTIONS TO PROSECUTION TO PERSONS COERCED AS RESULT OF BEING A VICTIM OF HUMAN TRAFFICKING; BY AMENDING SECTION 16-15-110, RELATING TO SOLICITATION OF PROSTITUTION OFFENSES, SO AS TO DEFINE THE TERM \"PROSTITUTION,\" AND INCREASE THE PENALTIES FOR VIOLATIONS; AND BY ADDING SECTION 16-15-115 SO AS TO PROVIDE THAT PERSONS PREVIOUSLY CONVICTED OF A PROSTITUTION OFFENSE MAY BE ELIGIBLE TO PARTICIPATE IN A TREATMENT AND REHABILITATION PROGRAM UNDER CERTAIN CIRCUMSTANCES, AND TO PROVIDE A PROCEDURE FOR EXPUNGEMENT OF THE ARREST RECORD. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -180,6 +180,147 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:11Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-107  Nays-1",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ratified R 222",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Effective date 05/18/26",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Act No. 192",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -288,6 +429,50 @@
       "classification": ""
     },
     {
+      "note": "05/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/235_20260506.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/07/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/235_20260507.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/235_20260513.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/235_20260514.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -319,7 +504,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:11Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T10:23:20.549585Z"
   }
 }

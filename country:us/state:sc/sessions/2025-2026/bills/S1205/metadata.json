@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 1205",
+  "title": "State Building Construction Energy Standards",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 48-52-620, RELATING TO STATE AGENCIES' AND SCHOOL DISTRICTS' ENERGY CONSERVATION PLANS AND REPORTS AND METERING OF STATE BUILDINGS, SO AS TO DELETE THE EXEMPTION OF COMPLIANCE FOR A BUILDING IN COMPLIANCE WITH THE ENERGY INDEPENDENT AND SUSTAINABLE CONSTRUCTION ACT OF 2007; BY ADDING SECTION 48-52-690 SO AS TO REQUIRE ANY NEW STATE-OWNED BUILDING TO COMPLY WITH THE LATEST EDITION OF ASHRAE AND TO REQUIRE ANY NEW STATE-OWNED BUILDING OVER 15,000 SQUARE FEET TO BE COMMISSIONED BY A THIRD-PARTY COMMISSIONING AGENT PRIOR TO FINAL ACCEPTANCE; AND BY REPEALING ARTICLE 8, CHAPTER 52, TITLE 48, RELATING TO THE \"ENERGY INDEPENDENCE AND SUSTAINABLE CONSTRUCTION ACT OF 2007\"."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s1205"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2024-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Medical Affairs",
+      "date": "2024-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/26/2024",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess125_2023-2024/prever/1205_20240326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1205.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1205.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1205&session=125&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

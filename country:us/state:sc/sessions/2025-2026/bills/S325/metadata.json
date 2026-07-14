@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "S 325",
-  "title": "Consumer Affairs",
+  "title": "Department of Consumer Affairs",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 1-30-10, RELATING TO DEPARTMENTS OF STATE GOVERNMENT, SO AS TO ADD THE DEPARTMENT OF CONSUMER AFFAIRS TO THE DEPARTMENTS WITHIN THE EXECUTIVE BRANCH OF STATE GOVERNMENT; BY ADDING SECTION 1-30-145 SO AS TO PROVIDE FOR THE TRANSITION OF THE DEPARTMENT OF CONSUMER AFFAIRS TO THE EXECUTIVE BRANCH OF STATE GOVERNMENT; BY AMENDING SECTION 37-6-103, RELATING TO THE DEFINITION OF \"ADMINISTRATOR,\" SO AS TO PROVIDE THAT THE ADMINISTRATOR IS APPOINTED BY THE GOVERNOR UPON THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTIONS 37-6-104(6), 37-6-117(I), 37-6-501 THROUGH 510, 37-6-602, AND 37-6-604(B), ALL RELATING TO FUNCTIONS AND DUTIES OF THE COMMISSION ON CONSUMER AFFAIRS, SO AS TO PROVIDE FOR THE DISSOLUTION OF THE COMMISSION ON CONSUMER AFFAIRS TO BE REPLACED WITH AN ADMINISTRATOR AS THE HEAD OF THE DEPARTMENT."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 1-30-10, RELATING TO DEPARTMENTS OF STATE GOVERNMENT, SO AS TO ADD THE DEPARTMENT OF CONSUMER AFFAIRS TO THE DEPARTMENTS WITHIN THE EXECUTIVE BRANCH OF STATE GOVERNMENT; BY ADDING SECTION 1-30-145 SO AS TO PROVIDE FOR THE TRANSITION OF THE DEPARTMENT OF CONSUMER AFFAIRS TO THE EXECUTIVE BRANCH OF STATE GOVERNMENT; BY AMENDING SECTION 37-6-103, RELATING TO THE DEFINITION OF \"ADMINISTRATOR,\" SO AS TO PROVIDE THAT THE ADMINISTRATOR IS APPOINTED BY THE GOVERNOR UPON THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTIONS 37-6-104 AND 37-6-117, SECTION 37-6-501 THROUGH SECTION 37-6-510, AND SECTIONS 37-6-602 AND 37-6-604, ALL RELATING TO THE FUNCTIONS AND DUTIES OF THE COMMISSION ON CONSUMER AFFAIRS, SO AS TO PROVIDE FOR THE DISSOLUTION OF THE COMMISSION ON CONSUMER AFFAIRS TO BE REPLACED WITH AN ADMINISTRATOR AS THE HEAD OF THE DEPARTMENT, AND TO MAKE CONFORMING CHANGES. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -76,6 +76,215 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:10Z"
       }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-41  Nays-1",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and sent to House",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable Labor, Commerce and Industry",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned until Tues., 5-5-26",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Requests for debate-Rep(s). Williams, Herbkersman, Reese, MM Smith, Kirby, Brewer, Guest, Garvin, Govan, King, Hosey, Henderson-Myers, McDaniel, Anderson, Gilliard, Vaughan",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-91  Nays-9",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and enrolled",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ratified R 223",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Effective date 05/19/26",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Act No. 221",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,6 +302,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Walker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Zell\"}",
       "organization_id": null
     }
   ],
@@ -143,6 +368,28 @@
       "classification": ""
     },
     {
+      "note": "04/22/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/325_20260422.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/23/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/325_20260423.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -174,7 +421,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T12:24:59.621108Z"
   }
 }

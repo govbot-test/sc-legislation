@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5019",
+  "title": "Mental Illness",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 44-17-410, RELATING TO EMERGENCY ADMISSIONS OF INDIVIDUALS SUFFERING FROM MENTAL ILLNESS WHO POSE A DANGER TO THEMSELVES OR OTHERS, SO AS TO MAKE CHANGES TO THE ADMISSION AND COMMITMENT PROCESS, TO ENSURE THAT THE TREATING FACILITY HAS A COMPLETE MEDICAL HISTORY OF THESE PATIENTS, INCLUDING PRIOR HOSPITALIZATIONS, TO SPECIFY INFORMATION THAT MUST BE INCLUDED IN REPORTS OF DESIGNATED EXAMINERS, AND FOR OTHER PURPOSES; BY AMENDING SECTION 44-17-580, RELATING TO INDIVIDUALS WITH MENTAL ILLNESS WHO DO NOT COMPLY WITH THE COURT-ORDERED OUTPATIENT TREATMENT, SO AS TO ADDRESS REQUIREMENTS OF SUPPLEMENTAL OR RULE TO SHOW CAUSE HEARINGS TO ADDRESS NONCOMPLIANCE; AND BY ADDING SECTION 44-12-70 SO AS TO REQUIRE THE DEPARTMENT OF BEHAVIORAL HEALTH AND DEVELOPMENTAL DISABILITIES TO MAINTAIN AN INTEGRATED DATABASE WITH COMPLETE MEDICAL RECORDS OF PATIENTS SERVED AT DEPARTMENT FACILITIES, A REGISTRY OF ORDERS OF TREATMENT, AND AN INVENTORY OF AVAILABLE FACILITY BEDS AND WAITLISTS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5019"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/27/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5019_20260127.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5019.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5019.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5019&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:35Z"
+  }
+}

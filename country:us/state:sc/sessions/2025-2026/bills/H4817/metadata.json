@@ -1,0 +1,579 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4817",
+  "title": "Insurance Rate Reduction and Policy Holder Protection Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"INSURANCE RATE REDUCTION AND POLICYHOLDER PROTECTION ACT;\" BY AMENDING SECTION 38-3-110, RELATING TO DUTIES OF THE DIRECTOR OF THE DEPARTMENT OF INSURANCE, SO AS TO EXPAND THOSE DUTIES; BY ADDING SECTION 38-55-172 SO AS TO PROHIBIT RESIDENTIAL BUILDERS AND REGISTERED RESIDENTIAL SPECIALTY CONTRACTORS FROM CERTAIN ACTIONS MADE ON BEHALF OF OWNERS OR POSSESSORS OF RESIDENTIAL REAL ESTATE ON INSURANCE CLAIMS IN CONNECTION WITH ROOFING SYSTEM REPAIRS OR REPLACEMENTS TO PROHIBIT RESIDENTIAL BUILDERS AND REGISTERED RESIDENTIAL SPECIALTY CONTRACTORS FROM ADVERTISING OR PROMISING TO PAY OR REBATE AN INSURANCE DEDUCTIBLE AS AN INDUCEMENT TO THE SALE OF GOODS OR SERVICES, TO PROVIDE PENALTIES FOR VIOLATIONS, TO PROVIDE THE INSURANCE FRAUD DIVISION OF THE DEPARTMENT OF INSURANCE MAY INVESTIGATE CLAIMS OF FRAUDULENT ACTIVITY RELATING TO THE PERFORMANCE OF GOODS OR SERVICES FOR A ROOFING SYSTEM PURSUANT TO A WRITTEN CONTRACT AND REFER CERTAIN FINDINGS TO THE DEPARTMENT OF LABOR, LICENSING AND REGULATION; BY AMENDING SECTION 38-55-520, RELATING TO THE PURPOSE OF THE ARTICLE, SO AS TO MAKE A TECHNICAL CHANGE; BY AMENDING SECTION 38-55-530, RELATING TO DEFINITIONS, SO AS TO AMEND THE DEFINITIONS OF \"AUTHORIZED AGENCY\" AND \"FALSE STATEMENT OR MISREPRESENTATIONS\"; BY AMENDING SECTION 38-55-550, RELATING TO CIVIL PENALTIES, SO AS TO PRESCRIBE DUTIES OF THE DIRECTOR OF THE DEPARTMENT OF INSURANCE; BY AMENDING SECTION 38-55-560, RELATING TO THE INSURANCE FRAUD DIVISION, SO AS TO ESTABLISH THE INSURANCE FRAUD DIVISION IN THE DEPARTMENT OF INSURANCE AND TO PROVIDE THE DUTIES FOR THE DIVISION, THE ATTORNEY GENERAL, AND THE STATE LAW ENFORCEMENT DIVISION; BY AMENDING SECTION 38-55-570, RELATING TO NOTIFICATION OF FALSE STATEMENTS OR MISREPRESENTATIONS AND ABILITY TO SHARE INFORMATION, SO AS TO REQUIRE THE INSURANCE FRAUD DIVISION TO PROSECUTE CRIMINAL VIOLATIONS OF TITLE 38 AND ANY OTHER CRIMES RELATED TO INSURANCE, AS WELL AS DIVISION STAFF REQUIREMENTS, AND TO PROVIDE FOR INVESTIGATIVE DUTIES OF THE ATTORNEY GENERAL AND THE STATE LAW ENFORCEMENT DIVISION; BY AMENDING SECTION 38-55-590, RELATING TO ANNUAL REPORTS BY THE DIRECTOR OF THE INSURANCE FRAUD DIVISION, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 38-73-1095, RELATING TO ESSENTIAL PROPERTY INSURANCE AND RATING PLAN FACTORS, SO AS TO PROVIDE ADDITIONAL REQUIREMENTS FOR ANY INSURER REQUIRED TO SUBMIT RATES AND RATING PLANS TO THE DEPARTMENT OF INSURANCE RELATED TO ADJUSTMENTS TO REDUCE PREMIUMS AND FOR OWNERS OF INSURABLE PROPERTY CLAIMING A CREDIT OR DISCOUNT; BY AMENDING SECTION 38-75-470, RELATING TO MEMBERSHIP OF THE ADVISORY COMMITTEE FOR THE DIRECTOR OF INSURANCE, SO AS TO PROVIDE MITIGATION OF PROPERTY LOSSES DUE TO WILDFIRE AMONG THE ISSUES TO BE CONSIDERED AND TO PROVIDE FOR TERMS OF SERVICE FOR ADVISORY COMMITTEE MEMBERS; BY AMENDING SECTION 38-75-480, RELATING TO THE LOSS MITIGATION GRANT PROGRAM, SO AS TO PROVIDE FOR WHEN GRANTS MAY BE GIVEN TO LOCAL GOVERNMENTS; BY AMENDING SECTION 38-75-485, RELATING TO THE SOUTH CAROLINA HURRICANE DAMAGE MITIGATION PROGRAM, SO AS ESTABLISH THE \"SC SAFE HOME PROGRAM\" AND TO ESTABLISH REQUIREMENTS; BY AMENDING SECTION 38-77-122, RELATING TO PROHIBITED FACTORS FOR ISSUING AUTOMOBILE INSURANCE POLICIES OR PREMIUM RATES, SO AS TO ADD UNINSURED AND UNDERINSURED MOTORIST CLAIMS; BY AMENDING SECTION 38-77-123, RELATING TO PROHIBITED FACTORS FOR AUTOMOBILE INSURANCE POLICY RENEWALS OR CANCELLATIONS, SO AS TO ADD UNINSURED AND UNDERINSURED MOTORIST CLAIMS; BY ADDING SECTION 38-77-145 SO AS TO PROHIBIT NONECONOMIC DAMAGES FOR PERSONS OPERATING A MOTOR VEHICLE WHILE KNOWINGLY NOT IN COMPLIANCE WITH AUTOMOBILE INSURANCE REQUIREMENTS AND TO PROVIDE EXCEPTIONS; BY AMENDING SECTION 38-77-280, RELATING TO AUTOMOBILE COLLISION AND COMPREHENSIVE INSURANCE, SO AS TO REQUIRE INSURERS TO OFFER A ZERO DOLLAR DEDUCTIBLE FOR AUTOMOBILE SAFETY GLASS AND TO PROHIBIT INSURERS FROM CONSIDERING UNINSURED OR UNDERINSURED MOTORISTS CLAIMS FOR CERTAIN INSURANCE POLICY DECISIONS; BY AMENDING SECTION 12-6-1620, RELATED TO CATASTROPHE SAVINGS ACCOUNTS, SO AS TO INCLUDE CERTAIN APPROVED RETROFITS TO PRIMARY RESIDENCES FOR HURRICANE OR WIND DAMAGE RESILIENCE, AND FOR THE DEPARTMENT OF REVENUE TO PROVIDE AN ANNUAL REPORT TO THE GENERAL ASSEMBLY; BY AMENDING SECTION 12-6-3660, RELATING TO TAX CREDITS FOR HURRICANE RESISTANT RETROFITS TO RESIDENCES, SO AS TO INCREASE THE TAX CREDIT OPTION FROM ONE THOUSAND TO TWO THOUSAND DOLLARS; BY ADDING SECTION 12-6-3662 SO AS TO ESTABLISH A \"DISASTER PREPAREDNESS SALES TAX HOLIDAY\" AND TO PROVIDE FOR ITS REQUIREMENTS; BY AMENDING SECTION 12-6-3670, RELATED TO TAX CREDITS FOR EXCESS PAID FOR PROPERTY AND CASUALTY INSURANCE, SO AS TO INCREASE THE CREDIT AMOUNT TO THREE THOUSAND DOLLARS; BY AMENDING SECTION 42-9-440, RELATING TO SUSPECTED FALSE STATEMENTS OR MISREPRESENTATIONS REQUIRED TO BE REPORTED TO THE INSURANCE FRAUD DIVISION, SO AS TO MAKE CONFORMING CHANGES; BY ADDING SECTION 40-11-125 SO AS TO PROVIDE THE DEPARTMENT OF INSURANCE HAS THE EXCLUSIVE AUTHORITY TO ENFORCE ANY VIOLATIONS RELATED TO INSURANCE OR INSURANCE FRAUD ARISING FROM ROOFING SYSTEMS CONTRACTS OR THE DELIVERY OF GOODS OR SERVICES RELATED TO ROOFING SYSTEMS INVOLVING LICENSEES OF THE SOUTH CAROLINA CONTRACTOR'S LICENSING BOARD; BY AMENDING SECTION 40-59-25, RELATING TO ROOFING CONTRACT CANCELLATIONS FOR INSURANCE COVERAGE DENIALS, SO AS TO REMOVE CERTAIN PROVISIONS TRANSFERRED TO THE DEPARTMENT OF INSURANCE AND TO REVISE THE PROVISIONS; BY ADDING SECTION 40-59-27 SO AS TO PROVIDE THE DEPARTMENT OF INSURANCE AS THE EXCLUSIVE AUTHORITY TO ENFORCE ANY VIOLATIONS RELATED TO INSURANCE OR INSURANCE FRAUD ARISING FROM ROOFING SYSTEMS CONTRACTS OR THE DELIVERY OF GOODS OR SERVICES RELATED TO ROOFING SYSTEMS INVOLVING LICENSEES AND REGISTRANTS OF THE SOUTH CAROLINA RESIDENTIAL BUILDERS COMMISSION; TO REQUIRE THE DIRECTOR OF THE DEPARTMENT OF INSURANCE TO SUBMIT AN ANNUAL REPORT TO THE GENERAL ASSEMBLY REGARDING THE IMPACT ON INSURANCE RATES AND REQUIRE ANNUAL TESTIMONY BEFORE THE HOUSE LABOR, COMMERCE AND INDUSTRY COMMITTEE AND THE SENATE BANKING AND INSURANCE COMMITTEE; AND TO MAKE CONFORMING OR TECHNICAL CHANGES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h4817"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-09",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: M.M.Smith, Ligon",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Sessions, White",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Labor, Commerce and Industry",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Williams",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Requests for debate-Rep(s). Hiott, Brewer, Pace, Lawson, Caskey, Long, Martin, Edgerton, Taylor, Oremus, Hixon, Magnuson, Kirby, Cobb-Hunter, Anderson, Gilliard, Rivers",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Gibson",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: J.E.Johnson, W.Newton",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-96  Nays-17",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and sent to Senate",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Banking and Insurance",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Banking and Insurance",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Herbkersman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Herbkersman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anderson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anderson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bailey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bailey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gatch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gatch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gagnon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gagnon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guffey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guffey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hager",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hager\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hixon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.L. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J.L. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kirby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Oremus",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Oremus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Schuessler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schuessler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ligon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ligon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sessions",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sessions\"}",
+      "organization_id": null
+    },
+    {
+      "name": "White",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gibson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gibson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.E. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J.E. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Newton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"W. Newton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/17/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20251217.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260106.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/09/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260109.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/05/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260305.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/10/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260310.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/01/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260401.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/02/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260402.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/30/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4817_20260430.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4817.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4817.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4817&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

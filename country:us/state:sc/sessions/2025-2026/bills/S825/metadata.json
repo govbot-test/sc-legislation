@@ -1,0 +1,215 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 825",
+  "title": "Family Protection Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"FAMILY PROTECTION ACT\" BY AMENDING SECTION 12-6-3632, RELATING TO THE EARNED INCOME TAX CREDIT, SO AS TO ALLOW AN ADDITIONAL REFUNDABLE CREDIT; BY AMENDING SECTION 12-6-3380, RELATING TO THE TAX CREDIT FOR CHILD AND DEPENDENT CARE EXPENSES, SO AS TO ALLOW FOR AN ALTERNATIVE CREDIT; BY AMENDING SECTION 12-36-2120, RELATING TO SALES TAX EXEMPTIONS, SO AS TO EXEMPT CERTAIN ITEMS RELATED TO CHILDBIRTH; BY ADDING SECTION 12-6-3715 SO AS TO CREATE A TAX CREDIT FOR EMPLOYING CERTAIN NONVIOLENT EX-FELONS; BY ADDING SECTIONS 12-6-3835, 12-6-3840, 12-6-3845, 12-6-3850, 12-6-3855, 12-6-3860, AND 12-6-3865 SO AS TO PROVIDE TAX CREDITS FOR LIVING IN A HOUSEHOLD WHERE ONE ACTIVE DUTY FAMILY MEMBER IS DEPLOYED, FOR VETERAN-OWNED SMALL BUSINESSES, FOR HIRING CERTAIN VETERANS, FOR EMPLOYERS VOLUNTARILY PROVIDING CERTAIN FAMILY AND MEDICAL LEAVE, FOR EMPLOYERS PROVIDING CHILDCARE, FOR LIVING OR EMPLOYING PERSONS IN A COUNTY WITH A COMMUNITY JOBS PRIORITY ZONE, AND FOR UNPAID PRIMARY CAREGIVERS; BY ADDING SECTION 12-4-400 SO AS TO CREATE A SINGLE STATEWIDE WORKING FAMILIES TAX CREDIT PORTAL; BY ADDING SECTION 41-29-320 SO AS TO CREATE THE \"WORKPLACE FLEXIBILITY GRANT PROGRAM\"; BY ADDING SECTION 27-40-795 SO AS TO PROVIDE FOR CERTAIN WRITTEN NOTICE REQUIREMENTS IN RENTAL INCREASES; BY ADDING SECTION 6-1-200 SO AS TO PROVIDE THAT A MUNICIPALITY OR COUNTY MAY ESTABLISH A VOLUNTARY RENT STABILITY PROGRAM; BY ADDING SECTION 12-6-3830 SO AS TO PROVIDE FOR A STATE TAX CREDIT EQUAL TO THE FEDERAL LOW INCOME HOUSING TAX CREDIT; BY ADDING SECTION 31-13-100 SO AS TO CREATE THE \"COMMUNITY HOUSING GROWTH INCENTIVES FUND\"; BY ADDING CHAPTER 36 TO TITLE 1 SO AS ESTABLISH THE OFFICE OF FAMILY PROTECTION WITHIN THE DEPARTMENT OF ADMINISTRATION TO SUPPORT AND PROTECT FAMILIES AND CAREGIVERS BY IMPROVING EFFICIENCY, ELIMINATING DUPLICATION, AND MAXIMIZING THE USE OF FEDERAL AND PRIVATE RESOURCES, TO PROVIDE FOR THE OFFICE'S DUTIES AND AUTHORITY, TO CREATE THE FAMILY PROTECTION ADVISORY AND ACCOUNTABILITY BOARD AS AN ADVISORY BOARD FOR THE OFFICE, AND FOR OTHER PURPOSES; BY ADDING ARTICLE 9 TO CHAPTER 15, TITLE 2 SO AS TO CREATE THE \"JOINT CITIZENS AND LEGISLATIVE COMMITTEE ON PRESCRIPTION DRUG AFFORDABILITY\" TO SERVE AS AN ADVISORY BODY TO STUDY PRESCRIPTION DRUG COSTS AND TO MAKE RELATED RECOMMENDATIONS TO REDUCE STATE EXPENDITURES, TO PROVIDE FOR THE COMMITTEE'S MEMBERSHIP AND DUTIES, TO REQUIRE THE LEGISLATIVE AUDIT COUNCIL AND THE DEPARTMENT OF HEALTH AND HUMAN SERVICES TO STAFF THE COMMITTEE, AND FOR OTHER PURPOSES; BY ADDING SECTION 44-6-42 SO AS TO GIVE THE DEPARTMENT OF HEALTH AND HUMAN SERVICES THE AUTHORITY TO NEGOTIATE SUPPLEMENTAL REBATES AND BULK-PURCHASING AGREEMENTS WITH PHARMACEUTICAL COMPANIES, TO ESTABLISH A PREFERRED DRUG LIST, AND TO DEVELOP A STATE PHARMACY CARD FOR UNINSURED AND UNDERINSURED RESIDENTS; BY ADDING SECTION 44-53-364 SO AS TO REQUIRE THE DEPARTMENT OF PUBLIC HEALTH TO COORDINATE A PUBLIC EDUCATION CAMPAIGN ON PRESCRIPTION DRUG ACCESS AND AFFORDABILITY; BY ADDING ARTICLE 7 TO CHAPTER 35, TITLE 43 SO AS TO ESTABLISH AN UNPAID PRIMARY CAREGIVER REGISTRY AND IDENTIFICATION PROGRAM WITHIN THE DEPARTMENT OF SOCIAL SERVICES, TO ENTITLE ELIGIBLE CAREGIVERS TO CERTAIN FINANCIAL BENEFITS AND SERVICES, TO ESTABLISH A PRIMARY CAREGIVER GRANT FUND AND PROGRAM WITHIN THE DEPARTMENT OF HEALTH AND HUMAN SERVICES TO PROVIDE FINANCIAL ASSISTANCE TO CERTAIN LOW- AND MODERATE-INCOME PRIMARY CAREGIVERS, TO ESTABLISH A CAREGIVER RESPITE SERVICES PROGRAM WITHIN THE DEPARTMENT ON AGING TO OFFER RESPITE CARE FOR CAREGIVERS AND FOR OTHER PURPOSES; AND BY ADDING SECTION 41-1-140 SO AS TO PROHIBIT EMPLOYERS FROM RETALIATING AGAINST EMPLOYEES WHO ARE UNPAID PRIMARY CAREGIVERS AND TO REQUIRE CERTAIN EMPLOYERS TO PROVIDE UNPAID LEAVE FOR CAREGIVING EMERGENCIES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s825"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Finance",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hutto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hutto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabb",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sabb\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Allen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Allen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matthews",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Matthews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tedder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Tedder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Devine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Devine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Graham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Graham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sutton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sutton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Walker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Walker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/15/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/825_20260115.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/21/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/825_20260121.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/825.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/825.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=825&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

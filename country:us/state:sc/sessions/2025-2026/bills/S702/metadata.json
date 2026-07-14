@@ -1,0 +1,159 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 702",
+  "title": "Criminal Coercive Control",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 16-25-10, RELATING TO DEFINITIONS PERTAINING TO A \"DATING RELATIONSHIP\" AND \"COERCIVE CONTROL\", SO AS TO INCLUDE PERSONS WHO ARE PRESENTLY IN OR HAVE FORMERLY BEEN IN A DATING RELATIONSHIP IN THE DEFINITION OF \"HOUSEHOLD MEMBER\" AND TO ADD THE DEFINITIONS OF DATING RELATIONSHIP AND COERCIVE CONTROL; BY AMENDING SECTION 16-25-20, RELATING TO PROHIBITED ACTS, SO AS TO MAKE IT UNLAWFUL FOR A PERSON TO ENGAGE IN COERCIVE CONTROL OVER A PERSON'S OWN HOUSEHOLD; BY AMENDING SECTION 20-3-10, RELATING TO GROUNDS FOR DIVORCE, SO AS TO INCLUDE CRIMINAL DOMESTIC VIOLENCE AGAINST A SPOUSE, STALKING, AND HARASSMENT AS GROUNDS FOR DIVORCE; BY AMENDING SECTION 20-4-20, RELATING TO DEFINITIONS PERTAINING TO ABUSE, SO AS TO INCLUDE HARASSMENT, STALKING, AND COERCIVE CONTROL INTO THE DEFINITIONS OF \"ABUSE\" AND TO FURTHER PROVIDE THAT A HOUSEHOLD MEMBER INCLUDES PERSONS WHO ARE PRESENTLY IN OR HAVE FORMERLY BEEN IN A DATING RELATIONSHIP; AND BY AMENDING SECTION 63-15-240, RELATING TO THE CONTENTS OF ORDER FOR CUSTODY AFFECTING RIGHTS AND RESPONSIBILITIES OF PARENTS AND THE BEST INTERESTS OF THE CHILD, SO AS TO INCLUDE THE STATUTORY REFERENCE TO DOMESTIC VIOLENCE AND ADD STALKING AND HARASSMENT AS ACTIVITY FOR A COURT TO CONSIDER WHEN DETERMINING WHAT IS IN THE BEST INTEREST OF A CHILD."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s702"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Goldfinch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Goldfinch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Grooms",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Grooms\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/10/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/702_20251210.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/702_20260114.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/702.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/702.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=702&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

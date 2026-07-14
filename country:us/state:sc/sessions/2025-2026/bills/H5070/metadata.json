@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5070",
+  "title": "Second amendment",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A HOUSE RESOLUTION TO EXPRESS ITS FIRM SENSE THAT THE PRESIDENT OF THE UNITED STATES, THE UNITED STATES CONGRESS, AND ALL FEDERAL OFFICIALS MUST UPHOLD AND RESPECT THE SECOND AMENDMENT TO THE UNITED STATES CONSTITUTION AND REFRAIN FROM ANY ACTIONS THAT WOULD UNLAWFULLY DISARM LAW-ABIDING CITIZENS; TO AFFIRM ITS STRONG SUPPORT FOR THE RIGHT OF LAW-ABIDING CITIZENS OF SOUTH CAROLINA TO LAWFULLY CARRY AND CONCEAL FIREARMS IN ACCORDANCE WITH STATE LAW; TO CONDEMN ANY FEDERAL POLICIES, ACTIONS, OR ENFORCEMENT EFFORTS THAT SEEK TO UNDERMINE, RESTRICT, OR DENY THE CONSTITUTIONAL RIGHTS OF CITIZENS WHO ARE LAWFULLY EXERCISING THEIR RIGHT TO KEEP AND BEAR ARMS; AND TO EXPRESS ITS GRATITUDE FOR THE SECOND AMENDMENT AS A CORNERSTONE OF LIBERTY AND A VITAL PROTECTION AGAINST GOVERNMENT TYRANNY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5070"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Invitations and Memorial Resolutions",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bamberg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bamberg\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5070_20260129.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5070.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5070.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5070&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

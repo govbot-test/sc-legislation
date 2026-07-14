@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted, sent to House",
+    "occurred_at": "2026-06-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1201&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 1201"
+}

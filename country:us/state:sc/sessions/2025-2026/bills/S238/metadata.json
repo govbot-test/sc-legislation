@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 2-1-180, RELATING TO ADJOURNMENT OF GENERAL ASSEMBLY AND CONDITIONS FOR EXTENDED SESSION, SO AS TO PROVIDE THAT THE DATE FOR SINE DIE ADJOURNMENT IS AUTOMATICALLY EXTENDED IF THE HOUSE OF REPRESENTATIVES DOES NOT GIVE THIRD READING TO THE ANNUAL APPROPRIATIONS ACT ON OR BEFORE MARCH TENTH, SO AS TO PROVIDE THAT THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES MAY CALL THEIR RESPECTIVE BODIES INTO SESSION AFTER THE SINE DIE ADJOURNMENT DATE TO FINISH ANY UNFINISHED BUSINESS RELATING TO THE GENERAL APPROPRIATIONS BILL OR CAPITAL RESERVE FUND RESOLUTION, TO PROVIDE THE TIME PERIOD DURING WHICH THE SENATE AND THE HOUSE OF REPRESENTATIVES MAY BE CALLED BACK TO COMPLETE THE UNFINISHED BUSINESS RELATING TO THE GENERAL APPROPRIATIONS BILL OR CAPITAL RESERVE FUND RESOLUTION; AND TO PROVIDE FOR THE TOLLING OF THE ONE-HUNDRED-TWENTY-DAY PERIOD THAT THE GENERAL ASSEMBLY HAS TO REVIEW STATE REGULATIONS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 2-1-180, RELATING TO ADJOURNMENT OF THE GENERAL ASSEMBLY AND CONDITIONS FOR EXTENDED SESSION, SO AS TO PROVIDE THAT THE PRESIDENT OF THE SENATE AND THE SPEAKER OF THE HOUSE OF REPRESENTATIVES MAY CALL THEIR RESPECTIVE BODIES INTO SESSION AFTER THE SINE DIE ADJOURNMENT DATE IF THE GENERAL APPROPRIATIONS BILL OR CAPITAL RESERVE FUND RESOLUTION IS NOT COMPLETED BY THE SINE DIE ADJOURNMENT DATE, TO PROVIDE THE TIME PERIOD DURING WHICH THE SENATE AND THE HOUSE OF REPRESENTATIVES MAY BE CALLED BACK TO COMPLETE THOSE MATTERS AND ANY CONFERENCE COMMITTEES APPOINTED ON OR BEFORE THE DATE OF SINE DIE ADJOURNMENT, AND TO PROVIDE FOR THE TOLLING OF THE ONE-HUNDRED-TWENTY-DAY PERIOD THAT THE GENERAL ASSEMBLY HAS TO REVIEW STATE REGULATIONS. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -158,6 +158,183 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:12Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Ways and Means",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate adjourned until Wed., 5-6-26",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-117  Nays-0",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "House amendment amended",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Returned to House with amendments",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-108  Nays-3",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ratified R 127",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Veto overridden by originating body Ayes-39  Nays-0",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Veto overridden Yeas-97  Nays-3",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "veto-override-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Effective date 06/25/26",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Act No. 246",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -252,6 +429,39 @@
       "classification": ""
     },
     {
+      "note": "04/30/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/238_20260430.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/238_20260506.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/07/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/238_20260507.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -283,7 +493,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:12Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T12:49:02.436823Z"
   }
 }

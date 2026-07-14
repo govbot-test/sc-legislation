@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING ARTICLE 1 OF CHAPTER 23, TITLE 50, SECTION 50-23-345, AND SECTION 50-23-375, ALL RELATING TO THE TITLING OF WATERCRAFT AND OUTBOARD MOTORS, SO AS TO DELETE THE REQUIREMENT THAT OUTBOARD MOTORS BE TITLED; BY AMENDING SECTION 12-37-3210, RELATING TO TAX NOTICES FOR BOATS AND BOAT MOTORS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 12-37-3210, RELATING TO TAX NOTICES FOR BOATS, BOAT MOTORS, AND WATERCRAFT, SO AS TO ALLOW THE AUDITOR TO CONSOLIDATE THE TAX NOTICE; BY AMENDING SECTION 50-23-370, RELATING TO WATERCRAFT CERTIFICATES, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 12-37-220, RELATING TO PROPERTY TAX EXEMPTIONS, SO AS TO PROVIDE A PROPERTY TAX EXEMPTION FOR FIFTY PERCENT OF THE FAIR MARKET VALUE OF WATERCRAFT."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING ARTICLE 1 OF CHAPTER 23, TITLE 50, SECTION 50-23-345, AND SECTION 50-23-375, ALL RELATING TO THE TITLING OF WATERCRAFT AND OUTBOARD MOTORS, SO AS TO PROVIDE FOR REGULATIONS ON WATERCRAFT AND OUTBOARD MOTORS; BY AMENDING SECTION 12-37-3210, RELATING TO TAX NOTICES FOR BOATS AND BOAT MOTORS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 50-23-370, RELATING TO WATERCRAFT CERTIFICATES, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 12-37-220, RELATING TO PROPERTY TAX EXEMPTIONS, SO AS TO PROVIDE A PROPERTY TAX EXEMPTION FOR 42.8571 PERCENT OF THE FAIR MARKET VALUE OF WATERCRAFT; TO AMEND SECTION 50-23-425, RELATING TO THE DENIAL OF RENEWAL OF REGISTRATION, SO AS TO INCLUDE OUTBOARD MOTORS; BY ADDING SECTIONS 50-23-430, 50-23-440, 50-23-450, 50-23-460, 50-23-470, AND 50-23-480 ALL SO AS TO PROVIDE FOR REGISTRATION OF OUTBOARD MOTORS; BY REPEALING SECTIONS 50-23-350 AND 50-23-380 RELATING TO THE ISSUANCE OF CERTIFICATES OF NUMBER BY AGENTS AND THE TRANSFER OF REGISTRATION UPON CHANGE OF OWNERSHIP, RESPECTIVELY; BY AMENDING SECTION 50-23-320, RELATING TO THE NUMBERING OF VESSEL EXCEPTIONS, SO AS TO PROVIDE AN EXCEPTION FOR A VESSEL COVERED BY A FEDERALLY APPROVED NUMBERING SYSTEM OF ANOTHER STATE; BY AMENDING SECTION 50-21-10, RELATING TO WATERCRAFT DEFINITIONS, SO AS TO AMEND THE DEFINITION OF \"OUTBOARD MOTOR\"; BY AMENDING SECTION 12-37-220, RELATING TO WATERCRAFT AND MOTORS PROPERTY TAX EXEMPTIONS, SO AS TO REMOVE MOTORS FROM THE EXEMPTION; BY AMENDING SECTION 12-37-714, RELATING TO BOATS WITH SITUS IN THIS STATE, SO AS TO REMOVE REFERENCES TO BOAT MOTORS; BY AMENDING SECTION 12-37-3200, RELATING TO THE TAX YEAR FOR BOATS, SO AS TO REMOVE REFERENCES TO BOAT MOTORS; BY AMENDING SECTION 12-37-3220, RELATING TO PROPERTY TAX RETURNS FOR BOATS, SO AS TO PROVIDE FOR CERTAIN PROPERTY TAX RETURNS; BY AMENDING SECTION 12-37-3230, RELATING TO THE ASSESSED VALUE OF BOATS, SO AS TO PROVIDE FOR THE ASSESSMENT OF BOATS AND WATERCRAFT AND ANY AFFIXED OUTBOARD MOTORS AS A SINGLE UNIT; AND BY AMENDING SECTION 12-37-3240, RELATING TO EXEMPTIONS FROM BOAT AND WATERCRAFT TAX, SO AS TO REMOVE A REFERENCE TO BOAT MOTORS. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -298,6 +298,181 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:11Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Finance",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Special order, set for March 3, 2026",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-39  Nays-1",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-39  Nays-1",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-111  Nays-0",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Ratified R 116",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Effective date See Act for Effective Date",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Act No. 109",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -326,11 +501,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -829,6 +1004,50 @@
       "classification": ""
     },
     {
+      "note": "02/18/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3858_20260218.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3858_20260304.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/05/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3858_20260305.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/24/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3858_20260324.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -860,7 +1079,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:11Z",
+    "logs_latest_update": "2026-07-14T13:54:35Z",
     "text_extraction_latest_update": "2026-07-13T12:20:43.220204Z"
   }
 }

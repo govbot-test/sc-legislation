@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 1008",
+  "title": "Negligent Security",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 3 TO CHAPTER 3, TITLE 27, SO AS TO DEFINE TERMS RELATED TO NEGLIGENT SECURITY; TO PROVIDE THAT AN OWNER OR OCCUPIER SHALL BE HELD LIABLE FOR NEGLIGENT SECURITY ARISING FROM ANY INJURY SUSTAINED BY A PERSON UPON THE OWNER OR OCCUPIER'S PREMISES IF THE PLAINTIFF PROVES THE INJURY WAS FORESEEABLE AND OTHER FACTS; TO PROVIDE SITUATIONS IN WHICH AN OWNER OR OCCUPIER SHALL BE HELD LIABLE FOR NEGLIGENT SECURITY SUSTAINED BY ANY PERSON UPON THE PREMISES BY A THIRD PERSON; TO PROVIDE EXCEPTIONS; TO PROVIDE THAT NO OWNER OR OCCUPIER IS REQUIRED TO EXERCISE EXTRAORDINARY CARE TO KEEP PEOPLE ON THE PREMISES SAFE FROM THEIR WRONGFUL CONDUCT; TO PROVIDE STANDARDS OF NEGLIGENT SECURITY FOR SECURITY CONTRACTORS; TO OUTLINE PROVISIONS FOR TRIAL, LIABILITY, AND RELIEF FOR SUITS ARISING FROM NEGLIGENT SECURITY CLAIMS; AND TO LIMIT REMEDIES FOR NEGLIGENT SECURITY AGAINST OWNERS AND OCCUPIERS TO THE PROVISIONS IN THIS ACT."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s1008"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Verdin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Verdin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gambrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Gambrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bennett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bennett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blackmon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Blackmon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/12/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1008_20260312.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1008.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1008.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1008&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:35Z"
+  }
+}

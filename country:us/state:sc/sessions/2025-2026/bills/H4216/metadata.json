@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 12-6-510, RELATING TO INCOME TAX RATES FOR INDIVIDUALS, ESTATES, AND TRUSTS, SO AS TO REDUCE THE INCOME TAX RATE TO A FLAT 3.99 PERCENT AND TO SET FORTH STANDARDS FOR ADDITIONAL REDUCTIONS; BY AMENDING SECTION 12-6-50, RELATING TO INTERNAL REVENUE CODE SECTIONS SPECIFICALLY NOT ADOPTED BY THE STATE, SO AS TO NOT ADOPT THE FEDERAL STANDARD DEDUCTION AND ITEMIZED DEDUCTION; BY AMENDING SECTION 12-6-1140, RELATING TO INCOME TAX DEDUCTIONS, SO AS TO ALLOW FOR A SOUTH CAROLINA INCOME ADJUSTED DEDUCTION (SCIAD); BY AMENDING SECTION 12-6-4910, RELATING TO PERSONS REQUIRED TO FILE A TAX RETURN, SO AS TO MAKE A CONFORMING CHANGE TO THE CALCULATION; AND BY AMENDING SECTION 12-6-1720, RELATING TO ADJUSTMENTS TO THE TAXABLE INCOME OF NONRESIDENT INDIVIDUALS, SO AS TO MAKE A CONFORMING CHANGE."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 12-6-510, RELATING TO INCOME TAX RATES FOR INDIVIDUALS, ESTATES, AND TRUSTS, SO AS TO REDUCE THE TOP MARGINAL INCOME TAX RATE TO 5.21 PERCENT, TO CREATE ANOTHER INCOME TAX BRACKET TO WHICH A 1.99 PERCENT RATE APPLIES, AND TO SET FORTH STANDARDS FOR ADDITIONAL REDUCTIONS; BY AMENDING SECTION 12-6-50, RELATING TO INTERNAL REVENUE CODE SECTIONS SPECIFICALLY NOT ADOPTED BY THE STATE, SO AS TO NOT ADOPT THE FEDERAL STANDARD DEDUCTION AND ITEMIZED DEDUCTION; BY AMENDING SECTION 12-6-1140, RELATING TO INCOME TAX DEDUCTIONS, SO AS TO ALLOW FOR A SOUTH CAROLINA INCOME ADJUSTED DEDUCTION (SCIAD); BY AMENDING SECTION 12-6-4910, RELATING TO PERSONS REQUIRED TO FILE A TAX RETURN, SO AS TO MAKE A CONFORMING CHANGE TO THE CALCULATION; BY AMENDING SECTION 12-6-1720, RELATING TO ADJUSTMENTS TO THE TAXABLE INCOME OF NONRESIDENT INDIVIDUALS, SO AS TO MAKE A CONFORMING CHANGE; AND BY AMENDING SECTION 12-6-3632, RELATING TO THE EARNED INCOME TAX CREDIT, SO AS TO ESTABLISH A MAXIMUM CREDIT AMOUNT. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -238,6 +238,137 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable Finance",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Debate interrupted",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-39  Nays-5",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to House with amendments",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-71  Nays-49",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ratified R 117",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Effective date See Act for Effective Date",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Act No. 110",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -442,11 +573,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -762,6 +893,28 @@
       "classification": ""
     },
     {
+      "note": "01/21/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4216_20260121.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/24/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4216_20260224.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -793,7 +946,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T10:39:20.706998Z"
   }
 }

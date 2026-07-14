@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5438",
+  "title": "SC Community Choice Aggregation Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SOUTH CAROLINA COMMUNITY CHOICE AGGREGATION ACT\" BY ADDING CHAPTER 45 TO TITLE 58 SO AS TO PROVIDE THE REQUIREMENTS FOR ESTABLISHING A COMMUNITY CHOICE AGGREGATION; TO PROVIDE FOR THE RELATED DUTIES OF THE PUBLIC SERVICE COMMISSION AND THE OFFICE OF REGULATORY STAFF; TO PROVIDE FOR THE RESPONSIBILITIES OF THE ELECTRICAL UTILITIES; TO PROVIDE THAT PARTICIPATION IN COMMUNITY CHOICE AGGREGATIONS ARE VOLUNTARY AND REQUIRE NOTICE AND OPT-OUT PROVISIONS; TO ESTABLISH STANDARDS FOR COMMUNITY CHOICE AGGREGATION RATES; TO PROVIDE REQUIREMENTS FOR COMMUNITY CHOICE AGGREGATIONS RELATED TO ITS RESOURCES, PLANNING, MARKETING, BILLING, ANNUAL REPORTS, AND FINANCIAL SECURITY; TO REQUIRE THE OFFICE OF REGULATORY STAFF TO ESTABLISH A COMPLAINT AND DISPUTE RESOLUTION PROCESS FOR CUSTOMERS; TO PROHIBIT CUSTOMER DATA BEING USED FOR PURPOSES OTHER THAN PROVIDING SERVICES AND TO SAFEGUARD CUSTOMER DATA; TO PERMIT TERMINATION OF SERVICE PURSUANT TO TERMS APPROVED BY THE PUBLIC SERVICE COMMISSION; TO PERMIT THE OFFICE OF REGULATORY STAFF TO AUDIT COMMUNITY CHOICE AGGREGATIONS AND THEIR VENDORS; TO PERMIT AN ELECTRIC COOPERATIVE OR MUNICIPAL UTILITY TO EITHER OFFER OR PARTICIPATE IN A COMMUNITY CHOICE AGGREGATION; AND TO REQUIRE THE PUBLIC SERVICE COMMISSION TO PROMULGATE REGULATIONS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5438"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5438_20260326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5438_20260604.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5438.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5438.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5438&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

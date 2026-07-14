@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Member(s) request name added as sponsor: Bowers, Moss, Hartz, Lawson, Rankin, Guest, Brittain, Lowe, Sanders, M.M.Smith, T.Moore, Ballentine, Martin, Ligon, Oremus, Pedalino, Calhoon, Davis, Taylor, Holman, Erickson, Brewer, Gatch, Yow, Haddon, Hixon, Hiott, Wickensimer, Jordan, Hardee",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3477&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3477"
+}

@@ -1,0 +1,202 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5062",
+  "title": "Criminal Gang and Anti-Racketeering",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 16-8-230, RELATING TO DEFINITIONS FOR THE PURPOSES OF THE CRIMINAL GANG PREVENTION ACT, SO AS TO REVISE THE DEFINITIONS; BY AMENDING SECTION 16-8-240, RELATING TO USE OF OR THREAT OF PHYSICAL VIOLENCE BY CRIMINAL GANG MEMBERS AND PENALTIES, SO AS TO REVISE THE STATUTE AND ESTABLISH UNLAWFUL CRIMINAL GANG ACTIVITY OFFENSES; BY ADDING SECTION 16-8-245 SO AS TO PROVIDE ADMISSIBILITY OF CRIMINAL GANG AND CRIMINAL GANG ACTIVITY EVIDENCE DURING A TRIAL OR PROCEEDING; BY AMENDING SECTION 16-8-250, RELATING TO PREVENTING WITNESSES OR VICTIMS FROM TESTIFYING AND PENALTIES, SO AS TO PROVIDE A MECHANISM TO ABATE A PUBLIC NUISANCE OF REAL PROPERTY USED BY A CRIMINAL GANG; BY ADDING SECTION 16-8-275 SO AS TO PROVIDE ADMISSIBILITY IN A CRIMINAL PROCEEDING OF THE ACCUSED'S COMMISSION OF CRIMINAL GANG ACTIVITY; BY ADDING ARTICLE 5 TO CHAPTER 8, TITLE 16 SO AS TO ENACT THE \"ANTI-RACKETEERING ACT\", TO PROVIDE APPROPRIATE DEFINITIONS FOR THE ANTI-RACKETEERING ACT, TO PROVIDE IT IS UNLAWFUL FOR ANY PERSON TO ENGAGE IN RACKETEERING ACTIVITY, TO PROVIDE CRIMINAL PENALTIES FOR ENGAGING IN RACKETEERING ACTIVITY, TO PROVIDE THAT THE CIRCUIT COURT MAY ENJOIN VIOLATIONS OF THE ANTI-RACKETEERING ACT BY ISSUING APPROPRIATE ORDERS, TO ESTABLISH JURISDICTION FOR RACKETEERING ACTIVITY, AND TO PROVIDE PROTECTION FROM DISCLOSURE OF INFORMANTS; AND BY AMENDING SECTION 14-7-1630, RELATING TO THE JURISDICTION OF THE STATE GRAND JURY, AMONG OTHER THINGS, SO AS TO ADD THE CRIME OF RACKETEERING TO THE JURISDICTION OF THE STATE GRAND JURY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5062"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Robbins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Robbins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gatch",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gatch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Moore",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Yow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Calhoon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Calhoon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cox",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Cox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brittain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brittain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5062_20260129.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5062.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5062.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5062&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

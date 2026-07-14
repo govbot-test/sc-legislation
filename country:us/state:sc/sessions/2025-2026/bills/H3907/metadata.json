@@ -46,13 +46,13 @@
       }
     },
     {
-      "description": "Member(s) request name added as sponsor: T.Moore, Montgomery, B.L.Cox, Holman, Wooten, Lawson, Collins, Mitchell, Yow, Wickensimer, Gilliam, Rankin",
+      "description": "Member(s) request name added as sponsor: T.Moore, Montgomery, B.L.Cox, Holman, Wooten, Lawson, Collins, C.Mitchell, Yow, Wickensimer, Gilliam, Rankin",
       "date": "2025-02-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:11Z"
+        "log_file_created": "2026-07-14T13:54:37Z"
       }
     },
     {
@@ -73,6 +73,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:11Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Chapman",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
       }
     }
   ],
@@ -174,11 +184,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -235,6 +245,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chapman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chapman\"}",
       "organization_id": null
     }
   ],
@@ -294,7 +312,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:11Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T09:58:59.187976Z"
   }
 }

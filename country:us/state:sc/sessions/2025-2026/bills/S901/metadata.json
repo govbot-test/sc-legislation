@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 901",
+  "title": "Equal Parenting Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"EQUAL PARENTING ACT\"; BY AMENDING SECTIONS 63-3-810, 63-3-820, 63-3-830, 63-3-850, AND 63-3-870, ALL RELATING TO GUARDIANS AD LITEM APPOINTED IN PRIVATE FAMILY COURT ACTIONS, SO AS TO PROVIDE CERTAIN PROTECTIONS AGAINST GUARDIAN AD LITEM BIAS OR OTHER MISCONDUCT, TO CLARIFY THAT EQUAL PARENTING TIME FOR BOTH PARENTS IS PRESUMED TO BE IN A CHILD'S BEST INTEREST, AND TO ADDRESS THE APPORTIONMENT OF FEES AND COSTS; BY AMENDING SECTIONS 63-15-210, 63-15-220, 63-15-230, AND 63-15-240, ALL RELATING TO CHILD CUSTODY HEARINGS, SO AS TO PROVIDE THAT EQUAL PARENTING TIME IS PRESUMED TO BE IN A CHILD'S BEST INTEREST IN CHILD CUSTODY ACTIONS, THAT PARENTAL INTERFERENCE WITH THE PARENTING TIME OF THE OTHER PARENT IS GROUNDS FOR MODIFICATION OF A CHILD CUSTODY ORDER, AND FOR OTHER PURPOSES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s901"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimbrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimbrell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cash",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cash\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/10/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/901_20260210.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/901.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/901.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=901&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 735",
+  "title": "Sanctuary Jurisdictions and Release of Illegal Aliens",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 8-31-10 SO AS TO CREATE THE \"PROHIBITION OF SANCTUARY JURISDICTIONS ACT\"; BY ADDING SECTION 8-31-20 SO AS TO PROVIDE THAT FUNDS APPROPRIATED BY THE STATE MUST NOT BE OBLIGATED OR EXPENDED FOR A COUNTY, MUNICIPALITY, CITY, PUBLIC SERVICE DISTRICT, SPECIAL PURPOSE DISTRICT, SPECIAL TAX DISTRICT, OR ANY TYPE OF POLITICAL SUBDIVISION DETERMINED BY A COURT OF COMPETENT JURISDICTION TO BE A SANCTUARY JURISDICTION; BY ADDING SECTION 8-31-30 SO AS TO AUTHORIZE THE SOUTH CAROLINA LAW ENFORCEMENT DIVISION TO PUBLISH THE IMMIGRATION COMPLIANCE REPORT AND FOR THE STATE TREASURER TO WITHHOLD DISBURSEMENTS FROM THE LOCAL GOVERNMENT FUND TO ANY COUNTY OR MUNICIPALITY NOT CERTIFIED AS COMPLIANT IN THE REPORT; BY AMENDING SECTION 17-15-10, RELATING TO A PERSON CHARGED WITH A NONCAPITAL OFFENSE MAY BE RELEASED ON HIS OWN RECOGNIZANCE, SO AS TO PROVIDE THAT AN ILLEGAL ALIEN DETAINED BY A LOCAL OR STATE LAW ENFORCEMENT AGENCY NOT BE RELEASED INTO THE COMMUNITY, BUT HELD UNTIL TRANSFERRED TO THE UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT; AND BY AMENDING SECTION 17-15-30, RELATING TO MATTERS TO BE CONSIDERED IN DETERMINING CONDITIONS OF RELEASE, SO AS TO PROVIDE FOR AN ALIEN UNLAWFULLY PRESENT IN THE UNITED STATES THAT THE PROVISIONS OF SECTION 17-15-10(C) BE FOLLOWED."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s735"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kennedy",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bright",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Bright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fernandez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Fernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Leber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/10/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/735_20251210.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "01/21/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/735_20260121.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/735.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/735.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=735&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

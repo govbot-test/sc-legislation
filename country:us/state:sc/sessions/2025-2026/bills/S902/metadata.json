@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 902",
+  "title": "Data Centers",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"DATA CENTER SITING ACT\"; BY ADDING SECTION 58-44-10 SO AS TO DEFINE TERMS PERTAINING TO DATA CENTER SITING; BY ADDING SECTION 58-44-20 SO AS TO REQUIRE A CERTIFICATE ISSUED BY THE PUBLIC SERVICE COMMISSION BEFORE A DATA CENTER MAY BEGIN OPERATIONS IN SOUTH CAROLINA AND TO PROVIDE FOR THE APPLICATION PROCESS; BY ADDING SECTION 58-44-30 SO AS TO PROVIDE FOR THE CERTIFICATION PROCEEDING PROCESS; BY ADDING SECTION 58-44-40 SO AS TO PROVIDE FOR THE PARTIES TO A CERTIFICATION PROCEEDING; BY ADDING SECTION 58-44-50 SO AS TO PROVIDE FOR THE EVALUATIVE CRITERIA FOR CONSIDERATION OF AN APPLICATION; BY ADDING SECTION 58-44-60 SO AS TO PROVIDE FOR THE CREATION OF A RECORD OF ANY HEARING AND TESTIMONY TAKEN CERTIFICATION PROCEEDING; BY ADDING SECTION 58-44-70 SO AS TO PROVIDE FOR THE REQUIREMENTS FOR GRANTING OR DENYING AN APPLICATION; BY ADDING SECTION 58-44-80 SO AS TO PROVIDE FOR THE ISSUANCE OF AN ORDER BY THE COMMISSION; BY ADDING SECTION 58-44-90 SO AS TO PROVIDE FOR OPERATIONAL EFFICIENCY STANDARDS; BY ADDING SECTION 58-44-100 SO AS TO PROVIDE FOR WATER EFFICIENCY STANDARDS; BY ADDING SECTION 58-44-110 SO AS TO PROVIDE FOR ANNUAL REPORTING ON COMPLIANCE WITH WATER EFFICIENCY STANDARDS AND OPERATIONAL EFFICIENCY STANDARDS; BY ADDING SECTION 58-44-120 SO AS TO PROVIDE FOR INFRASTRUCTURE ADEQUACY ASSESSMENTS, TO PROVIDE FOR ENVIRONMENTAL IMPACT ASSESSMENTS, AND TO PROVIDE FOR REASONABLE BUFFER REQUIREMENTS; BY ADDING SECTION 58-44-130 SO AS TO PROVIDE FOR THE PUBLIC SERVICE COMMISSION'S ROLE CONCERNING RATES, AGREEMENTS BETWEEN UTILITIES AND DATA CENTERS, AND COST ALLOCATION METHODOLOGIES; BY ADDING SECTION 58-44-140 SO AS TO PROVIDE FOR DECOMMISSIONING PLANS AND FINANCIAL ASSURANCES ASSOCIATED WITH DECOMMISSIONING; BY ADDING SECTION 58-44-150 SO AS TO PROVIDE FOR THE INTERACTION BETWEEN THE PROVISIONS OF THIS CHAPTER AND LOCAL GOVERNMENTS AND LOCAL GOVERNMENT LAND USE PLANNING; BY ADDING SECTION 58-44-160 SO AS TO REQUIRE DATA CENTERS TO IMPLEMENT REASONABLE MEASURES TO MINIMIZE NOISE, VIBRATION, AND LIGHT IMPACTS RESULTING FROM THEIR OPERATION; BY ADDING SECTION 58-44-170 SO AS TO PROVIDE PROTECTIONS FOR CONFIDENTIAL INFORMATION SHARED BY DATA CENTER OPERATORS; BY ADDING SECTION 58-44-180 SO AS TO CLARIFY THE INTERACTION BETWEEN THIS CHAPTER AND OTHER ENVIRONMENTAL LAWS; BY ADDING SECTION 58-44-190 SO AS TO PROVIDE FOR ENFORCEMENT AND PENALTIES; TO PROVIDE FOR REGULATIONS FROM THE PUBLIC SERVICE COMMISSION, THE OFFICE OF REGULATORY STAFF, AND THE DEPARTMENT OF ENVIRONMENTAL SERVICES; PROVIDE THAT FOR TWO YEARS AFTER ENACTMENT THE DEPARTMENT OF ENVIRONMENTAL SERVICES SHALL PRIORITIZE TECHNICAL ASSISTANCE AND GUIDANCE OVER ENFORCEMENT TO FACILITATE INDUSTRY TRANSITION TO THE NEW REQUIREMENTS; AUTHORIZE THE PUBLIC SERVICE COMMISSION TO CREATE A GENERIC DOCKET BY THE PUBLIC SERVICE COMMISSION TO IMPLEMENT THIS ACT AND DEVELOP REGULATIONS; AND PROVIDE FOR ANNUAL REPORTING BY THE PUBLIC SERVICE COMMISSION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s902"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rankin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rankin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Devine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Devine\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/10/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/902_20260210.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/902.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/902.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=902&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:38Z"
+  }
+}

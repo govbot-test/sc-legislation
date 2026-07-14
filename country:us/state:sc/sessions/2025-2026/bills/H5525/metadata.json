@@ -1,0 +1,146 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5525",
+  "title": "SC Electric Cooperative Consumer Protection & Wholesale Market Access Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ENACTING THE \"SOUTH CAROLINA ELECTRIC COOPERATIVE CONSUMER PROTECTION AND WHOLESALE MARKET ACCESS ACT\" BY ADDING ARTICLE 29 TO CHAPTER 27, TITLE 58 SO AS TO PROVIDE DEFINITIONS, ESTABLISH REQUIREMENTS FOR GENERATION AND TRANSMISSION COOPERATIVES FOR MAJOR CAPITAL EXPENDITURE CONTRACTS OR AGREEMENTS, AND ESTABLISH AN OVERSIGHT AND APPROVAL PROCESS BY THE PUBLIC SERVICE COMMISSION; TO REQUIRE GENERATION AND TRANSMISSION COOPERATIVES TO FILE PROPOSED RATES AND TERMS OF SERVICE TO DISTRIBUTION COOPERATIVES FOR APPROVAL BY THE PUBLIC SERVICE COMMISSION AND TO REQUIRE TRIENNIAL WHOLESALE RATE REVIEWS BY THE PUBLIC SERVICE COMMISSION; TO ESTABLISH THAT DISTRIBUTION COOPERATIVES HAVE A RIGHT TO PETITION THE PUBLIC SERVICE COMMISSION FOR EXIT SETTLEMENTS FROM WHOLESALE POWER CONTRACTS WITH A GENERATION AND TRANSMISSION COOPERATIVE AND TO PROVIDE PROCESSES AND STANDARDS FOR EXIT SETTLEMENTS; TO PROHIBIT GENERATION AND TRANSMISSION COOPERATIVES FROM TAKING CERTAIN UNILATERAL ACTIONS WITHOUT THE PUBLIC SERVICE COMMISSION'S APPROVAL; TO REQUIRE THE OFFICE OF REGULATORY STAFF TO REPRESENT DISTRIBUTION COOPERATIVES' INTERESTS BEFORE THE PUBLIC SERVICE COMMISSION IN PROCEEDINGS DESCRIBED IN THIS ARTICLE; TO REQUIRE GENERATION AND TRANSMISSION COOPERATIVES TO FILE AN ANNUAL FINANCIAL REPORT WITH THE PUBLIC SERVICE COMMISSION; TO AUTHORIZE THE PUBLIC SERVICE COMMISSION TO PROMULGATE RELATED RULES AND REGULATIONS; TO ADDRESS HOW THE ARTICLE MAY NOT BE CONSTRUED; AND TO REQUIRE SANTEE COOPER'S COOPERATION IN CERTAIN CIRCUMSTANCES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5525"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "C. Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Williams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Atkinson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Atkinson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luck",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Luck\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hayes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hayes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "04/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5525_20260414.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5525.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5525.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5525&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

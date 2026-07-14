@@ -1,0 +1,164 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 4731",
+  "title": "South Carolina Arts Initiative",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 60-15-25 SO AS TO ABOLISH THE SOUTH CAROLINA ARTS COMMISSION AND TRANSFER AND DEVOLVE ITS FUNCTIONS, POWERS, AND DUTIES TO THE SOUTH CAROLINA DEPARTMENT OF EDUCATION, TO TRANSFER THE EMPLOYEES, RECORDS, PROPERTY, AND TO TRANSFER THE UNEXPENDED FUNDS OF THE COMMISSION TO THE DEPARTMENT, AND TO PROVIDE RULES, REGULATIONS, STANDARDS, ORDERS, AND OTHER ACTIONS OF THE COMMISSION REMAIN IN EFFECT UNLESS SPECIFICALLY CHANGED OR VOIDED BY THE DEPARTMENT PURSUANT TO THE ADMINISTRATIVE PROCEDURES ACT; BY AMENDING SECTION 60-15-10, RELATING TO STATE POLICIES REGARDING THE ARTS, SO AS TO REVISE THE POLICIES; BY AMENDING SECTION 60-15-90, RELATING TO DESIGNATION OF THE COMMISSION AS THE OFFICIAL AGENCY OF STATE TO RECEIVE CERTAIN FEDERAL FUNDS RELATED TO CREATIVE AND INTERPRETIVE ARTS PROGRAMS, SO AS TO MAKE CONFORMING CHANGES; BY AMENDING SECTION 60-15-60, RELATING TO DUTIES OF THE COMMISSION, SO AS TO MAKE CONFORMING CHANGES; BY AMENDING SECTION 60-15-80, RELATING TO COMMISSION REPORTING REQUIREMENTS, SO AS TO MAKE CONFORMING CHANGES; TO REDESIGNATE CHAPTER 15, TITLE 60 OF THE S.C. CODE AS \"SOUTH CAROLINA ARTS INITIATIVES\"; BY REPEALING SECTION 60-15-20 RELATING TO THE CREATION OF THE COMMISSION AND APPOINTMENT OF ITS MEMBERS; BY REPEALING SECTION 60-15-30 RELATING TO TERMS OF COMMISSION MEMBERS; BY REPEALING SECTION 60-15-40 RELATING TO COMPENSATION OF COMMISSION MEMBERS; BY REPEALING SECTION 60-15-50 RELATING TO THE AUTHORITY OF THE COMMISSION TO EMPLOY AND REMOVE OFFICERS AND OTHER EMPLOYEES; BY REPEALING SECTION 60-15-70 RELATING TO COMMISSION POWERS; AND BY REPEALING SECTION 60-15-75 RELATING TO STATEWIDE CULTURAL DISTRICTS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h4731"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Education and Public Works",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Education and Public Works",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Bowers",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Long",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Long\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chumley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chumley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edgerton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edgerton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bowers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bowers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "12/17/2025",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4731_20251217.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4731.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4731.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4731&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:35Z"
+  }
+}

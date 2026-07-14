@@ -46,13 +46,13 @@
       }
     },
     {
-      "description": "Member(s) request name added as sponsor: Gilreath, Huff, White, Terribile, Ballentine, Yow, Mitchell, McGinnis, Hardee, Willis, B.J.Cox, Hager, M.M.Smith, Chumley, Long, Ligon, Moss, Lawson, Bowers, Frank, Pace, McCravy, Gibson, Oremus, Vaughan",
+      "description": "Member(s) request name added as sponsor: Gilreath, Huff, White, Terribile, Ballentine, Yow, C.Mitchell, McGinnis, Hardee, Willis, B.J.Cox, Hager, M.M.Smith, Chumley, Long, Ligon, Moss, Lawson, Bowers, Frank, Pace, McCravy, Gibson, Oremus, Vaughan",
       "date": "2025-03-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:09Z"
+        "log_file_created": "2026-07-14T13:54:38Z"
       }
     },
     {
@@ -93,6 +93,46 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:07:09Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: D.Mitchell",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Lastinger",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Gilliam",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Pedalino",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:38Z"
       }
     }
   ],
@@ -154,11 +194,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -400,6 +440,38 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guffey\"}",
       "organization_id": null
+    },
+    {
+      "name": "D. Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"D. Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lastinger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lastinger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilliam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilliam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pedalino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pedalino\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -447,7 +519,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:38Z",
     "text_extraction_latest_update": "2026-07-13T11:47:23.577827Z"
   }
 }

@@ -1,0 +1,153 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5283",
+  "title": "SC Utility Citizens Council",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING CHAPTER 45 TO TITLE 58 SO AS TO ESTABLISH THE SOUTH CAROLINA UTILITY CITIZENS COUNCIL TO SERVE AS AN INDEPENDENT ADVISORY BODY TO THE PUBLIC SERVICE COMMISSION; TO PROVIDE FOR THE UTILITY CITIZENS COUNCIL'S MEMBERSHIP, DUTIES, AND RESPONSIBILITIES; TO PERMIT THE UTILITY CITIZENS COUNCIL TO HAVE ACCESS TO CERTAIN INFORMATION SUBMITTED TO THE PUBLIC SERVICE COMMISSION; TO PROVIDE FUNDING FOR THE UTILITY CITIZENS COUNCIL FROM REGULATED UTILITIES, ESTABLISH COST RECOVERY REQUIREMENTS AND PENALTIES FOR FAILURE TO PROVIDE FUNDING, AND PROVIDE FOR ITS ADMINISTRATION; TO REQUIRE THE SOUTH CAROLINA ENERGY JUSTICE COALITION TO PROVIDE STAFFING AND OTHER DUTIES; TO REQUIRE THE PUBLIC SERVICE COMMISSION TO PROVIDE THE COUNCIL WITH RELEVANT DOCUMENTATION UPON NOTICE OF A UTILITY RATE CASE OR MAJOR FILING, TO PERMIT THE COUNCIL TO PARTICIPATE IN PUBLIC SERVICE COMMISSION PROCEEDINGS, AND TO REQUIRE THE COMMISSION TO INCLUDE A SUMMARY OF THE COUNCIL'S RECOMMENDATIONS AND COMMISSION'S RESPONSES IN COMMISSION ORDERS; AND TO REQUIRE THE COUNCIL, IN CONSULTATION WITH THE OFFICE OF REGULATORY STAFF, TO DEVELOP ENERGY AFFORDABILITY METRICS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5283"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Dillard, Jones",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-06-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Reese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Reese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dillard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dillard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5283_20260226.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5283_20260604.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5283.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5283.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5283&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

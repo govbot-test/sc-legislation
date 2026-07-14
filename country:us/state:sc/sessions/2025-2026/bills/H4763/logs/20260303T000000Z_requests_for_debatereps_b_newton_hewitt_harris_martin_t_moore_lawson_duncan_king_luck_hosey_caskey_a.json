@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Requests for debate-Rep(s). B. Newton, Hewitt, Harris, Martin, T. Moore, Lawson, Duncan, King, Luck, Hosey, Caskey, and Guest",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4763&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 4763"
+}

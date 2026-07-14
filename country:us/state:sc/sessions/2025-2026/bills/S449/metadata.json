@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 40-43-30, RELATING TO DEFINITIONS FOR THE SOUTH CAROLINA PHARMACY PRACTICE ACT, SO AS TO PROVIDE A DEFINITION FOR COLLABORATIVE PRACTICE AGREEMENTS; BY ADDING SECTION 40-43-245 SO AS TO AUTHORIZE PHARMACISTS AND PHYSICIANS TO ENTER INTO COLLABORATIVE PRACTICE AGREEMENTS; BY AMENDING SECTION 40-47-20, RELATING TO DEFINITIONS FOR PHYSICIANS AND MISCELLANEOUS HEALTHCARE PROFESSIONALS, SO AS TO PROVIDE A DEFINITION FOR COLLABORATIVE PRACTICE AGREEMENTS; BY ADDING SECTION 40-47-205 SO AS TO AUTHORIZE PHYSICIANS AND PHARMACISTS TO ENTER INTO COLLABORATIVE PRACTICE AGREEMENTS; AND TO REQUIRE THE STATE BOARD OF PHARMACY AND THE STATE BOARD OF MEDICAL EXAMINERS TO PROMULGATE REGULATIONS GOVERNING THE USE OF COLLABORATIVE PRACTICE AGREEMENTS AND TO PROVIDE THAT COLLABORATIVE PRACTICE AGREEMENTS MAY NOT BE IMPLEMENTED UNTIL AFTER THE REGULATIONS ARE EFFECTIVE."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 40-43-30, RELATING TO DEFINITIONS FOR THE SOUTH CAROLINA PHARMACY PRACTICE ACT, SO AS TO PROVIDE A DEFINITION FOR COLLABORATIVE PRACTICE AGREEMENTS; BY ADDING SECTION 40-43-245 SO AS TO AUTHORIZE PHARMACISTS AND PHYSICIANS TO ENTER INTO COLLABORATIVE PRACTICE AGREEMENTS; BY AMENDING SECTION 40-47-20, RELATING TO DEFINITIONS FOR PHYSICIANS AND MISCELLANEOUS HEALTHCARE PROFESSIONALS, SO AS TO PROVIDE A DEFINITION FOR COLLABORATIVE PRACTICE AGREEMENTS; BY ADDING SECTION 40-47-205 SO AS TO AUTHORIZE PHYSICIANS AND PHARMACISTS TO ENTER INTO COLLABORATIVE PRACTICE AGREEMENTS; AND TO REQUIRE THE STATE BOARD OF PHARMACY AND THE STATE BOARD OF MEDICAL EXAMINERS TO PROMULGATE REGULATIONS GOVERNING THE USE OF COLLABORATIVE PRACTICE AGREEMENTS AND TO PROVIDE THAT COLLABORATIVE PRACTICE AGREEMENTS MAY NOT BE IMPLEMENTED UNTIL AFTER THE REGULATIONS ARE EFFECTIVE. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -116,6 +116,157 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:08Z"
       }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Medical, Military, Public and Municipal Affairs",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-108  Nays-0",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Unanimous consent for third reading on next legislative day",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Non-concurrence in House amendment",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "House recedes from amendment(s)",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ordered enrolled for ratification",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Ratified R 138",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Effective date 05/18/26",
+      "date": "2026-06-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Act No. 166",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -161,6 +312,50 @@
       "classification": ""
     },
     {
+      "note": "03/25/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/449_20260325.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/449_20260326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/31/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/449_20260331.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/449_20260513.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -192,7 +387,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:08Z",
+    "logs_latest_update": "2026-07-14T13:54:37Z",
     "text_extraction_latest_update": "2026-07-13T12:57:02.510269Z"
   }
 }

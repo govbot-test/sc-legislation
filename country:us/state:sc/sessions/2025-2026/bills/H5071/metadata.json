@@ -1,0 +1,567 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5071",
+  "title": "Department of Transportation",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 57-1-410, RELATING TO THE SECRETARY OF THE DEPARTMENT OF TRANSPORTATION, SO AS TO PROVIDE THAT THE GOVERNOR SHALL APPOINT THE SECRETARY INSTEAD OF THE COMMISSION OF THE DEPARTMENT OF TRANSPORTATION; BY AMENDING SECTION 1-30-10, RELATING TO THE DEPARTMENTS OF STATE GOVERNMENT AND THEIR GOVERNING BODIES, SO AS TO DELETE THE PROVISION THAT PROVIDES THAT PART OF THE GOVERNING BODY OF THE DEPARTMENT OF TRANSPORTATION IS A SEVEN-MEMBER COMMISSION; BY AMENDING SECTION 1-30-105, RELATING TO THE ESTABLISHMENT OF THE DEPARTMENT OF TRANSPORTATION, SO AS TO PROVIDE THAT THE GOVERNING AUTHORITY OF THE DEPARTMENT OF TRANSPORTATION IS THE SECRETARY OF TRANSPORTATION; BY AMENDING SECTION 11-43-140, RELATING TO THE BOARD OF DIRECTORS OF THE TRANSPORTATION INFRASTRUCTURE BANK, SO AS TO REMOVE THE CHAIRMAN OF THE DEPARTMENT OF TRANSPORTATION COMMISSION AS A DIRECTOR, AND TO PROVIDE THAT THE SECRETARY OF TRANSPORTATION IS A MEMBER OF THE BOARD; BY AMENDING SECTIONS 57-1-10, 57-1-40, 57-1-370, AND 57-1-430, ALL RELATING TO THE ESTABLISHMENT OF THE DEPARTMENT OF TRANSPORTATION, AND ITS DUTIES AND RESPONSIBILITIES, SO AS TO ELIMINATE THE DEPARTMENT OF TRANSPORTATION COMMISSION AND ITS RESPONSIBILITIES, TO ALLOW THE GOVERNOR TO APPOINT THE SECRETARY OF TRANSPORTATION AND REQUIRE THE DEPARTMENT OF TRANSPORTATION SUBMIT TO THE GENERAL ASSEMBLY AN ITEMIZED PROJECT LIST TO BE FUNDED FOR THE FISCAL YEAR IN WHICH THE GENERAL ASSEMBLY WOULD ENACT ITS ANNUAL GENERAL APPROPRIATIONS ACT; BY AMENDING SECTION 57-3-50, RELATING TO THE ESTABLISHMENT OF HIGHWAY DISTRICTS, SO AS TO SUBSTITUTE THE TERM \"DEPARTMENT\" FOR THE TERM \"COMMISSION\"; BY AMENDING SECTION 57-1-90, RELATING TO MOTORCYCLES, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 57-3-210, RELATING TO THE DEPARTMENT OF TRANSPORTATION CONTRACTING WITH PUBLIC TRANSIT SYSTEMS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 57-3-700, RELATING TO THE DEPARTMENT OF TRANSPORTATION SERVING AS AN AGENT FOR COUNTIES, SO AS TO MAKE A CONFORMING CHANGE;  BY AMENDING SECTION 57-5-50, RELATING TO THE TRANSFER OF CERTAIN ROADS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 57-5-90, RELATING TO BELT LINES AND SPURS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 57-5-340, RELATING TO THE DISPOSITION OF REAL ESTATE, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTIONS 57-13-10, 57-13-20, 57-13-40, AND 57-13-50, ALL RELATING TO BRIDGES, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTION 57-25-120, RELATING TO DEFINITIONS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTIONS 57-25-140, 57-25-150, 57-25-170, 57-25-200, AND 57-25-210, ALL RELATING TO SIGNS ALONG THE HIGHWAYS, SO AS TO MAKE A CONFORMING CHANGE; BY AMENDING SECTIONS 57-1-310 AND 57-1-330, BOTH RELATING TO THE COMPOSITION OF THE COMMISSION OF THE DEPARTMENT OF TRANSPORTATION, SO AS TO REMOVE AT-LARGE MEMBERS; BY AMENDING ARTICLE 9, CHAPTER 5, TITLE 57, RELATING TO TURNPIKE PROJECTS, SO AS TO AUTHORIZE CERTAIN DESIGNATIONS OF TURNPIKE FACILITIES, TO PROVIDE THAT TURNPIKE BONDS ARE SPECIAL LIMITED OBLIGATIONS OF THE STATE AS SPECIFIED IN THE BOND RESOLUTION, AND TO MAKE CONFORMING CHANGES; BY ADDING SECTION 57-1-25 SO AS TO ESTABLISH THE COORDINATING COUNCIL FOR TRANSPORTATION AND MOBILITY AND TO SET FORTH ITS DUTIES AND MEMBERSHIP; BY ADDING SECTION 57-5-105 SO AS TO REQUIRE THE DEPARTMENT OF TRANSPORTATION TO TRANSFER OWNERSHIP OF CERTAIN NONESSENTIAL ROADS, TO ESTABLISH THE SYSTEM REALIGNMENT FUND TO AID IN THE TRANSFER, AND TO PROVIDE ADDITIONAL AUTHORITIES TO COUNTIES IN WHICH ALL SUCH NONESSENTIAL ROADS HAVE BEEN TRANSFERRED; BY AMENDING SECTION 57-1-360, RELATING TO THE CHIEF INTERNAL AUDITOR OF THE DEPARTMENT OF TRANSPORTATION, SO AS TO AUTHORIZE A CERTIFIED INTERNAL AUDITOR AND A CERTIFIED FRAUD EXAMINER TO HOLD THE POSITION; BY AMENDING SECTION 57-3-20, RELATING TO THE DIVISION DEPUTY DIRECTORS OF THE DEPARTMENT OF TRANSPORTATION, SO AS TO DESIGNATE SUCH OFFICIALS AS DEPUTY SECRETARIES AND TO ESTABLISH THE DEPUTY SECRETARY FOR PLANNING; BY AMENDING SECTION 11-35-710, RELATING TO CERTAIN TRANSPORTATION EXEMPTIONS TO THE PROCUREMENT CODE, SO AS TO FURTHER DEFINE THE EXEMPTIONS; BY ADDING SECTIONS 57-5-1710 AND 57-5-1720 SO AS TO PROVIDE FOR PHASED DESIGN-BUILD CONTRACTORS AND CONSTRUCTION MANAGER/GENERAL CONTRACTORS; BY ADDING SECTION 57-3-790 SO AS TO SPECIFY THE CONDITIONS IN WHICH THE STATE WAIVES ITS IMMUNITY UNDER THE ELEVENTH AMENDMENT OF THE UNITED STATES CONSTITUTION; BY AMENDING SECTIONS 57-5-820 AND 57-5-830, BOTH RELATING TO MUNICIPALITIES AND ROADWORK, SO AS TO SPECIFY PROCEDURES WHEN A MUNICIPALITY OBJECTS TO CERTAIN ROADWORK; BY AMENDING SECTION 57-3-615, RELATING TO HIGHWAY TOLLS, SO AS TO SPECIFY THE CONDITIONS UNDER WHICH A TOLL MAY BE IMPOSED ON A STATE HIGHWAY; BY ADDING SECTIONS 57-3-240 AND 57-3-250 SO AS TO AUTHORIZE THE DEPARTMENT OF TRANSPORTATION TO ENTER INTO RECIPROCAL AGREEMENTS WITH OTHER JURISDICTIONS AND PUBLIC-PRIVATE PARTNERSHIPS, AND TO SPECIFY CONDITIONS OF SUCH AGREEMENTS; BY AMENDING SECTION 12-28-2740, RELATING TO \"C\" FUNDS, SO AS TO INCREASE THE AMOUNT OF SUCH FUNDS, TO SPECIFY THE MEMBERSHIP AND RESPONSIBILITIES OF COUNTY TRANSPORTATION COMMITTEES, TO PROVIDE FOR BONDING OF \"C\" FUNDS, TO DELETE PROVISIONS, AND TO PROVIDE FOR A CRIME REGARDING UNDUE INFLUENCE ON CERTAIN OFFICIALS; BY AMENDING SECTION 12-28-2920, RELATING TO TOLLS, SO AS TO SPECIFY WHEN TOLL REVENUES MAY BE EXPENDED; BY AMENDING SECTION 56-3-645, RELATING TO A ROAD USE FEE, SO AS TO INCREASE THE AMOUNT OF THE ALTERNATE FUEL FEE AND CREDIT THE REVENUE TO THE STATE HIGHWAY FUND; BY ADDING SECTION 12-28-360 SO AS TO IMPOSE A TAX ON ELECTRICITY CONSUMED WHEN USING CERTAIN PUBLIC VEHICLE CHARGING STATIONS; AND BY AMENDING SECTION 57-11-210, RELATING TO DEFINITIONS FOR PURPOSES OF STATE HIGHWAY BONDS, SO AS TO DEFINE \"ALTERNATIVE FUEL FEES\"."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5071"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Ways and Means",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Chapman",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Ways and Means",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Moss",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Requests for debate-Rep(s). B Newton, Pace, Gilreath, Cromer, White, Magnuson, Edgerton, Beach, Harris, Kirby, Gatch, Erickson, Hart, C Mitchell, Guest",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Member(s) request name removed as sponsor: Whitmire",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Ways and Means",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Erickson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Erickson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crawford",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Crawford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Willis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirby",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kirby\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Garvin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Garvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hixon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hixon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Montgomery",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Montgomery\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Martin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Teeple",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Teeple\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bradley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilliam",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilliam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robbins",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Robbins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hiott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hiott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Newton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Newton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rankin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rankin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hager",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hager\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sessions",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sessions\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hewitt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hewitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Landing",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Landing\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bowers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bowers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wooten",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wooten\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guffey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guffey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Taylor",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hartz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hartz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Oremus",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Oremus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Forrest",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Forrest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Guest",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Guest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vaughan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Vaughan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Davis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J.E. Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J.E. Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bannister",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bannister\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Newton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"W. Newton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pope",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jordan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haddon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Haddon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Herbkersman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Herbkersman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brittain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brittain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M.M. Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M.M. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ligon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ligon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gagnon",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gagnon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McGinnis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"McGinnis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pedalino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Pedalino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stavrinakis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stavrinakis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chapman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chapman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilreath",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gilreath\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5071_20260129.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/02/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5071_20260402.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5071.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5071.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5071&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:35Z"
+  }
+}

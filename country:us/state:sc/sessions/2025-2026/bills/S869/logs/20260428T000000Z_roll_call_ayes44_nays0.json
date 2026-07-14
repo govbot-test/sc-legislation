@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Roll call Ayes-44  Nays-0",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=869&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "S 869"
+}

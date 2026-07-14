@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 1065",
+  "title": "Personal Property of Foreign Adversaries",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 1-1-2010 SO AS TO PROHIBIT OWNERSHIP OR CONTROL OF TANGIBLE OR INTANGIBLE PROPERTY IN SOUTH CAROLINA BY ALIENS OR PERSONS AFFILIATED WITH FOREIGN ADVERSARIES, FOREIGN TERRORISTS, OR TRANSNATIONAL CRIMINAL ORGANIZATIONS; BY ADDING SECTION 1-1-2020 SO AS TO AUTHORIZE THE GOVERNOR TO IDENTIFY FOREIGN ADVERSARIES, FOREIGN TERRORISTS, OR TRANSNATIONAL CRIMINAL ORGANIZATIONS IMPACTING SOUTH CAROLINA; BY ADDING SECTION 14-1-75 SO AS TO PROVIDE THAT COURTS NOT USE SHARIA LAW IN MAKING JUDICIAL DECISIONS; AND BY AMENDING SECTION 27-13-30, RELATING TO LIMITATION ON ALIEN LAND OWNERSHIP, SO AS TO PROHIBIT ACQUISITION OF REAL PROPERTY BY ALIENS OR PERSONS AFFILIATED WITH FOREIGN ADVERSARIES, FOREIGN TERRORISTS, OR TRANSNATIONAL CRIMINAL ORGANIZATIONS AND TO PROVIDE FOR DIVESTING SUCH PERSONS OF THEIR REAL PROPERTY."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s1065"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Education",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Climer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Climer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stubbs",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stubbs\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1065_20260326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1065.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1065.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1065&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

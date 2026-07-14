@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5134&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 5134"
+}

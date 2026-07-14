@@ -1,0 +1,535 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 922",
+  "title": "Appointments",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 1-3-210, RELATING TO FILLING VACANCIES WHEN THE SENATE IS NOT IN SESSION, SO AS TO PROVIDE FOR WHEN THE GOVERNOR MAY MAKE AN INTERIM APPOINTMENT; BY AMENDING SECTION 7-3-10, RELATING TO THE STATE ELECTION COMMISSION, SO AS TO PROVIDE THAT THE MEMBERS OF THE ELECTION COMMISSION SHALL BE APPOINTED BY THE GOVERNOR WITH THE ADVICE AND CONSENT OF THE SENATE; BY ADDING SECTION 1-30-12 SO AS TO PROVIDE THAT CABINET MEMBERS WILL SERVE COTERMINOUS WITH THE GOVERNOR THAT APPOINTS THEM; BY AMENDING SECTION 1-13-40, RELATING TO THE COMMISSION ON HUMAN AFFAIRS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 1-15-10, RELATING TO THE COMMISSION ON THE STATUS OF WOMEN, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 1-31-10, RELATING TO THE COMMISSION FOR COMMUNITY ADVANCEMENT AND ENGAGEMENT, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 6-19-30, RELATING TO THE COMMISSION FOR COMMUNITY ADVANCEMENT, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 13-1-370, RELATING TO THE ADVISORY COMMITTEE OF THE DIVISION OF STATE DEVELOPMENT, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 13-19-10, RELATING TO THE MIDLANDS AUTHORITY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 13-21-10, RELATING TO THE EDISTO DEVELOPMENT AUTHORITY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 25-21-20, RELATING TO THE BOARD OF TRUSTEES FOR THE VETERANS' TRUST FUND, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 38-89-160, RELATING TO THE DAY CARE JOINT UNDERWRITING ASSOCIATION BOARD OF DIRECTORS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-7-10, RELATING TO THE BOARD OF BARBER EXAMINERS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-13-10, RELATING TO THE BOARD OF COSMETOLOGY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-20-40, RELATING TO THE PANEL FOR DIETETICS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-30-40, RELATING TO THE BOARD OF MASSAGE THERAPY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-35-10, RELATING TO THE BOARD OF LONG TERM HEALTH CARE ADMINISTRATORS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-47-11, RELATING TO THE MEDICAL DISCIPLINARY COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-51-30, RELATING TO THE BOARD OF PODIATRY EXAMINERS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-57-40, RELATING TO THE REAL ESTATE COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-59-10, RELATING TO THE RESIDENTIAL BUILDERS COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-60-10, RELATING TO THE REAL ESTATE APPRAISERS BOARD, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-63-10, RELATING TO THE BOARD OF SOCIAL WORK EXAMINERS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-67-10, RELATING TO THE BOARD OF EXAMINERS IN SPEECH-LANGUAGE PATHOLOGY AND AUDIOLOGY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-69-10, RELATING TO THE BOARD OF VETERINARY MEDICAL EXAMINERS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 40-81-50, RELATING TO THE STATE ATHLETIC COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 43-31-40, RELATING TO THE STATE AGENCY OF VOCATIONAL REHABILITATION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 44-43-1320, RELATING TO DONATE LIFE SOUTH CAROLINA, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 44-53-830, RELATING TO THE DARE FUND, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 46-41-260, RELATING TO THE AGRICULTURAL COMMODITIES ADVISORY COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 46-50-40, RELATING TO THE COMMISSIONER OF AGRICULTURE, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 48-23-10, RELATING TO THE COMMISSION OF FORESTRY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 50-5-2700, RELATING TO THE ATLANTIC STATES MARINE FISHERIES COMPACT, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 51-13-1720, RELATING TO THE OLD JACKSONBOROUGH HISTORIC DISTRICT BOARD OF REGENTS, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 54-17-30, RELATING TO THE MARITIME SECURITY COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 60-11-40, RELATING TO THE COMMISSION OF ARCHIVES AND HISTORY, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; BY AMENDING SECTION 60-15-20, RELATING TO THE ARTS COMMISSION, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE; AND BY AMENDING SECTION 63-11-700, RELATING TO THE DIVISION FOR REVIEW OF THE FOSTER CARE OF CHILDREN, SO AS TO REMOVE THE ADVICE AND CONSENT OF THE SENATE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s922"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-40  Nays-0",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and sent to House",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-32  Nays-11",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-106  Nays-0",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "House amendment amended",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Returned to House",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Recalled from House",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Returned to House",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Debate adjourned",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Non-concurrence in Senate amendment",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-9  Nays-90",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Massey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Massey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alexander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hutto",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hutto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Campsen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Campsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Leber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Leber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimbrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimbrell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "02/11/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260211.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/12/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260212.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/11/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260311.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/12/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260312.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/17/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260317.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/24/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260324.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/06/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260506.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/13/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260513.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/922_20260514.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/922.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/922.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=922&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

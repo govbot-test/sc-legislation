@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5439",
+  "title": "Electricity Retail Choice",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO ENACT THE \"SOUTH CAROLINA ELECTRIC RETAIL CHOICE ACT\" BY ADDING CHAPTER 46 TO TITLE 58 SO AS TO PERMIT RESIDENTIAL AND SMALL COMMERCIAL CUSTOMERS TO CHOOSE THEIR ELECTRIC GENERATION SUPPLIER; TO PROHIBIT COMPETITIVE ELECTRIC GENERATION SERVICE WITHOUT A PERMIT FROM THE PUBLIC SERVICE COMMISSION AND REQUIRE SUPPLIERS TO PROVIDE CLEAR AND ACCURATE INFORMATION REGARDING ITS RATES, TERMS, AND ENVIRONMENTAL ATTRIBUTES; TO REQUIRE THE PUBLIC SERVICE COMMISSION TO ADOPT RULES AND REGULATIONS FOR ELECTRIC SUPPLIERS AND FOR THE IMPLEMENTATION OF THIS CHAPTER, AND TO ESTABLISH A CUSTOMER COMPLAINT PROCESS; TO ESTABLISH REQUIREMENTS FOR ELECTRIC DISTRIBUTION COMPANIES AND ELECTRICAL UTILITIES; TO PERMIT THE PUBLIC SERVICE COMMISSION TO APPROVE NONBYPASSABLE CHARGES TO RECOVER STRANDED COSTS AND PUBLIC POLICY PROGRAM EXPENSES, AND TO ENSURE FUNDING FOR AND SUPPLIER PARTICIPATION IN CERTAIN PROGRAMS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5439"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/26/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5439_20260326.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5439.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5439.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5439&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:35Z"
+  }
+}

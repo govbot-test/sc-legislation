@@ -1,0 +1,278 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 1001",
+  "title": "Retail Alcoholic Beverage Caterer License",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION 61-2-400 SO AS TO DEFINE \"ALCOHOLIC BEVERAGES\", \"ALCOHOLIC LIQUORS BY THE DRINK\", \"CATERER\", \"PRIVATE EVENT\", AND \"COMMERCIAL KITCHEN\"; BY ADDING SECTION 61-2-410 SO AS TO AUTHORIZE THE DEPARTMENT OF REVENUE TO ISSUE A RETAIL ALCOHOLIC BEVERAGE CATERER LICENSE AND PROVIDE FOR THE LICENSING REQUIREMENTS; AND WHICH LICENSE WOULD ALLOW THE LICENSEE TO SERVE ALCOHOLIC BEVERAGES FOR ON-PREMISES CONSUMPTION, PURCHASE BEER AND WINE DIRECTLY FROM A WHOLESALER, AND PURCHASE ALCOHOLIC LIQUOR DIRECTLY FROM A LIQUOR STORE; AND WHICH LICENSE WOULD ALLOW THE TRANSFER OF THE ALCOHOLIC BEVERAGES FROM THE WHOLESALER TO THE CATERER AND FROM THE CATERER TO THE LOCATION OF THE PRIVATE EVENT, AND WOULD ALLOW A WHOLESALER AND RETAIL LIQUOR STORE WITH A WHOLESALER'S PERMIT TO TAKE LIQUOR AND OFFER A REFUND OR CREDIT; AND TO PROVIDE FOR OTHER REQUIREMENTS; BY ADDING SECTION 61-2-420 SO AS TO ALLOW THE HOLDER OF A VALID RETAIL ALCOHOLIC BEVERAGE CATERER LICENSE OR BUSINESS LIQUOR-BY-THE-DRINK LICENSE TO CONTRACT WITH AN EVENT HOST TO PROVIDE FOR ON-PREMISES CONSUMPTION, AND THE EVENT HOST IS ALLOWED TO CHARGE AN ENTRY FEE TO COVER THE COSTS OF THE EVENT; BY AMENDING SECTION 61-4-160, RELATING TO DISCOUNT PRICING FOR ON-PREMISES CONSUMPTION, SO AS TO ALLOW A BIENNIAL PERMIT HOLDER FOR THE SALE OF BEER OR WINE FOR ON-PREMISES CONSUMPTION TO SPONSOR TWELVE FUNCTIONS PER YEAR WHERE BEVERAGES ARE FREE DURING A FUND-RAISING ACTIVITY, PRIVATE FUNCTION ON PREMISES FOR WHICH A BIENNIAL PERMIT HAS BEEN ISSUED, OR TO A CUSTOMER ATTENDING A FUNCTION SPONSORED BY A PERSON WHO HOLDS A BIENNIAL PERMIT; BY AMENDING SECTION 61-6-2000, RELATING TO TEMPORARY PERMITS FOR NONPROFIT ORGANIZATIONS;  CRIMINAL BACKGROUND CHECKS, SO AS TO ALLOW ALCOHOLIC LIQUOR TEMPORARY PERMITS FOR SPECIAL EVENTS TO BE ISSUED TO A CATERER WITH A VALID CATERER LICENSE, A FOOD ESTABLISHMENT SERVICE, OR A NONPROFIT, AND THE PERMIT HOLDER MAY SELL TICKETS TO THE EVENT; AND TO ESTABLISH THAT THE DEPARTMENT SHALL REQUIRE THE APPLICANT TO COMPLETE THE NOTIFICATION PROVISION IN THE APPLICATION FORM, AND TO INCLUDE THAT THE APPLICANT SHALL NOTIFY THE DIVISION THAT ALCOHOLIC LIQUORS WILL BE SERVED AT LEAST TWENTY-FOUR HOURS PRIOR TO THE SPECIAL EVENT; AND BY AMENDING SECTION 61-4-550, RELATING TO SPECIAL PERMITS FOR USE AT FAIRS AND SPECIAL FUNCTIONS, SO AS TO MAKE CONFORMING CHANGES."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s1001"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Committee Amendment Adopted",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-31  Nays-11",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Read third time and sent to House",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Hembree",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Hembree\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rankin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rankin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tedder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Tedder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimbrell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kimbrell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/10/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1001_20260310.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "03/12/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1001_20260312.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/29/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1001_20260429.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/05/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1001_20260505.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "06/15/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1001_20260615.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1001.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1001.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1001&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:37Z"
+  }
+}

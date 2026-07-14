@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced and adopted",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5295&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 5295"
+}

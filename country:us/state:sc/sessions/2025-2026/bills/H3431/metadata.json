@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 9 TO CHAPTER 5, TITLE 39 SO AS TO PROVIDE DEFINITIONS; TO PROVIDE THAT A SOCIAL MEDIA COMPANY MAY NOT PERMIT CERTAIN MINORS TO BE ACCOUNT HOLDERS; TO PROVIDE REQUIREMENTS FOR SOCIAL MEDIA COMPANIES; TO PROVIDE THAT A SOCIAL MEDIA COMPANY SHALL PROVIDE CERTAIN PARENTS OR GUARDIANS WITH CERTAIN INFORMATION; TO PROVIDE THAT A SOCIAL MEDIA COMPANY SHALL RESTRICT SOCIAL MEDIA ACCESS TO MINORS DURING CERTAIN HOURS; TO PROVIDE FOR CONSUMER COMPLAINTS; TO PROVIDE THAT THE CONSUMER SERVICES DIVISION HAS AUTHORITY TO ADMINISTER AND ENFORCE CERTAIN REQUIREMENTS; TO PROVIDE FOR AN ANNUAL REPORT; TO PROVIDE FOR A CAUSE OF ACTION; AND TO PROVIDE THAT CERTAIN WAIVERS AND LIMITATIONS ARE VOID."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING CHAPTER 80 TO TITLE 39 SO AS TO PROVIDE THAT A COVERED ONLINE SERVICE SHALL EXERCISE REASONABLE CARE IN THE USE OF MINORS' PERSONAL DATA, TO PROVIDE FOR CERTAIN REQUIREMENTS FOR COVERED ONLINE SERVICES, TO RESTRICT THE AMOUNT OF PERSONAL DATA OF A MINOR THAT MAY BE COLLECTED, TO PROVIDE FOR PARENTAL CONTROLS, TO PROVIDE FOR AN ANNUAL REPORT, AND TO PROVIDE FOR ENFORCEMENT. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -375,6 +375,90 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:08Z"
       }
+    },
+    {
+      "description": "Senate amendment amended",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Returned to Senate with amendments",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-112  Nays-0",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Concurred in House amendment and enrolled",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Ratified R 100",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Effective date 02/05/26",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Act No. 96",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -620,6 +704,17 @@
       "classification": ""
     },
     {
+      "note": "01/14/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20260114.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -651,7 +746,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:38Z",
     "text_extraction_latest_update": "2026-07-13T12:10:45.108754Z"
   }
 }

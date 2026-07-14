@@ -1,0 +1,122 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5308",
+  "title": "Solar, Agricultural, Farmland and Environmental Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING ARTICLE 9 TO CHAPTER 33, TITLE 58 SO AS TO ESTABLISH THE \"SOLAR, AGRICULTURAL, FARMLAND, AND ENVIRONMENTAL ACT\"; TO PROVIDE FOR DEFINITIONS; TO ESTABLISH CERTIFICATE REQUIREMENTS FOR CONSTRUCTION OF PHOTOVOLTAIC ENERGY FACILITIES; TO ESTABLISH THE CERTIFICATE APPLICATION PROCESS; TO PROVIDE REQUIREMENTS FOR HEARINGS REGARDING THE CERTIFICATE APPLICATION; TO ESTABLISH THE PARTIES TO A CERTIFICATION PROCEEDING; TO REQUIRE A RECORD OF THE PROCEEDINGS AND TO PERMIT THE PUBLIC SERVICE COMMISSION TO CONSOLIDATE THE REPRESENTATION OF PARTIES WITH SIMILAR INTERESTS; TO ESTABLISH REQUIREMENTS FOR THE PUBLIC SERVICE COMMISSION'S DECISION REGARDING AN APPLICATION; TO REQUIRE THE PUBLIC SERVICE COMMISSION TO ISSUE AN ORDER WITHIN ONE HUNDRED EIGHTY DAYS FROM THE DATE THE APPLICATION IS FILED; AND TO PROVIDE FOR PAYMENT OF COSTS FOR THE OFFICE OF REGULATORY STAFF AND THE PUBLIC SERVICE COMMISSION FOR A FILED APPLICATION."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5308"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:34Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Labor, Commerce and Industry",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:34Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brewer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brewer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Mitchell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yow",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Yow\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "03/04/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5308_20260304.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5308.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5308.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5308&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:34Z"
+  }
+}

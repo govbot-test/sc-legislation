@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "description",
-      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-40-40, RELATING TO DEFINITIONS PERTAINING TO CHARTER SCHOOLS, SO AS TO CHANGE REFERENCES FROM \"SPONSOR\" TO \"AUTHORIZER\" AND TO PROVIDE OTHER DEFINITIONS; BY AMENDING SECTION 59-40-50, RELATING TO EXEMPTIONS, SO AS TO REQUIRE A CHARTER SCHOOL TO POST THEIR ANNUAL AUDIT ON THEIR WEBSITE AND TO NOTIFY AND PROVIDE A COPY OF ANY EDUCATION MANAGEMENT CONTRACTS TO THE AUTHORIZER; BY AMENDING SECTION 59-40-55, RELATING TO AUTHORIZER POWERS AND DUTIES AND THE RETENTION OF FUNDS, SO AS TO REQUIRE THE AUTHORIZER TO ADOPT AND IMPLEMENT POLICIES, PROCEDURES, AND PRACTICES THAT ENSURE GOOD GOVERNANCE AND ACCOUNTABILITY; BY AMENDING SECTION 59-40-60, RELATING TO CHARTER APPLICATIONS AND COMMITTEES, SO AS TO EXPAND THE CHARTER SCHOOL APPLICATION TO INCLUDE ANY PROPOSED CHARTER OR EDUCATION MANAGEMENT CONTRACTS CONTEMPLATED BY THE CHARTER SCHOOL; BY AMENDING SECTION 59-40-70, RELATING TO APPLICATION REQUIREMENTS AND PROCEDURES, SO AS TO SET A TIME FRAME TO HOLD A PUBLIC HEARING ON THE APPLICATION FOR A CHARTER SCHOOL; BY AMENDING SECTION 59-40-75, RELATING TO THE REMOVAL OF AN AUTHORIZER OR MEMBER OF A DISTRICT OR GOVERNING BOARD, SO AS TO REQUIRE THE GOVERNOR TO VACATE THE SEAT OF A MEMBER OF AN AUTHORIZER OR CHARTER SCHOOL GOVERNING BOARD WHO IS INDICTED FOR A CRIME; AND TO ALLOW THE GOVERNOR TO REMOVE A MEMBER FOR CHRONIC UNEXCUSED ABSENTEEISM, MEDICAL INCOMPETENCY, OR MEDICAL INCAPACITY; BY AMENDING SECTION 59-40-90, RELATING TO APPEALS TO THE ADMINISTRATIVE LAW COURT, SO AS TO ALLOW AN APPEAL FOR ANY FINAL DECISION MADE PURSUANT TO THIS CHAPTER BE MADE TO THE ADMINISTRATIVE LAW COURT; BY AMENDING SECTION 59-40-115, RELATING TO TERMINATION OF A CONTRACT WITH AN AUTHORIZER, SO AS TO ALLOW A CHARTER SCHOOL TO TERMINATE ITS CHARTER AND CONTRACT WITH AN AUTHORIZER UNDER CERTAIN CONDITIONS; BY AMENDING SECTION 59-40-150, RELATING TO THE DUTIES OF THE DEPARTMENT OF EDUCATION, SO AS TO ESTABLISH THE DUTIES OF THE DEPARTMENT OF EDUCATION TO SERVE AS THE STATE EDUCATION AGENCY FOR EACH AUTHORIZER AND ANNUALLY REVIEW THE POLICIES, PROCEDURES, AND PERFORMANCE OF EACH AUTHORIZER FOR COMPLIANCE; AND BY AMENDING SECTION 59-40-180, RELATING TO REGULATIONS AND GUIDELINES, SO AS TO CLARIFY THAT GUIDELINES WILL BE APPLICABLE TO NEW AUTHORIZERS AND CHARTER SCHOOLS."
+      "abstract": "AN ACT TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 59-40-40, RELATING TO DEFINITIONS IN THE SOUTH CAROLINA CHARTER SCHOOLS ACT, SO AS TO CHANGE REFERENCES FROM \"SPONSOR\" TO \"AUTHORIZER,\" AND TO REVISE AND PROVIDE OTHER DEFINITIONS; BY AMENDING SECTION 59-40-50, RELATING TO LEGAL EXEMPTIONS, POWERS, AND DUTIES OF CHARTER SCHOOLS, SO AS TO IMPOSE CERTAIN FISCAL ACCOUNTABILITY AND TRANSPARENCY MEASURES, TO IMPOSE CERTAIN ADMISSIONS AND ENROLLMENT STANDARDS AND TRANSPARENCY MEASURES, TO REVISE BYLAW REQUIREMENTS AND BOARD ETHICS REQUIREMENTS, AND TO REQUIRE ADDITIONAL POWERS AND DUTIES CONCERNING OPERATIONS AND MANAGEMENT; BY AMENDING SECTION 59-40-55, RELATING TO CHARTER SCHOOL AUTHORIZERS, SO AS TO MAKE CONFORMING CHANGES, TO REVISE THEIR POWERS AND DUTIES, TO INCREASE CHARTER AUTHORIZER OVERSIGHT, TO PROHIBIT CERTAIN FINANCIAL CONFLICTS, TO INCREASE ENFORCEMENT POWERS OF THE STATE DEPARTMENT OF EDUCATION, AND TO PROVIDE  PROCEDURES FOR AUTHORIZER REVOCATION AND SCHOOL TRANSFERS; BY AMENDING SECTION 59-40-60, RELATING TO CHARTER SCHOOL APPLICATION REQUIREMENTS, SO AS TO REVISE CHARTER SCHOOL APPLICATION REQUIREMENTS, TO INCREASE GOVERNANCE AND FINANCIAL DISCLOSURES, TO CREATE RULES FOR VIRTUAL SCHOOLS, AND TO CREATE A STREAMLINED REPLICATION PROCESS FOR SUCCESSFUL CHARTER SCHOOLS, AMONG OTHER THINGS; BY AMENDING SECTION 59-40-65, RELATING TO VIRTUAL INSTRUCTION REQUIREMENTS IN CHARTER SCHOOLS, SO AS TO PROVIDE NECESSARY DEFINITIONS AND IMPOSE CERTAIN REQUIREMENTS ON VIRTUAL CHARTER SCHOOLS; BY AMENDING SECTION 59-40-70, RELATING TO CHARTER SCHOOL APPLICANTS TO AUTHORIZERS, SO AS TO REVISE CHARTER APPLICATION AND APPROVAL PROCEDURES, TO IMPOSE CERTAIN REVIEW TIMELINES, TO REVISE EVALUATION REQUIREMENTS, TO PROVIDE CONDITIONAL APPROVALS, TO IMPOSE PLANNING-YEAR REQUIREMENTS, AND TO REVISE AUTHORIZER OVERSIGHT; BY AMENDING SECTION 59-40-75, RELATING TO CHARTER SCHOOL AUTHORIZER BOARD MEMBER ETHICS, CONDUCT, AND REMOVAL, SO AS TO INCLUDE AUTHORIZERS, TO REVISE THE GROUNDS FOR REMOVAL, TO REVISE THE MANNER OF FILLING VACANCIES, AND TO PROHIBIT CERTAIN CONFLICTS OF INTEREST; BY AMENDING SECTION 59-40-90, RELATING TO APPEALS OF FINAL DECISIONS OF CHARTER SCHOOL AUTHORIZERS, SO AS TO PROVIDE THAT APPEALS OF FINAL DECISIONS BY AUTHORIZERS MUST BE MADE TO THE ADMINISTRATIVE LAW COURT; BY AMENDING SECTION 59-40-110, RELATING TO CHARTER DURATIONS, RENEWALS, AND CLOSURES, SO AS TO INCLUDE CERTAIN CHARTER SCHOOL PERFORMANCE ASSESSMENTS BY AUTHORIZERS AND RELATED GUIDANCE AND RESPONSE PROCEDURES; BY AMENDING SECTION 59-40-111, RELATING TO ALTERNATIVE EDUCATION CAMPUSES, SO AS TO IMPOSE ACCOUNTABILITY REQUIREMENTS; BY AMENDING SECTION 59-40-115, RELATING TO CHARTER SCHOOL TRANSFERS AMONG AUTHORIZERS, SO AS TO IMPOSE REQUIREMENTS FOR SUCH TRANSFER PROCESSES AND TO REQUIRE CERTAIN TRANSPARENCY MEASURES, AMONG OTHER THINGS; BY AMENDING SECTION 59-40-120, RELATING TO THE OWNERSHIP OF DISSOLVED CHARTER SCHOOL ASSETS, SO AS TO PROVIDE THAT CERTAIN ASSETS BECOME PROPERTY OF THE STATE OF SOUTH CAROLINA INSTEAD OF THE CHARTER SCHOOL'S AUTHORIZER; BY AMENDING SECTION 59-40-140, RELATING TO CHARTER SCHOOL AUTHORIZER MANAGEMENT AND REPORTING, SO AS TO MAKE CONFORMING CHANGES AND TO AUTHORIZE CHARTER SCHOOLS TO CONTRACT WITH MANAGEMENT ORGANIZATIONS FOR CERTAIN PURPOSES, AMONG OTHER THINGS; BY AMENDING SECTION 59-40-150, RELATING TO CHARTER SCHOOL FORMATIONS AND OPERATIONS, SO AS TO IMPOSE REQUIREMENTS ON THE STATE DEPARTMENT OF EDUCATION CONCERNING CHARTER SCHOOL APPLICATIONS, COMPLIANCE GUIDANCE, AND EVALUATIONS, AMONG OTHER THINGS; BY AMENDING SECTION 59-40-155, RELATING TO CHARTER SCHOOL TRUSTEE TRAINING AND REMOVALS, SO AS TO MAKE CERTAIN TRAINING PROVISIONS APPLICABLE TO CHARTER SCHOOL AUTHORIZER BOARD MEMBERS, TO REVISE THE ORIENTATION PROGRAM FOR NEW BOARD MEMBERS, AND TO PROVIDE ADDITIONAL TRAINING REQUIREMENTS, AMONG OTHER THINGS; BY AMENDING SECTION 59-40-180, RELATING TO REGULATIONS AND GUIDELINES, GRANDFATHER PROVISIONS, AND PENALTIES FOR VIOLATIONS, SO AS TO EXEMPT CERTAIN EXISTING AUTHORIZERS FROM THE APPLICATION PROCESS, AND TO SUBJECT AUTHORIZERS TO FUNDING REDUCTIONS FOR WILFUL OR KNOWING VIOLATIONS; AND BY AMENDING SECTION 59-40-230, RELATING TO THE SOUTH CAROLINA PUBLIC CHARTER SCHOOL DISTRICT BOARD, SO AS TO CORRECT AN OBSOLETE REFERENCE. - RATIFIED TITLE"
     }
   ],
   "other_titles": [],
@@ -110,6 +110,269 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:10Z"
       }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and sent to House",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-42  Nays-0",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Education and Public Works",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Education and Public Works",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Requests for debate-Rep(s). J Moore, King, Reese, Rutherford, Gilliard, Hart, Henderson-Myers, Hosey",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Amended",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-104  Nays-0",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Unanimous consent for third reading on next legislative day",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Read third time and returned to Senate with amendments",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Scrivener's error corrected",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "House amendment amended",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-amendment"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Ayes-43  Nays-0",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Returned to House with amendments",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendment and enrolled",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Roll call Yeas-102  Nays-1",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Ratified R 140",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Signed By Governor",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Effective date 05/15/26",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Act No. 123",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
     }
   ],
   "sponsorships": [
@@ -180,6 +443,83 @@
       "classification": ""
     },
     {
+      "note": "02/10/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260210.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "02/11/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260211.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/22/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260422.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/23/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260423.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/23/2026-A",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260423a.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/27/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260427.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "05/12/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/454_20260512.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Filed",
       "links": [
         {
@@ -211,7 +551,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:10Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T12:12:56.299060Z"
   }
 }

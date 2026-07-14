@@ -80,13 +80,23 @@
       }
     },
     {
-      "description": "Member(s) request name added as sponsor: Mitchell, Rankin, Long, Oremus, Gibson, Lawson, Burns, Edgerton",
+      "description": "Member(s) request name added as sponsor: C.Mitchell, Rankin, Long, Oremus, Gibson, Lawson, Burns, Edgerton",
       "date": "2025-01-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:07:09Z"
+        "log_file_created": "2026-07-14T13:54:34Z"
+      }
+    },
+    {
+      "description": "Member(s) request name added as sponsor: Lastinger",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:34Z"
       }
     }
   ],
@@ -132,11 +142,11 @@
       "organization_id": null
     },
     {
-      "name": "Mitchell",
+      "name": "C. Mitchell",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mitchell\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Mitchell\"}",
       "organization_id": null
     },
     {
@@ -194,6 +204,14 @@
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edgerton\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lastinger",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lastinger\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -241,7 +259,7 @@
     "division_id": "ocd-division/country:us/state:sc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:09Z",
+    "logs_latest_update": "2026-07-14T13:54:36Z",
     "text_extraction_latest_update": "2026-07-13T11:20:43.231664Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amended",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3974&session=126&summary=B",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "H 3974"
+}

@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "S 1100",
+  "title": "Police Dogs and Horses",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS SO AS TO DESIGNATE ARTICLE 11, CHAPTER 3, TITLE 47 AS \"TEASING, MALTREATING, AND INJURING POLICE DOGS OR HORSES PROHIBITED\"; BY AMENDING SECTION 47-3-610, RELATING TO UNLAWFUL TO TAUNT, TORMENT, TEASE, BEAT, STRIKE, OR ADMINISTER DESENSITIZING DRUG TO POLICE DOG OR HORSE, SO AS TO PROVIDE THAT A VIOLATION OF THIS SECTION IS A MISDEMEANOR AND, UPON CONVICTION, A PERSON MUST BE FINED NOT LESS THAN TWO THOUSAND DOLLARS NOR MORE THAN FIVE THOUSAND DOLLARS OR IMPRISONED NOT LESS THAN THIRTY DAYS NOR MORE THAN FIVE YEARS OR BOTH; BY AMENDING SECTION 47-3-620, RELATING TO UNLAWFUL TO TORTURE, MUTILATE, INJURE, DISABLE, POISON, OR KILL POLICE DOG OR HORSE, SO AS TO INCLUDE SHOOTING INTO A VEHICLE OR TRAILER WHILE A DOG OR HORSE IS INSIDE, AND SHOOTING AND HITTING A POLICE DOG OR HORSE WHILE RUNNING IN PURSUIT, AND TO PROVIDE THAT A VIOLATION IS A FELONY AND, UPON CONVICTION, THE PENALTY IS NOT LESS THAN TWO THOUSAND DOLLARS NOR MORE THAN TWENTY THOUSAND DOLLARS AND IMPRISONMENT FOR NOT LESS THAN TWO YEARS NOR MORE THAN TEN YEARS, AND TO REQUIRE RESTITUTION TO THE LAW ENFORCEMENT DEPARTMENT OR AGENCY; AND BY AMENDING SECTION 47-3-630, RELATING TO PENALTIES, SO AS TO ESTABLISH NOTHING IN THIS SECTION DENIES A RIGHT TO ASSERT A LEGAL DEFENSE OF SELF-DEFENSE."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-s1100"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Committee report: Favorable with amendment Judiciary",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Judiciary",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:36Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rankin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rankin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adams",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adams\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "04/01/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1100_20260401.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "04/15/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/1100_20260415.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1100.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1100.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=1100&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:36Z"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "H 5004",
+  "title": "Lawyer Advertising Unfair Practice",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "A BILL TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING SECTION 39-5-39, RELATING TO AN ATTORNEY ADVERTISING IN A FALSE, DECEPTIVE, OR MISLEADING MANNER, SO AS TO DEFINE FALSE ADVERTISING; TO PROVIDE THAT ANY ADVERTISING FOR LEGAL SERVICES THAT REFERENCES A SETTLEMENT OBTAINED ON BEHALF OF A CLIENT MUST DISCLOSE THE AMOUNT OF ATTORNEY FEES AND LITIGATION COSTS DEDUCTED FROM THE RECOVERY; TO REQUIRE THE LEGAL ADVERTISEMENT TO CLARIFY THAT ANY REFERENCED RESULTS ARE NOT REPRESENTATIVE OF ALL CASES AND THAT OUTCOMES DEPEND ON THE SPECIFIC FACTS OF EACH CASE; AND TO PROVIDE THAT ANY ADVERTISING FOR LEGAL SERVICES THAT STATES THAT THE FILING OF A LAWSUIT IS AGAINST AN INSURANCE COMPANY OR OTHER THIRD PARTY MUST DISCLOSE THE FACT THAT ANY LAWSUIT WOULD BE FILED AGAINST AN INDIVIDUAL OR BUSINESS THAT WOULD BE NAMED AS THE DEFENDANT AND THAT THE INSURANCE COMPANY IS ONLY PROVIDING THE COVERAGE ON BEHALF OF THE NAMED INDIVIDUAL OR BUSINESS BASED ON A POLICY PURCHASED BY THE INDIVIDUAL OR BUSINESS."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-sc-2025_2026-h5004"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced and read first time",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    },
+    {
+      "description": "Referred to Committee on Judiciary",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:54:35Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bailey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bailey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "01/22/2026",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5004_20260122.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Filed",
+      "links": [
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5004.htm",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5004.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5004&session=126&summary=B",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sc/government",
+    "name": "South Carolina",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sc"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:54:35Z"
+  }
+}
