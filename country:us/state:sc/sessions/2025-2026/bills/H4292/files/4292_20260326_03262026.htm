@@ -1,0 +1,799 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scinsertblue
+	{mso-style-name:sc_insert_blue;
+	font-variant:normal !important;
+	color:#0070C0;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scstrikered
+	{mso-style-name:sc_strike_red;
+	color:red;
+	text-decoration:line-through;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccoversheetFISdirector, li.sccoversheetFISdirector, div.sccoversheetFISdirector
+	{mso-style-name:sc_coversheet_FIS_director;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetFISheader, li.sccoversheetFISheader, div.sccoversheetFISheader
+	{mso-style-name:sc_coversheet_FIS_header;
+	margin:0in;
+	text-align:center;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	text-decoration:underline;}
+p.sccoversheetFISsectionheaders, li.sccoversheetFISsectionheaders, div.sccoversheetFISsectionheaders
+	{mso-style-name:sc_coversheet_FIS_section_headers;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetFISsectioninfo, li.sccoversheetFISsectioninfo, div.sccoversheetFISsectioninfo
+	{mso-style-name:sc_coversheet_FIS_section_info;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 4292 Text of Previous Version (Mar. 26, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Roadway Protection and Safety Act"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 4292</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken id=P1><a name="open_doc_here"></a>Indicates
+Matter Stricken</p>
+
+<p class=sccoversheetunderline id=P2>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline id=P3>&nbsp;</p>
+
+<p class=sccoversheetstatus id=P4>Committee Report</p>
+
+<p class=sccoversheetinfo id=P5>March 26, 2026</p>
+
+<p class=sccoversheetinfo id=P6>&nbsp;</p>
+
+<p class=sccoversheetbillno id=P7>H. 4292</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center' id=P8>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 id=P9>Introduced by Reps. Martin, Terribile, M.
+M. Smith, Robbins, Cox, Brewer, Holman, Duncan, Bailey, Lawson, Pope, Ligon,
+Davis, W. Newton, Guffey, Gilreath, Long, Wooten, Teeple, Montgomery, C.
+Mitchell and Yow </p>
+
+<p class=sccoversheetsponsor6 id=P10>&nbsp;</p>
+
+<p class=sccoversheetinfo id=P11>S. Printed 3/26/26--H.</p>
+
+<p class=sccoversheetreadfirst id=P12>Read the first time April 3, 2025</p>
+
+<p class=sccoversheetemptyline id=P13>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center' id=P14>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center' id=P15><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader id=P16>The committee on House
+Judiciary</p>
+
+<p class=sccommitteereporttitle id=P17>To whom was referred a Bill (H. 4292) to
+amend the South Carolina Code of Laws by enacting the "Roadway Protection and
+Safety Act" by adding Section 56-5-3910 so as to provide definitions, to
+provide, etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader id=P18>Report:</p>
+
+<p class=sccommitteereporttitle id=P19>That they have duly and carefully
+considered the same, and recommend that the same do pass with amendment:</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P20>&nbsp;</p>
+
+<p class=sccodifiedsection id=P21>&nbsp;&nbsp;&nbsp; <a name="instruction_efb766814">Amend the
+bill, as and if amended, SECTION 2, by striking Section 56-5-3910(A)(1) and (2)
+and inserting:</a></p>
+
+<p class=scnewcodesection id=P22>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) "Street Takeover" means the <span class=scinsertblue>unauthorized </span>deliberate and coordinated obstruction
+of a public roadway, <span class=scinsertblue>street, </span>highway,
+intersection, <span class=scinsertblue>public vehicular area, private property
+without owner consent, </span>or parking lot for illegal vehicle exhibitions
+including, but not limited to, burnouts, drifting, doughnuts, speed contests,<span class=scinsertblue> stunts, wheelies,</span> or other <span class=scstrikered>reckless
+</span>driving maneuvers<span class=scinsertblue> that show a willful and
+wanton disregard for the safety of persons or property</span>.</p>
+
+<p class=scnewcodesection id=P23>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) "Participant" means an individual
+operating a vehicle, riding as a passenger, or engaging in activities <span class=scstrikered>that</span><span class=scinsertblue>with the intent to</span>
+contribute to a street takeover.</p>
+
+<p class=sccodifiedsection id=P24><a name="instruction_dcbacdd86">Amend the
+bill further, SECTION 2, by striking Section 56-5-3910(A)(4) and (5) and
+inserting:</a></p>
+
+<p class=scnewcodesection id=P25><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4) "Spectator"
+means a person who knowingly attends a street takeover for the purpose of
+encouraging, recording, or aiding the event.</span></p>
+
+<p class=scnewcodesection id=P26>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class=scstrikered>(5)</span><span class=scinsertblue>(4)</span> "Aider or Abettor" means a person who assists in
+planning, coordinating, or physically aiding a street takeover, including<span class=scinsertblue>, but not limited to,</span> blocking roads<span class=scinsertblue>,</span> <span class=scinsertblue>selling concessions,
+collecting entry fees or spectator ticket fees, </span>or directing vehicles.</p>
+
+<p class=scnewcodesection id=P27><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S5_lv2_f05a542eI">(</a>5) "Driving Maneuvers" means a
+specific, skillful movement of the vehicle. </span></p>
+
+<p class=scnewcodesection id=P28><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S6_lv2_c286014cI">(</a>6) "Burnout" means the operation of a
+motor vehicle where the motor vehicle is kept stationary, or is in motion,
+while the wheels are spun, resulting in friction which causes the motor
+vehicle's tires to heat up and emit smoke.</span></p>
+
+<p class=scnewcodesection id=P29><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S7_lv2_8fbaa349I">(</a>7) "Drifting" means the operation of
+a motor vehicle where the motor vehicle is steered so that it makes a
+controlled skid sideways through a turn with the front wheels pointed in a
+direction opposite to that of the turn.</span></p>
+
+<p class=scnewcodesection id=P30><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S8_lv2_46b19d5aI">(</a>8) "Doughnut" means the operation of
+a motor vehicle where the front or rear of the motor vehicle is rotated around
+the opposite set of wheels in a continuous motion which may cause a circular
+skid-mark pattern of rubber on the driving surface or the tires to heat up and
+emit smoke from friction, or both.</span></p>
+
+<p class=scnewcodesection id=P31><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S9_lv2_8af7e015I">(</a>9) "Speed Contest" means the
+operation of one or more motor vehicle(s) in a competitive attempt to outgain
+another motor vehicle or improve one's speed or time, including racing, timed
+acceleration, or attempts to outperform another motor vehicle.</span></p>
+
+<p class=scnewcodesection id=P32><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S10_lv2_594a06bfI">(</a>10) Wheelie" means the operation of
+a motor vehicle where the motor vehicle is ridden for a distance with the front
+wheel or wheels raised off the ground.</span></p>
+
+<p class=scnewcodesection id=P33><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S11_lv2_8fee351aI">(</a>11) "Stunt" means a burnout,
+drifting, doughnut, wheelie, or other dangerous motor vehicle activity.</span></p>
+
+<p class=sccodifiedsection id=P34><a name="instruction_db82d9e1d">Amend the
+bill further, SECTION 2, by striking Section 56-5-3910(B)(1) and (2) and
+inserting:</a></p>
+
+<p class=scnewcodesection id=P35>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) for a first offense is guilty of a <span class=scstrikered>felony</span><span class=scinsertblue>misdemeanor</span> and,
+upon conviction, must be fined <span class=scstrikered>three thousand</span><span class=scinsertblue>not more than</span> five hundred dollars, imprisoned not
+more than <span class=scstrikered>five years</span><span class=scinsertblue>one
+year, or both</span><span class=scstrikered>, and have his driver's license
+suspended for six months</span>; or</p>
+
+<p class=scnewcodesection id=P36>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) for a second or subsequent offense
+is guilty of a <span class=scstrikered>felony</span><span class=scinsertblue>misdemeanor</span>
+and, upon conviction, must be fined <span class=scstrikered>seven</span><span class=scinsertblue>not more than three</span> thousand <span class=scstrikered>five
+hundred</span> dollars, imprisoned not more than <span class=scstrikered>ten</span><span class=scinsertblue>three</span> years, <span class=scinsertblue>or both</span><span class=scstrikered>and have his driver's license suspended for one year</span>.</p>
+
+<p class=sccodifiedsection id=P37><a name="instruction_822e5dd24">Amend the
+bill further, SECTION 2, by striking Section 56-5-3910(C)(1) and (2) and
+inserting:</a></p>
+
+<p class=scnewcodesection id=P38>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) for a first offense is guilty of a
+misdemeanor and, upon conviction, must be fined not more than <span class=scstrikered>three thousand</span> five hundred dollars, <span class=scstrikered>and </span>imprisoned not more than <span class=scstrikered>six
+months</span><span class=scinsertblue>one year, or both</span>;<span class=scinsertblue> or</span></p>
+
+<p class=scnewcodesection id=P39>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) for a second <span class=scinsertblue>or subsequent </span>offense is guilty of a <span class=scstrikered>felony</span><span class=scinsertblue>misdemeanor</span> and,
+upon conviction, must be fined <span class=scstrikered>seven</span><span class=scinsertblue>not more than three</span> thousand<span class=scstrikered>
+five hundred</span> dollars, and imprisoned not more than <span class=scstrikered>five</span><span class=scinsertblue>three</span> years<span class=scinsertblue>, or both.</span><span class=scstrikered>; or</span></p>
+
+<p class=scnewcodesection id=P40><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3) for a third
+or subsequent offense is guilty of a felony and, upon conviction, must be fined
+fifteen thousand dollars, and imprisoned not more than ten years.</span></p>
+
+<p class=sccodifiedsection id=P41><a name="instruction_4613b6389">Amend the
+bill further, SECTION 2, by striking Section 56-5-3910(D) and inserting:</a></p>
+
+<p class=scnewcodesection id=P42>&nbsp;&nbsp;&nbsp; (D) <span class=scstrikered>A spectator,</span><span class=scinsertblue>An</span> aider<span class=scstrikered>,</span> or abettor
+of a street takeover:</p>
+
+<p class=scnewcodesection id=P43>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) for a first offence is guilty of a
+misdemeanor and, upon conviction, must be fined <span class=scstrikered>one
+thousand</span><span class=scinsertblue>not more than one hundred</span>
+dollars, imprisoned not more than thirty days, <span class=scinsertblue>or both</span><span class=scstrikered>and have his driver's license suspended for thirty days</span>;</p>
+
+<p class=scnewcodesection id=P44>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) for a second offense <span class=scinsertblue>or subsequent offense </span>is guilty of a misdemeanor and,
+upon conviction, must be fined <span class=scstrikered>two thousand </span><span class=scinsertblue>not more than </span>five hundred dollars, imprisoned not
+more than sixty days, <span class=scinsertblue>or both.</span><span class=scstrikered>and have his driver's license suspended for six months; or</span></p>
+
+<p class=scnewcodesection id=P45><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3) for a third
+or subsequent offense is guilty of a misdemeanor and, upon conviction, must be
+fined five thousand dollars, imprisoned not more than one year, and have his
+driver's license suspended for one year.</span></p>
+
+<p class=sccodifiedsection id=P46><a name="instruction_ebcd473fa">Amend the
+bill further, SECTION 2, by striking Section 56-5-3910(E)(1), (2), (3), and (4)
+and inserting:</a></p>
+
+<p class=scnewcodesection id=P47>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) fled a law enforcement officer
+during a street takeover is guilty of a misdemeanor and, upon conviction, must
+be <span class=scinsertblue>fined not more than five hundred dollars, </span>imprisoned
+not more than <span class=scstrikered>two years</span><span class=scinsertblue>one
+year, in addition to the punishment provided for with the principal crime</span>;</p>
+
+<p class=scnewcodesection id=P48>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) endangered pedestrians, law
+enforcement officers, or other drivers is guilty of a misdemeanor and, upon
+conviction, must be fined <span class=scinsertblue>up to </span>an additional <span class=scstrikered>five</span><span class=scinsertblue>three</span> thousand
+dollars, and imprisoned not more than<span class=scstrikered> an additional</span><span class=scinsertblue> one</span> year<span class=scinsertblue>, in addition to
+the punishment provided for with the principal crime</span>;</p>
+
+<p class=scnewcodesection id=P49>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3) inflicted bodily injury upon
+another person is guilty of a felony and, upon conviction, must be fined an
+additional ten thousand dollars, and imprisoned not more than<span class=scstrikered> an additional</span> five years<span class=scinsertblue>, in
+addition to the punishment provided for with the principal crime</span>; or</p>
+
+<p class=scnewcodesection id=P50>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4) caused the death of another person
+is guilty of a felony and, upon conviction, must be fined an additional
+twenty-five thousand dollars, and imprisoned not more than <span class=scstrikered>an additional</span> ten years<span class=scinsertblue>, in
+addition to the punishment provided for with the principal crime</span>.</p>
+
+<p class=sccodifiedsection id=P51><a name="instruction_0f2201c85">Amend the
+bill further, SECTION 2, by striking Section 56-5-3910(F), (G), (H), (I), and
+(J) and inserting:</a></p>
+
+<p class=scnewcodesection id=P52><span class=scstrikered>&nbsp;&nbsp;&nbsp; (F) It is unlawful
+to conduct a street takeover on private property without the owner's written
+consent. A property owner may request law enforcement intervention to remove a
+person who violates this subsection.</span></p>
+
+<p class=scnewcodesection id=P53>&nbsp;&nbsp;&nbsp; <span class=scstrikered>(G) Any vehicle
+used in a street takeover must be impounded for at least thirty days.</span></p>
+
+<p class=scnewcodesection id=P54><span class=scstrikered>&nbsp;&nbsp;&nbsp; (H) Any vehicle
+involved in a second or subsequent offense must be forfeited permanently and
+auctioned, with proceeds used to fund public safety initiatives.</span></p>
+
+<p class=scnewcodesection id=P55><span class=scstrikered>&nbsp;&nbsp;&nbsp; (I) Any vehicle
+with illegal street racing modifications that include, but are not limited to,
+the use of nitrous oxide fuel or removing exhaust systems must be seized and
+must not be returned to the owner unless it is restored to legal standards.</span></p>
+
+<p class=scnewcodesection id=P56><span class=scstrikered>&nbsp;&nbsp;&nbsp; (J) No political
+subdivision may by ordinance, policy, or regulation reduce any penalty
+contained in this section.</span></p>
+
+<p class=scnewcodesection id=P57><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SF_lv1_25b14ae3I">(</a>F) Any vehicle used by a participant,
+organizer, spectator, or an aider and abettor during a street takeover, shall
+be seized by the responding law enforcement agency. Within ten days of seizure
+of such vehicle, the seizing agency shall provide written notice of such
+seizure to any owner or lienholder of the vehicle. Upon request, the seized
+vehicle may be returned to the owner or lienholder of the vehicle at the
+discretion of the responding law enforcement agency. Prior to release, the
+owner or lienholder shall pay any fees associated with the seizure of the
+vehicle, to include, but not be limited to, reasonable towing and storage fees.
+If the owner or lienholder of a seized vehicle fails to claim the vehicle and
+pay outstanding fees within thirty days of receipt of notice of seizure from
+the seizing agency, the vehicle shall be forfeited to the seizing agency and
+title to the vehicle shall transfer to the seizing law enforcement agency. The
+law enforcement agency may use the vehicle within the agency or sell the
+vehicle and use the proceeds to fund law enforcement activities.</span></p>
+
+<p class=scnewcodesection id=P58><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SG_lv1_24d9ad9aI">(</a>G) Any seized vehicle that was used
+by an individual convicted of a crime contained in this section shall be
+forfeited and title to the vehicle shall transfer to the law enforcement agency
+that initiated charges against the individual. The law enforcement agency may
+use the vehicle within the agency or sell the vehicle and use the proceeds to
+fund law enforcement activities.</span></p>
+
+<p class=scnewcodesection id=P59><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SH_lv1_020a52a3I">(</a>H) Any vehicle with illegal street
+racing modifications is not legal to operate on a public roadway, street,
+highway, intersection, public vehicular area, or parking lot. Such a vehicle
+shall immediately be forfeited to law enforcement upon a conviction for use of
+that vehicle in a street takeover.</span></p>
+
+<p class=scnewcodesection id=P60><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SI_lv1_bffeed56I">(</a>I) No political subdivision may by
+ordinance, policy, or regulation reduce any penalty contained in this section.</span></p>
+
+<p class=scnewcodesection id=P61><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SK_lv1_4e5b527eI">(</a>K) Notwithstanding the provisions of
+Sections 22-3-540, 22-3-545, 22-3-550, and 14-25-65, an offense punishable
+under this section, unless the person is charged with subsection (E) along with
+an underlying offense, may be tried in magistrates or municipal court.</span></p>
+
+<p class=sccommitteereporttitle id=P62>Renumber sections to conform.</p>
+
+<p class=sccommitteereporttitle id=P63>Amend title to conform.</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P64>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson id=P65>W. NEWTON for Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P66>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P67>&nbsp;</p>
+
+<p class=sccoversheetFISheader id=P68>statement of estimated fiscal impact</p>
+
+<p class=sccoversheetFISsectionheaders id=P69>Explanation of Fiscal Impact</p>
+
+<p class=sccoversheetFISsectionheaders id=P70>State Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo id=P71>This bill creates the Roadway
+Protection and Safety Act and establishes penalties for participating in,
+organizing, and spectating, aiding, or abetting a "street takeover," defined as
+the deliberate and coordinated obstruction of a public roadway, highway,
+intersection, or parking lot for illegal vehicle exhibitions including, but not
+limited to, burnouts, drifting, doughnuts, speed contests, or other reckless
+driving maneuvers. Participating in a street takeover constitutes a felony
+punishable by a fine, a term of imprisonment, and driver's license suspension.
+Organizing a street takeover constitutes, for a first offense, a misdemeanor
+punishable by a fine and a term of imprisonment; a second or subsequent offense
+constitutes a felony punishable by a fine and a term of imprisonment.
+Spectating, aiding, or abetting a street takeover is a misdemeanor offense
+punishable by a fine, a term of imprisonment, and driver's license suspension.
+The bill also provides for enhanced penalties for participating in or
+organizing a street takeover when the offender was fleeing law enforcement or
+endangered, inflicted bodily injury upon, or caused the death of another
+person. The bill provides that vehicles used in a street takeover are subject
+to impoundment or permanent forfeiture. Forfeited vehicles may be auctioned to
+fund public safety initiatives. The penalties established by the bill may not
+be reduced.</p>
+
+<p class=sccoversheetFISsectioninfo id=P72>This bill may result in an increase
+in the number of cases in circuit court and potentially the number of
+incarcerations, due to the newly created offenses, which may increase the
+workload of the court system and CID, PPP, CPC, and Corrections. The potential
+increase in expenses for Judicial and each agency will depend upon the increase
+in the number of cases and number of incarcerations. The agencies anticipate
+that the potential increase in caseload can be managed within existing
+appropriations. Judicial anticipates that the potential impact of the caseload
+in circuit court can be managed within existing appropriations. However, if the
+bill has an unanticipated impact on caseloads or downstream expenses, Judicial
+and these agencies will request an increase in General Fund appropriations. For
+information, according to Corrections, in FY 2024- 25, the annual total cost
+per inmate was $37,503, of which $35,696 was state funded.</p>
+
+<p class=sccoversheetFISsectioninfo id=P73>&nbsp;</p>
+
+<p class=sccoversheetFISsectionheaders id=P74>State Revenue</p>
+
+<p class=sccoversheetFISsectioninfo id=P75>This bill may result in a change in
+the fines and fees collected in court due to an increase in the caseload in
+court. Court fines and fees are distributed to the General Fund, Other Funds,
+and local funds. Therefore, RFA anticipates this bill may result in a change to
+General Fund and Other Funds revenue due to the change in fines and fees
+collections in court.</p>
+
+<p class=sccoversheetFISsectioninfo id=P76><b>&nbsp;</b></p>
+
+<p class=sccoversheetFISsectioninfo id=P77>&nbsp;</p>
+
+<p class=sccoversheetFISdirector id=P78>Frank A. Rainwater, Executive Director</p>
+
+<p class=sccoversheetFISdirector id=P79>Revenue and Fiscal Affairs Office</p>
+
+<p class=sccoversheetFISheader id=P80><span style='text-decoration:none'>&nbsp;</span></p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center' id=P81>_______</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline id=P82>&nbsp;</p>
+
+<p class=scemptylineheader id=P83>&nbsp;</p>
+
+<p class=scemptylineheader id=P84>&nbsp;</p>
+
+<p class=scemptylineheader id=P85>&nbsp;</p>
+
+<p class=scemptylineheader id=P86>&nbsp;</p>
+
+<p class=scemptylineheader id=P87>&nbsp;</p>
+
+<p class=scemptylineheader id=P88>&nbsp;</p>
+
+<p class=scemptylineheader id=P89>&nbsp;</p>
+
+<p class=scbillheader id=P90>A bill</p>
+
+<p class=scemptyline id=P91>&nbsp;</p>
+
+<p class=scbilltitle id=P92>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY
+ENACTING THE "Roadway PROTECTION AND SAFETY ACT" BY ADDING SECTION 56-5-3910 SO
+AS TO PROVIDE DEFINITIONS, TO PROVIDE IT IS UNLAWFUL TO PARTICIPATE IN,
+ORGANIZE, OR BE A SPECTATOR, AIDER, OR ABETTOR OF A STREET TAKEOVER, AND TO PROVIDE
+PENALTIES.<a name="at_e27c8fb55"></a></p>
+
+<p class=scbillwhereasclause id=P93><span style='line-height:150%'>&nbsp;</span></p>
+
+<p class=scenactingwords id=P94><a name="ew_8f82b4d26">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline id=P95>&nbsp;</p>
+
+<p class=scnoncodifiedsection id=P96><a name="citing_act_b3deab346"></a><a name="bs_num_1_4acd8c02e">S</a>ECTION 1.&nbsp; <span style='color:black;background:
+white'>This act may be cited as the "Roadway Protection and Safety Act."</span></p>
+
+<p class=scemptyline id=P97>&nbsp;</p>
+
+<p class=scdirectionallanguage id=P98><a name="bs_num_2_5afc8dee0">S</a>ECTION
+2.&nbsp; <a name="dl_ccd9052ec">A</a>rticle 31, Chapter 5, Title 56 of the S.C. Code
+is amended by adding:</p>
+
+<p class=scnewcodesection id=P99>&nbsp;</p>
+
+<p class=scnewcodesection id=P100>&nbsp;&nbsp;&nbsp; <a name="ns_T56C5N3910_7a863e5f2">S</a>ection
+56-5-3910. <a name="ss_T56C5N3910SA_lv1_29a6c91f6">(</a>A) As contained in this
+section:</p>
+
+<p class=scnewcodesection id=P101>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S1_lv2_6fb0aa3b1">(</a>1)
+"Street Takeover" means the deliberate and coordinated obstruction of a public
+roadway, highway, intersection, or parking lot for illegal vehicle exhibitions
+including, but not limited to, burnouts, drifting, doughnuts, speed contests,
+or other reckless driving maneuvers.</p>
+
+<p class=scnewcodesection id=P102>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S2_lv2_f70ffddd8">(</a>2)
+"Participant" means an individual operating a vehicle, riding as a passenger,
+or engaging in activities that contribute to a street takeover.</p>
+
+<p class=scnewcodesection id=P103>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S3_lv2_71c93571b">(</a>3)
+"Organizer" means a person who intentionally plans, promotes, or facilitates a
+street takeover, including using social media, messaging applications, text
+messages, telephone calls, or another form of communication. This includes a
+person who coordinates meeting locations, times, or other logistical details
+that contribute to the occurrence of a street takeover.</p>
+
+<p class=scnewcodesection id=P104>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S4_lv2_cad84f5bc">(</a>4)
+"Spectator" means a person who knowingly attends a street takeover for the
+purpose of encouraging, recording, or aiding the event.</p>
+
+<p class=scnewcodesection id=P105>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S5_lv2_7f1ad1060">(</a>5)
+"Aider or Abettor" means a person who assists in planning, coordinating, or
+physically aiding a street takeover, including blocking roads or directing
+vehicles.</p>
+
+<p class=scnewcodesection id=P106>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SB_lv1_0dff3babf">(</a>B)
+A participant in a street takeover:</p>
+
+<p class=scnewcodesection id=P107>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S1_lv2_4ff125a1a">(</a>1)
+for a first offense is guilty of a felony and, upon conviction, must be fined
+three thousand five hundred dollars, imprisoned not more than five years, and
+have his driver's license suspended for six months; or</p>
+
+<p class=scnewcodesection id=P108>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S2_lv2_442055658">(</a>2)
+for a second or subsequent offense is guilty of a felony and, upon conviction,
+must be fined seven thousand five hundred dollars, imprisoned not more than ten
+years, and have his driver's license suspended for one year.</p>
+
+<p class=scnewcodesection id=P109>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SC_lv1_28965bf02">(</a>C)
+An organizer of a street takeover:</p>
+
+<p class=scnewcodesection id=P110>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S1_lv2_c4afae290">(</a>1)
+for a first offense is guilty of a misdemeanor and, upon conviction, must be
+fined not more than three thousand five hundred dollars, and imprisoned not
+more than six months;</p>
+
+<p class=scnewcodesection id=P111>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S2_lv2_b30d3857c">(</a>2)
+for a second offense is guilty of a felony and, upon conviction, must be fined
+seven thousand five hundred dollars, and imprisoned not more than five years;
+or</p>
+
+<p class=scnewcodesection id=P112>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S3_lv2_fba466456">(</a>3)
+for a third or subsequent offense is guilty of a felony and, upon conviction,
+must be fined fifteen thousand dollars, and imprisoned not more than ten years.</p>
+
+<p class=scnewcodesection id=P113>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SD_lv1_d6a7f003c">(</a>D)
+A spectator, aider, or abettor of a street takeover:</p>
+
+<p class=scnewcodesection id=P114>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S1_lv2_15286a352">(</a>1)
+for a first offence is guilty of a misdemeanor and, upon conviction, must be
+fined one thousand dollars, imprisoned not more than thirty days, and have his
+driver's license suspended for thirty days;</p>
+
+<p class=scnewcodesection id=P115>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S2_lv2_57e883126">(</a>2)
+for a second offense is guilty of a misdemeanor and, upon conviction, must be fined
+two thousand five hundred dollars, imprisoned not more than sixty days, and
+have his driver's license suspended for six months; or</p>
+
+<p class=scnewcodesection id=P116>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S3_lv2_30dc1a3e8">(</a>3)
+for a third or subsequent offense is guilty of a misdemeanor and, upon
+conviction, must be fined five thousand dollars, imprisoned not more than one
+year, and have his driver's license suspended for one year.</p>
+
+<p class=scnewcodesection id=P117>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SE_lv1_3a2a4b790">(</a>E)
+A person convicted of a crime contained in subsections (B), or (C) who, during
+the commission of the crime, also:</p>
+
+<p class=scnewcodesection id=P118>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S1_lv2_f01882670">(</a>1)
+fled a law enforcement officer during a street takeover is guilty of a misdemeanor
+and, upon conviction, must be imprisoned not more than two years;</p>
+
+<p class=scnewcodesection id=P119>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S2_lv2_5e638b5d1">(</a>2)
+endangered pedestrians, law enforcement officers, or other drivers is guilty of
+a misdemeanor and, upon conviction, must be fined an additional five thousand
+dollars, and imprisoned not more than an additional year;</p>
+
+<p class=scnewcodesection id=P120>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S3_lv2_78b0700d5">(</a>3)
+inflicted bodily injury upon another person is guilty of a felony and, upon
+conviction, must be fined an additional ten thousand dollars, and imprisoned
+not more than an additional five years; or</p>
+
+<p class=scnewcodesection id=P121>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910S4_lv2_d2941b103">(</a>4)
+caused the death of another person is guilty of a felony and, upon conviction, must
+be fined an additional twenty-five thousand dollars, and imprisoned not more
+than an additional ten years.</p>
+
+<p class=scnewcodesection id=P122>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SF_lv1_28ddc8c18">(</a>F)
+It is unlawful to conduct a street takeover on private property without the
+owner's written consent. A property owner may request law enforcement
+intervention to remove a person who violates this subsection.</p>
+
+<p class=scnewcodesection id=P123>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SG_lv1_9827977c4">(</a>G)
+Any vehicle used in a street takeover must be impounded for at least thirty
+days.</p>
+
+<p class=scnewcodesection id=P124>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SH_lv1_25033aa5f">(</a>H)
+Any vehicle involved in a second or subsequent offense must be forfeited
+permanently and auctioned, with proceeds used to fund public safety initiatives.</p>
+
+<p class=scnewcodesection id=P125>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SI_lv1_544fa13f2">(</a>I)
+Any vehicle with illegal street racing modifications that include, but are not
+limited to, the use of nitrous oxide fuel or removing exhaust systems must be
+seized and must not be returned to the owner unless it is restored to legal
+standards.</p>
+
+<p class=scnewcodesection id=P126>&nbsp;&nbsp;&nbsp; <a name="ss_T56C5N3910SJ_lv1_dfde6e8ad">(</a>J)
+No political subdivision may by ordinance, policy, or regulation reduce any
+penalty contained in this section.</p>
+
+<p class=scemptyline id=P127>&nbsp;</p>
+
+<p class=scnoncodifiedsection id=P128><a name="eff_date_section"></a><a name="bs_num_3_lastsection">S</a>ECTION 3.&nbsp; This act takes effect upon approval
+by the Governor.</p>
+
+<p class=scbillendxx id=P129>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on March 26, 2026 at 04:59 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>

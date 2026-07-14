@@ -1,0 +1,613 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 715 Text of Previous Version (Feb. 26, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Solicitation of Charitable Funds"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 715</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken>Indicates Matter Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Committee Report</p>
+
+<p class=sccoversheetinfo>February 26, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>S. 715</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Senators Sutton, Rice, Elliott and Turner </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetinfo>S. Printed 2/26/26--S.</p>
+
+<p class=sccoversheetreadfirst>Read the first time January 13, 2026</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader>The committee on Senate Labor,
+Commerce and Industry</p>
+
+<p class=sccommitteereporttitle>To whom was referred a Bill (S. 715) to amend
+the South Carolina Code of Laws by amending Section 33-56-50, relating to
+organizations exempt from registration provisions, alternate filings, and
+fundraising, etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader>Report:</p>
+
+<p class=sccommitteereporttitle>That they have duly and carefully considered
+the same, and recommend that the same do pass:</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson>THOMAS DAVIS for Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>_______</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline><a name="open_doc_here"></a>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING
+SECTION 33-56-50, RELATING TO ORGANIZATIONS EXEMPT FROM REGISTRATION
+PROVISIONS, ALTERNATE FILINGS, AND FUNDRAISING ACTIVITIES, SO AS TO INCREASE
+THRESHOLDS FOR CHARITIES REQUESTING EXEMPTIONS; BY AMENDING SECTION 33-56-70,
+RELATING TO THE REQUIREMENT THAT CONTRACTS WITH PROFESSIONAL SOLICITORS MUST BE
+IN WRITING, FILING REQUIREMENTS, JOINT FINANCIAL REPORTS FOR EACH CAMPAIGN, AND
+PENALTIES FOR NONCOMPLIANCE, SO AS TO LIMIT FILING REQUIREMENTS TO COMMERCIAL
+CO-VENTURERS UNDER CERTAIN CONDITIONS; BY AMENDING SECTION 33-56-90, RELATING
+TO DISCLOSURES TO SOLICITED PARTIES, SO AS TO REQUIRE ANY ENTITY THAT SOLICITS
+FOR CHARITABLE ORGANIZATIONS TO DISCLOSE THE LEGAL NAME AND PURPOSE OF THE
+CHARITY FOR WHICH THEY ARE SOLICITING; BY AMENDING SECTION 33-56-110, RELATING
+TO THE REGISTRATION OF PROFESSIONAL SOLICITORS, FUNDRAISING COUNSEL, OR
+COMMERCIAL CO-VENTURERS, SO AS TO LIMIT REGISTRATION REQUIREMENTS FOR COMMERCIAL
+CO-VENTURERS SOLICITING MORE THAN TEN THOUSAND DOLLARS IN A SINGLE SOLICITATION
+CAMPAIGN; BY AMENDING SECTION 33-56-110, RELATING TO REGISTRATION OF
+PROFESSIONAL SOLICITORS, FUNDRAISING COUNSEL, OR COMMERCIAL CO-VENTURERS, SO AS
+TO PROVIDE THAT IF A COMMERCIAL CO-VENTURER INTENDING TO BE EXEMPT FROM
+REGISTRATION WITH THE SECRETARY OF STATE COLLECTS, EARNS, OR RECEIVES
+CHARITABLE CONTRIBUTIONS IN EXCESS OF TEN THOUSAND DOLLARS DURING A
+SOLICITATION CAMPAIGN, THEN THE COMMERCIAL CO-VENTURER SHALL REPORT TO THE
+SECRETARY OF STATE; AND BY AMENDING SECTION 33-56-120, RELATING TO PROHIBITED
+MISREPRESENTATIONS, SO AS TO PROHIBIT COMMERCIAL CO-VENTURERS FROM USING
+REGISTRATION WITH THE SECRETARY OF STATE AS AN ENDORSEMENT BY THE STATE.<a name="at_b3558a097"></a></p>
+
+<p class=scbillwhereasclause>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_a58ff050e">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_06d6ab9c0">S</a>ECTION 1.&nbsp; <a name="dl_1b795c2f0">S</a>ection 33-56-50 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T33C56N50_3f73bd2ad">S</a>ection
+33-56-50.&nbsp; <a name="ss_T33C56N50SA_lv1_6f3681b3a">(</a>A) The following are not
+required to file registration statements with the Secretary of State if their
+fundraising activities are not conducted by professional solicitors,
+professional fundraising counsel, or commercial coventurers:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S1_lv2_938edcbd4">(</a>1)
+an educational institution which solicits contributions from only its students
+and their families, alumni, faculty, friends, and other constituencies,
+trustees, corporations, foundations, and individuals who are interested in and
+supportive of the programs of the institution;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S2_lv2_b17576de5">(</a>2)
+a person requesting contributions for the relief of an individual specified by
+name at the time of the solicitation when all of the contributions collected,
+without deductions of any kind, are turned over to the named beneficiary for
+his use, as long as the person soliciting the contributions is not a named
+beneficiary;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S3_lv2_9a19834e8">(</a>3)
+a charitable organization which <span class=scstrike>(a) </span>does not <span class=scstrike>intend to </span>solicit<span class=scinsert>, collect, earn</span>
+or receive <span class=scstrike>contributions from the public</span> <span class=scinsert>gross revenue </span>in excess of twenty<span class=scinsert>-five</span>
+thousand dollars <span class=scstrike>in</span> <span class=scinsert>during </span>a
+<span class=scstrike>calendar</span> <span class=scinsert>fiscal </span>year
+and <span class=scstrike>(b)</span> has received a letter of tax exemption from
+the Internal Revenue Service, if all functions, including fundraising
+activities, of the organization exempted pursuant to this item are conducted by
+persons who are compensated no more than five hundred dollars in a year for
+their services and no part of their assets or income inures to the benefit of
+or is paid to an officer or a member. If the <span class=scstrike>contributions
+raised from the public, whether or not the contributions are actually received
+by a charitable organization during any calendar year, are in excess of these
+amounts</span><span class=scinsert> gross revenue solicited, collected, earned,
+or received by the organization exceeds this amount</span>, <span class=scstrike>within thirty days after the date the contributions exceed these
+amounts,</span> <span class=scinsert>then </span>the organization must register
+with and report to the Secretary of State as required by this chapter<span class=scinsert> within thirty days after the date the gross revenue exceeds
+this amount</span>;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S4_lv2_0aff7ed81">(</a>4)
+an organization which solicits exclusively from its membership, including a
+utility cooperative;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S5_lv2_ff7cbe48a">(</a>5)
+a veterans' organization which has a congressional charter;&nbsp; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S6_lv2_813af7790">(</a>6)
+the State, its political subdivisions, and an agency or a department of the
+State which are subject to the disclosure provisions of the Freedom of
+Information Act.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50SB_lv1_de9a7da53">(</a>B)
+The following are not required to file registration statements with the
+Secretary of State regardless of whether or not their fundraising activities
+are conducted by professional solicitors, professional fundraising counsel, or
+commercial coventurers:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S1_lv2_a0bfe8243">(</a>1)
+a public school district located in the State and any public school teaching
+pre-K through grade twelve located within the public school district. For
+purposes of this chapter, the term "public school" includes any student
+organization within the school that does not maintain separate financial
+accounts or a separate federal Employer's Identification Number (EIN) from the
+school and whose fundraising revenues are deposited in the school's student
+activity fund;&nbsp; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50S2_lv2_b4429d810">(</a>2)
+a charitable organization that does not <span class=scstrike>intend to </span>solicit<span class=scinsert>, collect, earn,</span> or receive <span class=scstrike>contributions
+from the public</span> <span class=scinsert>gross revenue </span>in excess of <span class=scstrike>seven </span><span class=scinsert>ten </span>thousand <span class=scstrike>five hundred </span>dollars during a <span class=scstrike>calendar
+</span><span class=scinsert>fiscal </span>year. If the <span class=scstrike>contributions
+raised from the public, whether or not the contributions are actually received
+by a charitable organization during any calendar year, are in excess of these
+amounts</span><span class=scinsert> gross revenue solicited, collected, earned
+or received by the organization exceeds this amount</span>, <span class=scinsert>then </span>the organization shall register and report to the
+Secretary of State as required by this chapter within thirty days after the
+date <span class=scstrike>the contributions exceed these amounts</span><span class=scinsert> the gross revenue exceeds this amount</span>.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50SC_lv1_8f327cd15">(</a>C) A
+charitable organization claiming to be exempt from the registration provisions
+of this chapter and which solicits charitable contributions must submit
+annually to the Secretary of State, on forms prescribed by the Secretary of
+State, the name, address, and purpose of the organization and a statement
+setting forth the reason for the claim for exemption. If appropriate, the
+Secretary of State or his appropriate division shall issue a letter of
+exemption that may be exhibited to the public. A filing fee is not required of
+an exempt organization.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N50SD_lv1_95fa9ebc1">(</a>D) A
+professional solicitor, professional fundraising counsel, or commercial
+coventurer conducting fundraising activities on behalf of an exempt
+organization must comply with the registration and filing requirements of this
+chapter.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_c14cbbaca">S</a>ECTION 2.&nbsp; <a name="dl_74d1ab31f">S</a>ection 33-56-70(A), (D) and (E) of the S.C. Code is
+amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T33C56N70_daf4038f2">&nbsp;&nbsp;&nbsp; </a><a name="ss_T33C56N70SA_lv1_74f379c7a">(</a>A) A contract or agreement between any
+professional fundraising counsel, professional solicitor, or commercial
+co-venturer <span class=scinsert>required to register with the Secretary of
+State pursuant to Section 33-56-110 </span>and a charitable organization must
+be in writing and filed with the Secretary of State at least ten days before
+the professional fundraising counsel, professional solicitor, or commercial
+co-venturer begins any solicitation activity or any other activity contemplated
+by the contract or agreement in this State. In addition, a professional
+solicitor or commercial co-venturer shall attach a completed Notice of
+Solicitation form that complies with the requirements of this section to the
+contract or agreement filed with the Secretary of State.</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T33C56N70_5803590d3">&nbsp;&nbsp;&nbsp; </a><a name="ss_T33C56N70SD_lv1_a6388384f">(</a>D) Solicitations or services pursuant
+to a contract or agreement between a charitable organization and a professional
+solicitor, professional fundraising counsel, or commercial co-venturer may not
+begin in this State until the contract or agreement has been filed with the
+Secretary of State and until both the charitable organization and the
+professional solicitor, professional fundraising counsel, or commercial
+co-venturer are registered <span class=scstrike>properly</span> with the
+Secretary of State<span class=scinsert> as required pursuant to this chapter</span>.</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T33C56N70_94706bb6f">&nbsp;&nbsp;&nbsp; </a><a name="ss_T33C56N70SE_lv1_0b4fd36e1">(</a>E) Within ninety days after a
+solicitation campaign has been completed, or within ninety days after the
+anniversary of a solicitation campaign lasting more than one year, a
+professional solicitor or commercial co-venturer <span class=scinsert>required
+to register with the Secretary of State pursuant to Section 33-56-110 </span>shall
+file with the Secretary of State a joint financial report for the campaign,
+including gross revenue, an itemization of expenses, and the amount paid to the
+charitable organization. This joint financial report must be completed on the
+form prescribed by the Secretary of State, signed by both an authorized
+official of the professional solicitor or commercial co-venturer and an
+authorized official of the charitable organization, and certified to be true.</p>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_6b15feb5b">S</a>ECTION 3.&nbsp; <a name="dl_e3b213683">S</a>ection 33-56-90 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T33C56N90_0a1f41660">S</a>ection
+33-56-90.&nbsp; <a name="ss_T33C56N90SA_lv1_4e70ee98a">(</a>A) <span class=scinsert>At
+the initial time of solicitation, a charitable organization, professional
+solicitor, commercial con-venturer, or other person engaging in the
+solicitation of charitable contributions must disclose the legal name and
+purpose of the charitable organization for which it is soliciting.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N90SB_lv1_511a02333">(</a>B) </span>At the initial time of
+solicitation, a professional solicitor must disclose its status as a
+"professional" or "paid" solicitor. The professional solicitor also must
+disclose the registered true name of the professional fundraising organization
+for which it works and the registered true name, location, and purpose of the
+charitable organizations for which it is soliciting. Upon oral or written
+request of the solicited party, a professional solicitor also must disclose the
+percentage of gross receipts with which the professional solicitor is
+compensated including the amount the professional solicitor must be reimbursed
+as payment for fundraising costs. The professional solicitor also must disclose
+the guaranteed minimum percentage of gross receipts to be remitted or retained
+by the charitable organization excluding the amount which the charitable
+organization must pay for fundraising costs.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <span class=scstrike>(B)</span><a name="ss_T33C56N90SC_lv1_b6f8ff2de"><span class=scinsert>(</span></a><span class=scinsert>C)</span> Upon oral or written request by the solicited party,
+the professional solicitor must deliver to the solicited party within fifteen
+business days of the request a:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N90S1_lv2_8d02082c1">(</a>1)
+financial statement of the charitable organization disclosing assets,
+liabilities, fund balances, revenue, and expenses for the preceding fiscal
+year. This financial statement must be the most recently submitted annual
+financial report pursuant to Section 33-56-60;&nbsp; and</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T33C56N90S2_lv2_28739ae02">(</a>2)
+copy of the professional solicitor's or charitable organization's current
+registration certification from the Secretary of State.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <span class=scstrike>(C)</span><a name="ss_T33C56N90SD_lv1_73c88bf59"><span class=scinsert>(</span></a><span class=scinsert>D)</span> A professional solicitor that fails to comply with the
+provisions of this section is liable for an administrative fine not to exceed
+two thousand dollars for each separate violation.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <span class=scstrike>(D)</span><a name="ss_T33C56N90SE_lv1_9bb78a1c8"><span class=scinsert>(</span></a><span class=scinsert>E)</span> An offense committed in violation of this section is
+considered to have been committed at the place where the solicitation either
+was initiated or was received.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_45562af17">S</a>ECTION 4.&nbsp; <a name="dl_172c291ad">S</a>ection 33-56-110(A) of the S.C. Code is amended to
+read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T33C56N110_637c6d1ca">&nbsp;&nbsp;&nbsp; </a><a name="ss_T33C56N110SA_lv1_fb9ed82d3">(</a>A) A person may not act as a
+professional solicitor<span class=scstrike>,</span><span class=scinsert> or</span>
+professional fundraising counsel, <span class=scstrike>or commercial
+co-venturer </span>for a charitable organization subject to the provisions of
+this chapter without first having registered with the Secretary of State. <span class=scinsert>If a person intends to solicit, collect, earn, or receive
+charitable contributions in excess of ten thousand dollars during a
+solicitation campaign, then the person may not act as a commercial co-venturer
+for a charitable organization subject to the provisions of this chapter without
+first registering with the Secretary of State. </span>Registration includes
+filing of a complete application and filing fee. An application for
+registration must be in writing under oath or affirmation in the form
+prescribed by the Secretary of State and accompanied by an annual fee of fifty
+dollars.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_5_035d2922b">S</a>ECTION 5.&nbsp; <a name="dl_f24377229">S</a>ection 33-56-110 of the S.C. Code is amended by
+adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection><a name="ns_T33C56N110_6f2a76b0f">&nbsp;&nbsp;&nbsp; </a><a name="ss_T33C56N110SJ_lv1_9670b87fa">(</a>J) If a commercial co-venturer
+intending to be exempt from registration with the Secretary of State collects,
+earns or receives charitable contributions in excess of ten thousand dollars
+during a solicitation campaign, then the commercial co-venturer shall register
+and report to the Secretary of State as required by this chapter within thirty
+days after the date the contributions exceed this amount.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_6_e001a78aa">S</a>ECTION 6.&nbsp; <a name="dl_c4e4b0d31">S</a>ection 33-56-120(B) of the S.C. Code is amended to
+read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T33C56N120_04eeba512">&nbsp;&nbsp;&nbsp; </a><a name="ss_T33C56N120SB_lv1_121da0248">(</a>B) A charitable organization,
+professional fundraising counsel, or professional solicitor<span class=scinsert>, or commercial co-venturer</span> shall not use or exploit the
+fact of registration <span class=scinsert>with the Secretary of State </span>so
+as to lead the public to believe that the registration in any way constitutes
+an endorsement or approval by the State. However, the use of the following
+statement is not considered a prohibited exploitation: <span class=scstrike>&nbsp;</span>"Registered
+with the Secretary of State as required by law". Registration does not imply
+endorsement of a public solicitation for contributions.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section"></a><a name="bs_num_7_lastsection">S</a>ECTION 7.&nbsp; This act takes effect upon approval
+by the Governor.</p>
+
+<p class=scbillendxx>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on February 26, 2026 at 03:21 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
