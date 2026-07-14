@@ -1,0 +1,795 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scinsertblue
+	{mso-style-name:sc_insert_blue;
+	font-variant:normal !important;
+	color:#0070C0;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scstrikered
+	{mso-style-name:sc_strike_red;
+	color:red;
+	text-decoration:line-through;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccoversheetFISdirector, li.sccoversheetFISdirector, div.sccoversheetFISdirector
+	{mso-style-name:sc_coversheet_FIS_director;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetFISheader, li.sccoversheetFISheader, div.sccoversheetFISheader
+	{mso-style-name:sc_coversheet_FIS_header;
+	margin:0in;
+	text-align:center;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	text-decoration:underline;}
+p.sccoversheetFISsectionheaders, li.sccoversheetFISsectionheaders, div.sccoversheetFISsectionheaders
+	{mso-style-name:sc_coversheet_FIS_section_headers;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetFISsectioninfo, li.sccoversheetFISsectioninfo, div.sccoversheetFISsectioninfo
+	{mso-style-name:sc_coversheet_FIS_section_info;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 4576 Text of Previous Version (Apr. 21, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Special Purpose Districts Retirement"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 4576</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken><a name="open_doc_here"></a>Indicates Matter
+Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Committee Report</p>
+
+<p class=sccoversheetinfo>April 21, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>H. 4576</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Reps. Bannister and Clyburn </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetinfo>S. Printed 4/21/26--H.</p>
+
+<p class=sccoversheetreadfirst>Read the first time January 13, 2026</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader>The committee on House Ways and
+Means</p>
+
+<p class=sccommitteereporttitle>To whom was referred a Bill (H. 4576) to amend
+the South Carolina Code of Laws by amending Section 9-20-10, relating to State
+Optional Retirement Program definitions, so as to include special purpose,
+etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader>Report:</p>
+
+<p class=sccommitteereporttitle>That they have duly and carefully considered
+the same, and recommend that the same do pass with amendment:</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccommitteereporttitle>&nbsp;&nbsp;&nbsp; <a name="instruction_a6b4695cd">Amend the
+bill, as and if amended, SECTION 1, by striking Section 9-20-10(1)(e) and
+inserting:</a></p>
+
+<p class=sccommitteereporttitle><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (e) a special
+purpose district</span><span class=scstrikered>, as defined in Section
+6-11-1610, that participates as an employer in the South Carolina Retirement
+System.</span><span class=scinsertblue> or commission of public works that has
+made an election to participate in the State Optional Retirement Program
+pursuant to Section 9-20-15.</span></p>
+
+<p class=sccommitteereporttitle><a name="instruction_41c3d67c1">Amend the bill
+further, SECTION 1, by striking Section 9-20-10(2)(f) and inserting:</a></p>
+
+<p class=sccommitteereporttitle><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (f) </span><span class=scstrikered>an employee, hired after June 30, 2027, by an employer as
+defined in Section 9-20-10(1)(e).</span><span class=scinsertblue> an employee
+hired by an employer as defined in Section 9-20-10(1)(e) after the employer's
+effective date of participation in the State Optional Retirement Program
+pursuant to Section 9-20-15.</span></p>
+
+<p class=sccommitteereporttitle>&nbsp;&nbsp;&nbsp; However, an employee who exercises an
+option to not participate in the South Carolina Retirement System under Section
+9-1-550 is not eligible to participate in the State Optional Retirement
+Program.</p>
+
+<p class=sccommitteereporttitle><a name="instruction_dcc1ee77a">Amend the bill
+further, by adding appropriately numbered SECTIONS to read:</a></p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10001_15b19e3a9D">S</a>ECTION
+X.&nbsp; <a name="dl_5ddc9f3fdD">C</a>hapter 20, Title 9 of the S.C. Code is amended
+by adding:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle>&nbsp;&nbsp;&nbsp; <a name="ns_T9C20N15_67af90ce7D">S</a>ection
+9-20-15. A special purpose district, as defined in Section 6-11-1610, or a
+commission of public works, established pursuant to Article 3, Chapter 31 of
+Title 5, that participates as an employer in the South Carolina Retirement
+System, in its discretion, also may become a participating employer in the
+State Optional Retirement Program by applying to the board to participate in
+the program and by complying with the requirements and regulations of the
+board. The application must be filed at least six months prior to the requested
+effective date of participation, which must be July 1, 2027, or any subsequent
+July first, next following receipt by the board of such application.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10002_b5aaf45d7D">S</a>ECTION
+X.&nbsp; <a name="dl_ae8d63a89D">S</a>ection 9-1-1085 of the S.C. Code is amended by
+adding:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="ns_T9C1N1085_9cbbc0d61D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C1N1085SE_lv1_a65d97467D">(</a>E) In lieu of the deductions from
+compensation required by Sections 9-1-1020 and 9-1-1160, an employer may elect,
+no later than July first, to pick up all or a portion of the employee
+contributions required by this section for the following fiscal year without a
+reduction or offset from its employees' compensation.&nbsp; Employee contributions
+picked up without such reduction or offset from the employee's compensation
+must be treated as employer contributions in determining federal tax treatment
+under Section 414(h)(2) of the United States Internal Revenue Code but must be
+credited as employee contributions for the purposes of the system.&nbsp; An employer
+making the election provided by this subsection is considered to have taken
+formal action to provide that the contributions on behalf of its employees,
+although designated as employee contributions, must be paid by the employer in
+lieu of employee contributions. The employer shall pay these employee
+contributions from the same source of funds which is used in paying earnings to
+the employee.&nbsp; The employee, however, may not be given any option of choosing
+to receive the contributed amount of the pick ups directly instead of having
+them paid by the employer to the retirement system.&nbsp; An employer's election to
+pick up contributions without a reduction or offset from its employees'
+compensation pursuant to this subsection may not be changed during the fiscal
+year but may be changed for future fiscal years.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10003_1fd4d8c83D">S</a>ECTION
+X.&nbsp; <a name="dl_f3e4ac942D">S</a>ection 9-11-225 of the S.C. Code is amended by
+adding:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="ns_T9C11N225_170b4ded8D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C11N225SE_lv1_71c7eee29D">(</a>E) In lieu of the deductions from
+compensation required by Section 9-11-210, an employer may elect, no later than
+July first, to pick up all or a portion of the employee contributions required
+by this section for the following fiscal year without a reduction or offset
+from its employees' compensation.&nbsp; Employee contributions picked up without
+such reduction or offset from the employee's compensation must be treated as
+employer contributions in determining federal tax treatment under Section
+414(h)(2) of the United States Internal Revenue Code but must be credited as
+employee contributions for the purposes of the system.&nbsp; An employer making the
+election provided by this subsection is considered to have taken formal action
+to provide that the contributions on behalf of its employees, although
+designated as employee contributions, must be paid by the employer in lieu of
+employee contributions. The employer shall pay these employee contributions
+from the same source of funds which is used in paying earnings to the
+employee.&nbsp; The employee, however, may not be given any option of choosing to
+receive the contributed amount of the pick ups directly instead of having them
+paid by the employer to the retirement system.&nbsp; An employer's election to pick
+up contributions without a reduction or offset from its employees' compensation
+pursuant to this subsection may not be changed during the fiscal year but may
+be changed for future fiscal years.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10004_74aafc390D">S</a>ECTION
+X.&nbsp; <a name="dl_ef381662bD">S</a>ection 9-1-10(8) of the S.C. Code is amended
+by adding:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="ns_T9C1N10_ce467d7d3D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C1N10Sc_lv1_ad3e59303D">(</a>c) Employee contributions picked up by
+an employer pursuant to Section 9-1-1085(E) without a reduction or offset from
+the member's compensation are not earnable compensation for the purposes of the
+system.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10005_f936ae22dD">S</a>ECTION
+X.&nbsp; <a name="dl_1cc4c851bD">S</a>ection 9-11-10(12) of the S.C. Code is amended
+to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="cs_T9C11N10_f08c13b78D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C11N10S12_lv1_665cf3cbfD">(</a>12) "Compensation" means the total
+remuneration paid to a police officer for service rendered to an employer for
+his full normal working time;&nbsp; when compensation includes maintenance, fees and
+other things of value, the board shall fix the value of that part of the
+compensation not paid in money directly by the employer.<span class=scinsertblue> Employee contributions picked up by an employer pursuant to
+Section 9-11-225(E) without a reduction or offset from the member's
+compensation are not compensation for the purposes of the system.</span></p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10006_8f5abb5c3D">S</a>ECTION
+X.&nbsp; <a name="dl_98555e0ecD">S</a>ection 9-1-10(1) of the S.C. Code is amended
+to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="cs_T9C1N10_5241d3701D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C1N10S1_lv1_f48e096d2D">(</a>1) "Accumulated contribution" means the
+sum of all the amounts <span class=scinsertblue>either </span>deducted from the
+compensation of a member <span class=scinsertblue>or paid by the employer in
+lieu of employee contributions pursuant to Section 9-1-1085(E) </span>and
+credited to the <span class=scstrikered>members </span><span class=scinsertblue>member's </span>individual account in the employee annuity
+savings fund, together with regular interest on the account, as provided in
+Article 9 of this chapter.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10007_865d95af4D">S</a>ECTION
+X.&nbsp; <a name="dl_381d1a926D">S</a>ection 9-11-10 (2) and (6) of the S.C. Code is
+amended to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="cs_T9C11N10_8caa560fdD">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C11N10S2_lv1_f764493edD">(</a>2) "Accumulated contributions" means
+the sum of all the amounts<span class=scinsertblue> either</span> deducted from
+the compensation of a member<span class=scinsertblue> or paid by the employer
+in lieu of employee contributions pursuant to Section 9-11-225(E)</span> and
+credited to the member's individual account in the employee annuity savings
+fund, together with regular interest on the account, as provided in this
+chapter.</p>
+
+<p class=sccommitteereporttitle>&nbsp;&nbsp;&nbsp; <a name="ss_T9C11N10S6_lv1_de9c58d3cD">(</a>6)
+"Aggregate contributions" means the sum of all the amounts<span class=scinsertblue> either</span> deducted from the compensation of a member <span class=scinsertblue>or paid by the employer in lieu of employee contributions
+pursuant to Section 9-11-225(E) </span>and credited to the member's individual
+account in the system, including any amounts transferred from another fund to
+the system as provided in Section 9-11-210(6).</p>
+
+<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<p class=MsoNormal><span style='font-family:"Times New Roman",serif'>&nbsp;</span></p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10008_24d78eb28D">S</a>ECTION
+X.&nbsp; <a name="dl_e28d44eb0D">S</a>ection 9-11-260(2) of the S.C. Code is amended
+to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="cs_T9C11N260_f97a235e9D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C11N260S2_lv1_3292ccd81D">(</a>2) The members' account shall be the
+account in which shall be held the contributions deducted from the compensation
+of members<span class=scinsertblue> and amounts paid by the employer in lieu of
+employee contributions pursuant to Section 9-11-225(E)</span>, together with
+the interest credited thereon.&nbsp; Upon the retirement of a member, or upon the
+death of a member if an allowance is payable to his beneficiary pursuant to
+Section 9-11-130, the amount of his accumulated contributions shall be
+transferred to the accumulation account.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10009_09f879b7dD">S</a>ECTION
+X.&nbsp; <a name="dl_933c82f16D">S</a>ection 9-1-1020, the fourth undesignated
+paragraph, of the S.C. Code is amended to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle>&nbsp;&nbsp;&nbsp; <a name="cs_T9C1N1020_3531b1172D">S</a>ection
+9-1-1020.&nbsp; Each <span class=scstrikered>department and political subdivision</span><span class=scinsertblue>employer</span> shall pick up the employee contributions
+required by this section for all compensation paid on or after July 1, 1982,
+and the contributions so picked up shall be treated as employer contributions
+in determining federal tax treatment under <span class=scinsertblue>Section
+414(h)(2) of </span>the United States Internal Revenue Code. For this purpose,
+each <span class=scstrikered>department and political subdivision</span><span class=scinsertblue>employer</span> is deemed to have taken formal action on or
+before January 1, 2009, to provide that the contributions on behalf of its
+employees, although designated as <span class=scstrikered>employer </span><span class=scinsertblue>employee </span>contributions, shall be paid by the employer
+in lieu of employee contributions. The <span class=scstrikered>department and
+political subdivision</span><span class=scinsertblue>employer</span> shall pay
+these employee contributions from the same source of funds which is used in
+paying earnings to the employee. The <span class=scstrikered>department and
+political subdivision</span><span class=scinsertblue>employer</span> may pick
+up these contributions by a reduction in the <span class=scstrikered>cash
+salary of the employee.</span><span class=scinsertblue> compensation of the
+employee or, if the employer makes an election authorized pursuant to Section
+9-1-1085(E), it may pay the amount designated as an employee contribution
+without a reduction or offset from the employee's compensation.</span></p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10010_6f0c354edD">S</a>ECTION
+X.&nbsp; <a name="dl_220d2a2ddD">S</a>ection 9-1-1160(B) of the S.C. Code is amended
+to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="cs_T9C1N1160_abfc18634D">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C1N1160SB_lv1_de7065cf3D">(</a>B) Each <span class=scstrikered>department
+and political subdivision</span><span class=scinsertblue>employer</span> shall
+pick up the employee contributions required by this section for all
+compensation paid on or after July 1, 1982, and the contributions picked up
+must be treated as employer contributions in determining federal tax treatment
+under<span class=scinsertblue> Section 414(h)(2) of</span> the United States
+Internal Revenue Code.&nbsp; <span class=scstrikered>Each department and political
+subdivision shall continue to withhold federal income taxes based upon these
+contributions until the Internal Revenue Service, or the federal courts, rule,
+pursuant to Section 414(h) of the United States Internal Revenue Code, that
+these contributions are not included as gross income of the employee until such
+time as they are distributed or made available.</span> <span class=scinsertblue>For this purpose, each employer is considered to have taken
+formal action to provide that the contributions on behalf of its employees,
+although designated as employee contributions, must be paid by the employer in
+lieu of employee contributions.</span> The <span class=scstrikered>department
+and political subdivision</span><span class=scinsertblue>employer</span> shall
+pay these employee contributions from the same source of funds which is used in
+paying earnings to the employee.&nbsp; The <span class=scstrikered>department and
+political subdivision</span><span class=scinsertblue>employer</span> may pick
+up these contributions by a reduction in the <span class=scstrikered>cash
+salary</span><span class=scinsertblue>compensation</span> of the employee<span class=scinsertblue> or, if the employer makes an election authorized pursuant
+to Section 9-1-1085(E), it may pay the amount designated as an employee
+contribution without a reduction or offset from the employee's compensation</span>.&nbsp;
+Employee contributions picked up must be <span class=scstrikered>treated </span><span class=scinsertblue>administered </span>for all purposes of this section in the
+same manner and to the extent as employee contributions made before the date
+picked up.</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="bs_num_10011_b9f14f167D">S</a>ECTION
+X.&nbsp; <a name="dl_cbe73c769D">S</a>ection 9-11-210(11) of the S.C. Code is
+amended to read:</p>
+
+<p class=sccommitteereporttitle>&nbsp;</p>
+
+<p class=sccommitteereporttitle><a name="cs_T9C11N210_d21cd9a6eD">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C11N210S11_lv1_f8707af9fD">(</a>11) Each <span class=scstrikered>department
+and political subdivision</span><span class=scinsertblue>employer</span> shall
+pick up the employee contributions required by this section for all
+compensation paid on or after July 1, 1982, and the contributions so picked up
+shall be treated as employer contributions in determining federal tax treatment
+under<span class=scinsertblue> Section 414(h)(2) of</span> the United States
+Internal Revenue Code. For this purpose, each <span class=scstrikered>department
+and political subdivision</span><span class=scinsertblue>employer</span> is
+deemed to have taken formal action on or before January 1, 2009, to provide
+that the contributions on behalf of its employees, although designated as <span class=scstrikered>employer </span><span class=scinsertblue>employee </span>contributions,
+shall be paid by the employer in lieu of employee contributions. The <span class=scstrikered>department and political subdivision</span><span class=scinsertblue>employer</span> shall pay these employee contributions from
+the same source of funds which is used in paying earnings to the employee. The <span class=scstrikered>department and political subdivision</span><span class=scinsertblue>employer</span> may pick up these contributions by a
+reduction in the <span class=scstrikered>cash salary</span><span class=scinsertblue>compensation</span> of the employee<span class=scinsertblue>
+or, if the employer makes an election authorized pursuant to Section
+9-11-225(E), it may pay the amount designated as an employee contribution
+without a reduction or offset from the employee's compensation</span>. The
+employee, however, must not be given <span class=scstrikered>the </span><span class=scinsertblue>any </span>option of choosing to receive the contributed
+amount of the pickups directly instead of having them paid by the employer to
+the retirement system. Employee contributions picked up shall be <span class=scstrikered>treated </span><span class=scinsertblue>administered </span>for
+all purposes of this section in the same manner and to the extent as employee
+contributions made prior to the date picked up.</p>
+
+<p class=sccommitteereporttitle>Renumber sections to conform.</p>
+
+<p class=sccommitteereporttitle>Amend title to conform.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson>B.W. BANNISTER for Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetFISheader>statement of estimated fiscal impact</p>
+
+<p class=sccoversheetFISsectionheaders>Explanation of Fiscal Impact</p>
+
+<p class=sccoversheetFISsectionheaders>State Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo>This bill as amended changes the definition
+of an employer for the state ORP to include SPDs or commissions of public works
+that have elected to participate in the ORP. The bill specifies that SPDs or
+commissions of public works that participate in the SCRS may also become
+participating employers in the ORP by applying to the board of PEBA. The
+application must be filed at least six months prior to the requested effective
+date of participation, which must be July 1, 2027, or any subsequent July
+first. The bill further changes the definition of an employee eligible to
+participate in the ORP to include employees hired by SPDs or commissions of
+public works after the employer's effective date of participation in the ORP. </p>
+
+<p class=sccoversheetFISsectioninfo>PEBA indicates that providing the ORP
+benefit to employees of SPDs or commissions of public works who have elected to
+participate in the program under the requirements of the bill will have a
+minimal effect on the retirement system. The agency further notes that
+implementing the amended bill will be managed with existing resources.
+Therefore, this bill as amended will have no impact on PEBA or the state
+retirement system.</p>
+
+<p class=sccoversheetFISsectioninfo>&nbsp;</p>
+
+<p class=sccoversheetFISsectionheaders>Local Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo>This bill allows SPDs and commission of
+public works to participate in the OPR, if they are participants of the SCRS
+and meet the requirements of this bill. </p>
+
+<p class=sccoversheetFISsectioninfo>This bill is not expected to have an impact
+on local SPDs or commissions of public works in the state, as the employer
+contribution rate for the ORP is the same as SCRS at 18.56 percent in FY
+2025-26. Further, the ORP benefit would only be available to current SCRS
+participant SPDs or commissions of public works that elect to participate in
+the ORP under the requirements of the bill. </p>
+
+<p class=sccoversheetFISsectioninfo>&nbsp;</p>
+
+<p class=sccoversheetFISsectioninfo>&nbsp;</p>
+
+<p class=sccoversheetFISdirector>Frank A. Rainwater, Executive Director</p>
+
+<p class=sccoversheetFISdirector>Revenue and Fiscal Affairs Office</p>
+
+<p class=sccoversheetFISheader><span style='text-decoration:none'>&nbsp;</span></p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>_______</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING
+SECTION 9-20-10, RELATING TO STATE OPTIONAL RETIREMENT PROGRAM DEFINITIONS, SO
+AS TO INCLUDE SPECIAL PURPOSE DISTRICTS IN THE DEFINITION OF "EMPLOYER."<a name="at_5ab90a93f"></a></p>
+
+<p class=scbillwhereasclause>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_5bd1d3c38">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_f9fafc804">S</a>ECTION 1.&nbsp; <a name="dl_5e148749e">S</a>ection 9-20-10(1) and (2) of the S.C. Code is amended
+to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T9C20N10_b670b7f4b">&nbsp;&nbsp;&nbsp; </a><a name="ss_T9C20N10S1_lv1_dbaa4450f">(</a>1) "Employer" means:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sa_lv2_6178f0173">(</a>a)
+a school district that receives funding from the State from the annual
+appropriation to the Department of Education for Aid to School
+Districts-Employer Contributions in the annual general appropriations act;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sb_lv2_088468624">(</a>b)
+a four-year and postgraduate institution of higher education supported and
+under the control of the State;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sc_lv2_a481e075d">(</a>c)
+a technical college supported and under the control of the State;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sd_lv2_0939b140e">(</a>d)
+the State or any of its departments, agencies, bureaus, commissions, and
+institutions, provided that such entity does not meet the definition of item
+(1)(a), (b), or (c) of this section<span class=scstrike>.</span><span class=scinsert>; or</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Se_lv2_69774552a">(</a>e) a special purpose district, as
+defined in Section 6-11-1610, that participates as an employer in the South
+Carolina Retirement System.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10S2_lv1_ae106dc00">(</a>2)
+"Eligible employee" means:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sa_lv2_73c87442a">(</a>a)
+a person hired on or after July 1, 2001, by an employer as defined in Section
+9-20-10(1)(a) to fill a permanent full-time position;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sb_lv2_0f03e70ba">(</a>b)
+a person hired on or after July 1, 2002, by an employer as defined in Section
+9-20-10(1)(b), (c), or (d) to fill a permanent full-time position;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sc_lv2_2ec212c95">(</a>c)
+a person hired on or after July 1, 2003, by an employer as defined in Section
+9-20-10(1)<span class=scinsert>(a), (b), (c), or (d)</span> to fill a temporary
+position or a part-time permanent position;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sd_lv2_34fa2376d">(</a>d)
+a person employed by an employer as defined in Section 9-20-10(1) who, as of
+June 30, 2001, was a participant of the Optional Retirement Program for
+Teachers and School Administrators or who, as of June 30, 2002, was a
+participant of the Optional Retirement Program for Publicly Supported Four-Year
+and Postgraduate Institutions of Higher Education;<span class=scstrike>&nbsp; or</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Se_lv2_c2f3279aa">(</a>e)
+an employee, hired on or after January 1, 2003, by the State or any of its
+departments, agencies, bureaus, commissions, or institutions who is not covered
+by the State Employee Grievance Procedure but who is eligible to participate in
+either the South Carolina Retirement System or the Police Officers Retirement
+System<span class=scstrike>.</span><span class=scinsert>; or</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T9C20N10Sf_lv2_86dda6c00">(</a>f) an employee, hired after June 30,
+2027, by an employer as defined in Section 9-20-10(1)(e).</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="up_9b9193fbe">H</a>owever, an employee
+who exercises an option to not participate in the South Carolina Retirement
+System under Section 9-1-550 is not eligible to participate in the State
+Optional Retirement Program.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section"></a><a name="bs_num_2_lastsection">S</a>ECTION 2.&nbsp; This act takes effect upon approval
+by the Governor.</p>
+
+<p class=scbillendxx>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on April 21, 2026 at 07:12 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>

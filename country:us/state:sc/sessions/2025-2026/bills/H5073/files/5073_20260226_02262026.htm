@@ -1,0 +1,614 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scinsertblue
+	{mso-style-name:sc_insert_blue;
+	font-variant:normal !important;
+	color:#0070C0;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scstrikered
+	{mso-style-name:sc_strike_red;
+	color:red;
+	text-decoration:line-through;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccoversheetFISdirector, li.sccoversheetFISdirector, div.sccoversheetFISdirector
+	{mso-style-name:sc_coversheet_FIS_director;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetFISheader, li.sccoversheetFISheader, div.sccoversheetFISheader
+	{mso-style-name:sc_coversheet_FIS_header;
+	margin:0in;
+	text-align:center;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	text-decoration:underline;}
+p.sccoversheetFISsectionheaders, li.sccoversheetFISsectionheaders, div.sccoversheetFISsectionheaders
+	{mso-style-name:sc_coversheet_FIS_section_headers;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetFISsectioninfo, li.sccoversheetFISsectioninfo, div.sccoversheetFISsectioninfo
+	{mso-style-name:sc_coversheet_FIS_section_info;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scamendlanginstruction, li.scamendlanginstruction, div.scamendlanginstruction
+	{mso-style-name:sc_amend_langinstruction;
+	margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:24.0pt;
+	margin-left:0in;
+	line-height:normal;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 5073 Text of Previous Version (Feb. 26, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Public school grading"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 5073</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken id=P1><a name="open_doc_here"></a>Indicates
+Matter Stricken</p>
+
+<p class=sccoversheetunderline id=P2>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline id=P3>&nbsp;</p>
+
+<p class=sccoversheetstatus id=P4>Committee Report</p>
+
+<p class=sccoversheetinfo id=P5>February 26, 2026</p>
+
+<p class=sccoversheetinfo id=P6>&nbsp;</p>
+
+<p class=sccoversheetbillno id=P7>H. 5073</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center' id=P8>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 id=P9>Introduced by Reps. Pedalino, Erickson,
+Montgomery, McCravy, Pace, Bradley, D. Mitchell, Terribile, Robbins, T. Moore,
+Sessions, Neese, Brittain, Crawford, Lawson, Edgerton, Chumley, Brewer,
+Chapman, Vaughan, Guest, Guffey, Cox, W. Newton, McGinnis, B. Newton, McCabe,
+Rankin, Gagnon, Gibson, J. E. Johnson, Long, Moss, Schuessler, G. M. Smith,
+White, Oremus, Teeple, Lastinger and Burns </p>
+
+<p class=sccoversheetsponsor6 id=P10>&nbsp;</p>
+
+<p class=sccoversheetinfo id=P11>S. Printed 2/26/26--H.</p>
+
+<p class=sccoversheetreadfirst id=P12>Read the first time January 29, 2026</p>
+
+<p class=sccoversheetemptyline id=P13>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center' id=P14>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center' id=P15><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader id=P16>The committee on House
+Education and Public Works</p>
+
+<p class=sccommitteereporttitle id=P17>To whom was referred a Bill (H. 5073) to
+amend the South Carolina Code of Laws by adding Section 59-29-250 so as to
+provide requirements for public school grading practices, to condition
+eligibility, etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader id=P18>Report:</p>
+
+<p class=sccommitteereporttitle id=P19>That they have duly and carefully
+considered the same, and recommend that the same do pass with amendment:</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P20>&nbsp;</p>
+
+<p class=scamendlanginstruction style='margin-top:0in;margin-right:0in;
+margin-bottom:6.0pt;margin-left:0in' id=P21>&nbsp;&nbsp; <span style='font-size:11.0pt'><a name="instruction_ca51341d1">Amend the bill, as and if amended, SECTION 1, by
+striking Section 59-29-250(B) and inserting:</a></span></p>
+
+<p class=scnewcodesection id=P22>&nbsp;&nbsp;&nbsp; (B) <span class=scinsertblue>Grades that
+reflect actual student performance are essential for maintaining academic
+standards and accountability. </span>No school district or school may adopt any
+type of grading system that requires a teacher to assign a minimum grade or
+score that exceeds the student's actual performance on completed assignments.
+If a school district is found to be in violation of this section, the State
+Department of Education shall withhold ten percent of the school district's
+State Aid to Classroom funding.</p>
+
+<p class=sccodifiedsection id=P23><a name="instruction_7993c8039">Amend the
+bill further, SECTION 1, by striking Section 59-29-250(F) and inserting:</a></p>
+
+<p class=scnewcodesection id=P24>&nbsp;&nbsp;&nbsp; (F) Prior to the start of the 2026-2027
+School Year, the State Board of Education is directed to establish a task force
+comprised of superintendents, principals, teachers, representatives of school
+boards, and high school students to evaluate potential revisions to the Uniform
+Grading Policy in order to enhance the utility of grades in evaluating college
+and career readiness, ensure high school grade point averages are meaningful
+indicators of academic achievement, and reduce the need for and use of credit
+recovery and content recovery programs. The task force shall make
+recommendations to the board for potential revisions in areas including, but
+not limited to, the use of term weighting in calculating final student grades,
+the method of awarding quality points on the basis of unique numeric final
+course averages when calculating student grade point averages, and the use of a
+100-point grading scale. The task force shall report its findings to the State
+Board of Education before <span class=scstrikered>February</span><span class=scinsertblue>June</span> 1, 2027. The State Board of Education shall then
+adopt, and school districts shall implement, any updates to the Uniform Grading
+Policy by no later than the 2028-2029 School Year.</p>
+
+<p class=sccommitteereporttitle id=P25>Renumber sections to conform.</p>
+
+<p class=sccommitteereporttitle id=P26>Amend title to conform.</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P27>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson id=P28>SHANNON ERICKSON for
+Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P29>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportemplyline id=P30>&nbsp;</p>
+
+<p class=sccoversheetFISheader id=P31>statement of estimated fiscal impact</p>
+
+<p class=sccoversheetFISsectionheaders id=P32>Explanation of Fiscal Impact</p>
+
+<p class=sccoversheetFISsectionheaders id=P33>State Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo id=P34>This bill specifies that no school
+district or school may adopt any type of grading system that requires a teacher
+to assign a minimum grade or score that exceeds a student's actual performance
+on completed assignments. If a school district is found to be in violation of
+this provision of the bill, SCDE must withhold 10 percent of the school
+district's State Aid to Classroom funding. The bill also conditions eligibility
+for credit recovery and content recovery on the completion of required
+assignments. Additionally, the bill states that districts shall not require the
+inclusion of student performance on the formative assessments required in
+Section 59-18-310(D) or on any district-selected benchmark assessment in
+calculating a student's final grade in any course or subject. Further, the bill
+specifies that prior to the start of the 2026-2027 school year, the State Board
+of Education must establish a task force comprised of superintendents,
+principals, teachers, representatives of school boards, and high school
+students to evaluate potential revisions to the Uniform Grading Policy. The
+task force must report its findings to the State Board of Education before
+February 1, 2027. The State Board of Education must then adopt, and school
+districts must implement, any updates to the Uniform Grading Policy by no later
+than the 2028-2029 school year.</p>
+
+<p class=sccoversheetFISsectioninfo id=P35>&nbsp;</p>
+
+<p class=sccoversheetFISsectioninfo id=P36><b>S.C. Department of Education.</b>
+This bill will have no expenditure impact on SCDE. The department reports that
+it will manage the provisions of the bill by assigning duties to existing staff
+and by using existing equipment and supplies.</p>
+
+<p class=sccoversheetFISsectioninfo id=P37>&nbsp;</p>
+
+<p class=sccoversheetFISsectioninfo id=P38><a name="_Hlk221283447"><b>State
+Agency Schools.</b> This bill will have no expenditure impact on the Governor's
+School for Agriculture at John de la Howe, the Governor's School for Arts and
+Humanities, and the Governor's School for Science and Mathematics. The agencies
+indicate that they can manage the provisions of the bill with existing
+appropriations. The Wil Lou Gray Opportunity School indicates that this bill
+will have no expenditure impact on the agency since it a GED program and does
+not use public school grading. Based upon these responses, we do not anticipate
+that this bill will have an expenditure impact on the School for the Deaf and
+the Blind.</a></p>
+
+<p class=sccoversheetFISsectioninfo id=P39>&nbsp;</p>
+
+<p class=sccoversheetFISsectionheaders id=P40>Local Expenditure</p>
+
+<p class=sccoversheetFISsectioninfo id=P41>This bill specifies that no school
+district or school may adopt any type of grading system that requires a teacher
+to assign a minimum grade or score that exceeds a student's actual performance
+on completed assignments. Additionally, the bill states that districts shall
+not require the inclusion of student performance on the formative assessments
+required in Section 59-18-310(D) or on any district-selected benchmark
+assessment in calculating a student's final grade in any course or subject.
+Further, the bill specifies that prior to the start of the 2026-2027 school
+year, the State Board of Education must establish a task force to evaluate
+potential revisions to the Uniform Grading Policy. The task force must report
+its findings to the State Board of Education before February 1, 2027. The State
+Board of Education must then adopt, and school districts must implement, any
+updates to the Uniform Grading Policy by no later than the 2028-2029 school
+year.</p>
+
+<p class=sccoversheetFISsectioninfo id=P42>SCDE surveyed the seventy-two
+regular school districts and three charter school districts and received
+responses from twelve districts. Seven districts indicate that this bill will
+have no expenditure impact. One district reports that any costs associated with
+this bill can be absorbed by the district. One district anticipates costs
+associated with implementing the provisions of the bill but reports that the
+costs are currently undetermined. The three remaining districts anticipate that
+expenses may increase by a significant amount. One district indicates that this
+bill may result in board policy revisions, legal reviews, public hearings, and
+increased administrative work due to grade appeals, parent complaints,
+documentation requests, hearings, audits, and compliance monitoring. This
+district also reports that teachers will need to receive training on new
+grading standards, documentation, and appeals, which will require additional
+personal development days and materials. The district further reports that if
+fewer students qualify for credit recovery, this may result in more students
+requiring remediation, tutoring, and summer school, which will increase
+staffing costs. One district anticipates that this bill will increase student
+failures and course repeaters, which will significantly increase staffing
+costs. One district indicates that this bill may increase the number of
+teachers needed to facilitate summer school and teach additional sections for
+students who need to retake courses. This district also anticipates hiring an
+additional graduation coach for each high school, due to an increase in the
+number of failures and more students not being on track to graduate.</p>
+
+<p class=sccoversheetFISsectioninfo id=P43><b>&nbsp;</b></p>
+
+<p class=sccoversheetFISsectioninfo id=P44>&nbsp;</p>
+
+<p class=sccoversheetFISdirector id=P45>Frank A. Rainwater, Executive Director</p>
+
+<p class=sccoversheetFISdirector id=P46>Revenue and Fiscal Affairs Office</p>
+
+<p class=sccoversheetFISheader id=P47><span style='text-decoration:none'>&nbsp;</span></p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center' id=P48>_______</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline id=P49>&nbsp;</p>
+
+<p class=scemptylineheader id=P50>&nbsp;</p>
+
+<p class=scemptylineheader id=P51>&nbsp;</p>
+
+<p class=scemptylineheader id=P52>&nbsp;</p>
+
+<p class=scemptylineheader id=P53>&nbsp;</p>
+
+<p class=scemptylineheader id=P54>&nbsp;</p>
+
+<p class=scemptylineheader id=P55>&nbsp;</p>
+
+<p class=scemptylineheader id=P56>&nbsp;</p>
+
+<p class=scbillheader id=P57>A bill</p>
+
+<p class=scemptyline id=P58>&nbsp;</p>
+
+<p class=scbilltitle id=P59>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING
+SECTION 59-29-250 SO AS TO PROVIDE REQUIREMENTS FOR PUBLIC SCHOOL GRADING
+PRACTICES, TO CONDITION ELIGIBILITY FOR CREDIT RECOVERY AND CONTENT RECOVERY ON
+COMPLETION OF REQUIRED ASSIGNMENTS, TO LIMIT THE USE OF CERTAIN ASSESSMENTS IN
+CALCULATING FINAL COURSE GRADES, TO PROVIDE ENFORCEMENT THROUGH WITHHOLDING OF
+STATE AID TO CLASSROOM FUNDS, TO DIRECT THE STATE BOARD OF EDUCATION TO
+ESTABLISH A TASK FORCE TO EVALUATE AND RECOMMEND REVISIONS TO THE UNIFORM GRADING
+POLICY, AND TO REQUIRE THE STATE BOARD OF EDUCATION AND LOCAL SCHOOL DISTRICTS
+TO ADOPT THE RECOMMENDED REVISIONS.<a name="at_6714f31ae"></a></p>
+
+<p class=scbillwhereasclause id=P60>&nbsp;</p>
+
+<p class=scenactingwords id=P61><a name="ew_0894edc1a">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline id=P62>&nbsp;</p>
+
+<p class=scdirectionallanguage id=P63><a name="bs_num_1_4d1d31806">S</a>ECTION
+1.&nbsp; <a name="dl_7b0f6040f">A</a>rticle 1, Chapter 29, Title 59 of the S.C. Code
+is amended by adding:</p>
+
+<p class=scnewcodesection id=P64>&nbsp;</p>
+
+<p class=scnewcodesection id=P65>&nbsp;&nbsp;&nbsp; <a name="ns_T59C29N250_9b0bac6f0">S</a>ection
+59-29-250. <a name="ss_T59C29N250SA_lv1_725f1789d">(</a>A) In alignment with
+the Profile of the Graduate and state academic standards, grading practices in
+schools shall promote college and career readiness by measuring student mastery
+of rigorous material as demonstrated through completed assignments and assessments.
+Only academic performance may be considered in the assignment of grades in a
+high school credit course.</p>
+
+<p class=scnewcodesection id=P66>&nbsp;&nbsp;&nbsp; <a name="ss_T59C29N250SB_lv1_d3c31a03f">(</a>B)
+No school district or school may adopt any type of grading system that requires
+a teacher to assign a minimum grade or score that exceeds the student's actual
+performance on completed assignments. If a school district is found to be in
+violation of this section, the State Department of Education shall withhold ten
+percent of the school district's State Aid to Classroom funding.</p>
+
+<p class=scnewcodesection id=P67>&nbsp;&nbsp;&nbsp; <a name="ss_T59C29N250SC_lv1_e09518517">(</a>C)
+In order for a student to be eligible to participate in a district-approved
+credit recovery course as defined in the South Carolina Uniform Grading Policy,
+a student must have submitted all required assignments for the course in a
+manner consistent with district policies for timely submission of student work.</p>
+
+<p class=scnewcodesection id=P68>&nbsp;&nbsp;&nbsp; <a name="ss_T59C29N250SD_lv1_845a073f0">(</a>D)
+In order for a student to be eligible to participate in a district-approved
+content recovery program as defined in the South Carolina Uniform Grading
+Policy, a student must have completed all required assignments for the relevant
+subset of the course in a manner consistent with district policies for timely
+submission of student work.</p>
+
+<p class=scnewcodesection id=P69>&nbsp;&nbsp;&nbsp; <a name="ss_T59C29N250SE_lv1_bbd307a79">(</a>E)
+Districts shall not require the inclusion of student performance on the
+formative assessments required in Section 59-18-310(D) or on any
+district-selected benchmark assessment in calculating a student's final grade
+in any course or subject. As used in this section, a district-selected
+benchmark assessment is defined as an assessment that includes items not
+available for review by the classroom teacher in advance of administration or
+items covering content that has not been previously taught in the course. This
+section does not prohibit a district from requiring administration of benchmark
+assessments for the purpose of informing and improving instructional practices
+through evaluation and monitoring of student mastery of state academic
+standards. To further this goal, student results on district-developed
+benchmark assessments must be made available in a timely fashion to educators,
+students, and parents after administration of the assessment.</p>
+
+<p class=scnewcodesection id=P70>&nbsp;&nbsp;&nbsp; <a name="ss_T59C29N250SF_lv1_3e07a755e">(</a>F)
+Prior to the start of the 2026-2027 School Year, the State Board of Education
+is directed to establish a task force comprised of superintendents, principals,
+teachers, representatives of school boards, and high school students to
+evaluate potential revisions to the Uniform Grading Policy in order to enhance
+the utility of grades in evaluating college and career readiness, ensure high
+school grade point averages are meaningful indicators of academic achievement,
+and reduce the need for and use of credit recovery and content recovery
+programs. The task force shall make recommendations to the board for potential
+revisions in areas including, but not limited to, the use of term weighting in
+calculating final student grades, the method of awarding quality points on the
+basis of unique numeric final course averages when calculating student grade
+point averages, and the use of a 100-point grading scale. The task force shall
+report its findings to the State Board of Education before February 1, 2027.
+The State Board of Education shall then adopt, and school districts shall
+implement, any updates to the Uniform Grading Policy by no later than the
+2028-2029 School Year.</p>
+
+<p class=scemptyline id=P71>&nbsp;</p>
+
+<p class=scnoncodifiedsection id=P72><a name="eff_date_section"></a><a name="bs_num_2_lastsection">S</a>ECTION 2.&nbsp; This act takes effect upon approval
+by the Governor.</p>
+
+<p class=scbillendxx align=left style='margin-left:2.85in;text-align:left;
+text-indent:.15in' id=P73>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on February 26, 2026 at 12:57 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>

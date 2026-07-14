@@ -1,0 +1,471 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 858 Text of Previous Version (May. 14, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Foster Care"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 858</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken>Indicates Matter Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Amended</p>
+
+<p class=sccoversheetinfo>May 13, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>S. 858</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Senator Young </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetreadfirst>S. Printed 5/13/26--H.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SEC
+5/14/2026 11:25 AM]</p>
+
+<p class=sccoversheetreadfirst>Read the first time March 4, 2026</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING
+SECTION 63-11-700, RELATING TO THE DIVISION FOR REVIEW OF THE FOSTER CARE OF
+CHILDREN'S BOARD, SO AS TO CHANGE THE STANDARDS FOR SERVING ON THE BOARD AND
+THE PROCEDURE FOR TERMS OF OFFICE; TO AUTHORIZE THE DEPARTMENT OF CHILDREN'S
+ADVOCACY TO ESTABLISH CERTAIN STANDARDS FOR LOCAL REVIEW BOARDS; BY AMENDING
+SECTION 63-11-710, RELATING TO LOCAL BOARDS FOR REVIEW, SO AS TO GIVE THE
+DIRECTOR AUTHORIZATION TO APPOINT OR REMOVE A MEMBER OF A LOCAL BOARD; BY AMENDING
+SECTION 63-11-740, RELATING TO MEETINGS OF LOCAL BOARDS AND STAFFING, SO AS TO
+REQUIRE THE DEPARTMENT TO PROVIDE ASSISTANCE TO EACH LOCAL BOARD FOR MEETINGS;
+BY AMENDING SECTION 63-11-760, RELATING TO IMMUNITY FROM LIABILITY, SO AS TO
+CLARIFY THAT TRAINING WILL BE PROVIDED BY THE DEPARTMENT; AND BY AMENDING
+SECTION 63-11-770, RELATING TO COOPERATION OF PUBLIC AND PRIVATE AGENCIES, SO
+AS TO INCLUDE ALL PUBLIC AGENCIES PROVIDING SERVICES TO CHILDREN IN FOSTER
+CARE.<a name="at_277f4045c"></a></p>
+
+<p class=scnoncodifiedsection>&nbsp;&nbsp;&nbsp; Amend Title To Conform</p>
+
+<p class=scnoncodifiedsection>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_3eea98a01">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_0def0ea74">S</a>ECTION 1.&nbsp; <a name="dl_8fa25ba43">S</a>ection 63-11-700 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T63C11N700_d94585748">S</a>ection
+63-11-700. <a name="ss_T63C11N700SA_lv1_a0ac0382c">(</a>A) There is created,
+within the Department of Children's Advocacy, the<span class=scstrike> Division
+for Review of the Foster Care of Children</span><span class=scinsert> Foster
+Care Review Division</span>. The division must be supported by a board
+consisting of seven members, all of whom must be past or present members of
+local review boards. There must be one member from each congressional district,
+all appointed by the Governor with the advice and consent of the Senate.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N700SB_lv1_04e01abb8">(</a>B)
+Terms of office for the members of the board are for four years and until their
+successors are appointed and qualify.<span class=scinsert> Members may succeed
+themselves, but a member shall not serve on the board in a holdover capacity at
+the conclusion of his term for more than one hundred eighty days.</span>
+Appointments must be made by the Governor for terms of four years to expire on <span class=scstrike>June thirtieth </span><span class=scinsert>December thirty-first
+</span>of the appropriate year.<span class=scinsert> Vacancies on the board
+must be filled in the same manner as the initial appointment for the unexpired
+term.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N700SC_lv1_450e2795d">(</a>C)
+The board shall elect from its members a chairman who shall serve for two
+years. Five members of the board constitute a quorum for the transaction of
+business. Members of the board shall receive per diem, mileage, and subsistence
+as provided by law for members of boards, commissions, and committees while
+engaged in the work of the board.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N700SD_lv1_810e3bdfb">(</a>D)
+The board shall meet at least quarterly and more frequently upon the call of
+the division director to review and coordinate the activities of the local
+review boards and make recommendations to <span class=scinsert>the director, </span>the
+Governor<span class=scinsert>,</span> and the General Assembly with regard to
+foster care policies, procedures, and deficiencies of public and private
+agencies which arrange for foster care of children as determined by the review
+of cases provided for in Section 63-11-720(A)(1) and (2). These recommendations
+must be submitted to the Governor and included in <span class=scstrike>an </span><span class=scinsert>the department's </span>annual report, filed with the General
+Assembly, of the activities of the state<span class=scstrike> office</span> and
+local review boards.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N700SE_lv1_e191db5ee">(</a>E)
+The Department of Children's Advocacy<span class=scstrike>, upon recommendation
+of the division director,</span> shall promulgate regulations to carry out the
+provisions of this article.&nbsp; These regulations shall provide for and must be
+limited to procedures for:&nbsp; reviewing reports and other necessary information
+at state, county, and private agencies and facilities;&nbsp; scheduling of reviews
+and notification of interested parties;&nbsp; conducting local review board and
+board of directors' meetings;&nbsp; disseminating local review board recommendations,
+including reporting to the appropriate family court judges the status of
+judicially approved treatment plans;&nbsp; participating and intervening in family
+court proceedings; <span class=scstrike>&nbsp;and </span>developing policies for
+summary review of children privately placed in privately owned facilities or
+group homes<span class=scinsert>; and the organization and administration of
+local review boards to include board jurisdiction, membership standards, and
+other necessary policies</span>.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N700SF_lv1_3cfb3e906">(</a>F)
+The Department of Children's Advocacy may employ a division director and staff
+as is necessary to carry out this article, and the funds for the division
+director, staff, and other purposes of this division must be provided for in
+the annual general appropriations act.</p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N700SG_lv1_8f1dc6782R">(</a>G) This article may not be construed
+to provide for subpoena authority.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_688362fd0">S</a>ECTION 2.&nbsp; <a name="dl_3fb31c27d">S</a>ection 63-11-710 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T63C11N710_cbf083b15">S</a>ection
+63-11-710. <a name="ss_T63C11N710SA_lv1_45ecaa1dc">(</a>A) <span class=scstrike>There are created sixteen </span><span class=scinsert>The
+department shall create </span>local boards for review of cases of children
+receiving foster care<span class=scstrike>,</span><span class=scinsert>
+pursuant to Section 63-11-700(E). Members of local boards will be appointed by
+the director upon the recommendation of their county legislative delegation.
+Current board members shall continue to serve until the expiration of their
+respective terms.</span><span class=scstrike> one in each judicial circuit,
+composed of five members appointed by the Governor upon recommendation of the
+legislative delegation of each county within the circuit for terms of four
+years and until their successors are appointed and qualify. If the county
+legislative delegations within a judicial circuit have not recommended to the
+Governor a person to fill a review board vacancy within ninety days after being
+notified by certified mail that the vacancy exists, then the local review
+boards in the judicial circuit may recommend to the Governor someone to fill
+the vacancy. All local board members must be residents of the judicial circuit
+which they represent, except where a current or former member is substituting
+for an absent member. Local boards shall elect their chairman.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N710SB_lv1_3a661ae22">(</a>B) A member of a local board who is
+guilty of malfeasance, misfeasance, incompetency, absenteeism, conflicts of
+interest, misconduct, persistent neglect of duty in office, or incapacity must
+be subject to removal by the director upon any of the foregoing causes being
+made to appear to the satisfaction of the director. Before removing any such
+member, the director shall inform him and the local legislative delegation in
+writing of the specific grounds for removal brought against him and give him an
+opportunity on reasonable notice to be heard. The consent of the majority of
+the local legislative delegation is needed to remove a member of a local board.
+The state board may recommend to the director that a member of a local board be
+removed pursuant to this section.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N710SB_lv1_b79fe8e77R">(</a>B) If the board of directors
+determines that additional local review boards are necessary in a judicial
+circuit because of an excessively large case load for review or if the local
+board is no longer necessary because of a reduced case load, the board may
+create or dissolve local review boards by resolution, and the boards created
+have all authority and duties provided for the boards by the provisions of this
+article.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N710SC_lv1_73efb320d">(</a>C) If the Department determines that
+a local board is no longer necessary, then the d<a name="open_doc_here"></a>epartment
+may dissolve that local review board upon notice to the majority of the local
+legislative delegation.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N710SC_lv1_f3efa4d3eR">(</a>C) In Dorchester County,
+appointments made pursuant to this section are governed by the provisions of
+Act 512 of 1996.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N710SD_lv1_00a61438fR">(</a>D) In Georgetown County,
+appointments made pursuant to this section are governed by the provisions of
+Act 515 of 1996.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T63C11N710SE_lv1_37933453R">(</a>E) In the Fifth Judicial Circuit, the
+members of one of the local review boards authorized pursuant to subsection (B)
+must be appointed by the Kershaw County Legislative Delegation. The local
+review board appointed by the Kershaw County Legislative Delegation shall be
+the board in the Fifth Judicial Circuit which primarily deals with cases in
+Kershaw County.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_9b77c5288">S</a>ECTION 3.&nbsp; <a name="dl_69766936d">S</a>ection 63-11-740 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T63C11N740_ef0f21ac0">S</a>ection
+63-11-740. <span class=scstrike>Local boards shall conduct meetings in the
+judicial circuit which they represent. Each board must be provided sufficient
+staff </span><span class=scinsert>The department shall provide administrative
+and technical assistance to each board </span>to perform its functions as set
+forth in this article with funds provided in the annual state general
+appropriations act. Members of the local boards<span class=scstrike> and former
+members substituting for an absent member</span> may not receive compensation
+for their services but must be allowed mileage, per diem, and subsistence as
+provided by law for state boards, committees, and commissions for attendance at
+board meetings. If needed to ensure a quorum at a board meeting, a current<span class=scstrike> or former</span> member of a local board may serve as a
+substitute on a board other than his own board<span class=scstrike>, whether or
+not the substitute member is a resident of the judicial circuit of that board</span>.</p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_dcf2cd902">S</a>ECTION 4.&nbsp; <a name="dl_d7d00a291">S</a>ection 63-11-760 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T63C11N760_2abac073e">S</a>ection
+63-11-760. After participating in<span class=scstrike> a</span><span class=scinsert> the</span> training program <span class=scinsert>provided by
+the department </span>of the<span class=scstrike> system for the review of
+foster care of children</span><span class=scinsert> foster care review system</span>,
+a local review board member is not liable for damages for personal injury as a
+result of an act or omission in the discharge of his duties as a member if he
+acts in good faith and his conduct does not constitute gross negligence,
+recklessness, wilfulness, or wantonness.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_5_86d96c54b">S</a>ECTION 5.&nbsp; <a name="dl_75c90fed6">S</a>ection 63-11-770 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T63C11N770_3c2fd9097">S</a>ection
+63-11-770. All public and private agencies and facilities which provide for or
+arrange foster care for children <span class=scinsert>and all public agencies
+providing services to children in foster care </span>shall <span class=scstrike>cooperate with </span><span class=scinsert>make records
+available for review as requested by </span>the <span class=scinsert>department,
+the state </span>board of directors<span class=scinsert>,</span> <span class=scstrike>and </span><span class=scinsert>or </span>local review boards<span class=scstrike> by making available for review records as may be requested</span>.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section"></a><a name="bs_num_6_lastsection">S</a>ECTION 6.&nbsp; This act takes effect upon approval
+by the Governor.</p>
+
+<p class=scbillendxx>----XX----</p>
+
+<p class=scbillendxx>&nbsp;</p>
+
+</div>
+
+<p>This web page was last updated on May 14, 2026 at 11:26 AM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
