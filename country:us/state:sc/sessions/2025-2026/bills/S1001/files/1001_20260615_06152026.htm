@@ -1,0 +1,764 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillfooter, li.scbillfooter, div.scbillfooter
+	{mso-style-name:sc_bill_footer;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 1001 Text of Previous Version (Jun. 15, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Retail Alcoholic Beverage Caterer License"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 1001</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken>Indicates Matter Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Committee Amendment Adopted</p>
+
+<p class=sccoversheetinfo>May 5, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>S. 1001</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Senators Hembree, Rankin, Tedder and Kimbrell </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetreadfirst>S. Printed 5/5/26--S.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SEC
+6/15/2026 10:14 AM]</p>
+
+<p class=sccoversheetreadfirst>Read the first time March 10, 2026</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION
+61-2-400 SO AS TO DEFINE "ALCOHOLIC BEVERAGES", "ALCOHOLIC LIQUORS BY THE
+DRINK", "CATERER", "PRIVATE EVENT", AND "COMMERCIAL KITCHEN"; BY ADDING SECTION
+61-2-410 SO AS TO AUTHORIZE THE DEPARTMENT OF REVENUE TO ISSUE A RETAIL
+ALCOHOLIC BEVERAGE CATERER LICENSE AND PROVIDE FOR THE LICENSING REQUIREMENTS;
+AND WHICH LICENSE WOULD ALLOW THE LICENSEE TO SERVE ALCOHOLIC BEVERAGES FOR
+ON-PREMISES CONSUMPTION, PURCHASE BEER AND WINE DIRECTLY FROM A WHOLESALER, AND
+PURCHASE ALCOHOLIC LIQUOR DIRECTLY FROM A LIQUOR STORE; AND WHICH LICENSE WOULD
+ALLOW THE TRANSFER OF THE ALCOHOLIC BEVERAGES FROM THE WHOLESALER TO THE
+CATERER AND FROM THE CATERER TO THE LOCATION OF THE PRIVATE EVENT, AND WOULD
+ALLOW A WHOLESALE AND RETAIL LIQUOR STORE WITH A WHOLESALER'S PERMIT TO TAKE
+LIQUOR AND OFFER A REFUND OR CREDIT; AND TO PROVIDE FOR OTHER REQUIREMENTS; BY
+ADDING SECTION 61-2-420 SO AS TO ALLOW THE HOLDER OF A VALID RETAIL ALCOHOLIC
+BEVERAGE CATERER LICENSE OR BUSINESS LIQUOR-BY-THE-DRINK LICENSE TO CONTRACT
+WITH AN EVENT HOST TO PROVIDE FOR ON-PREMISES CONSUMPTION, AND THE EVENT HOST
+IS ALLOWED TO CHARGE AN ENTRY FEE TO COVER THE COSTS OF THE EVENT; BY AMENDING
+SECTION 61-4-160, RELATING TO DISCOUNT PRICING FOR ON-PREMISES CONSUMPTION, SO
+AS TO ALLOW A BIENNIAL PERMIT HOLDER FOR THE SALE OF BEER OR WINE FOR ON-PREMISES
+CONSUMPTION TO SPONSOR TWELVE FUNCTIONS PER YEAR WHERE BEVERAGES ARE FREE
+DURING A FUND-RAISING ACTIVITY, PRIVATE FUNCTION ON PREMISES FOR WHICH A
+BIENNIAL PERMIT HAS BEEN ISSUED, OR TO A CUSTOMER ATTENDING A FUNCTION
+SPONSORED BY A PERSON WHO HOLDS A BIENNIAL PERMIT; BY AMENDING SECTION
+61-6-2000, RELATING TO TEMPORARY PERMITS FOR NONPROFIT ORGANIZATIONS;&nbsp; CRIMINAL
+BACKGROUND CHECKS, SO AS TO ALLOW ALCOHOLIC LIQUOR TEMPORARY PERMITS FOR
+SPECIAL EVENTS TO BE ISSUED TO A CATERER WITH A VALID CATERER LICENSE, A FOOD
+ESTABLISHMENT SERVICE, OR A NONPROFIT, AND THE PERMIT HOLDER MAY SELL TICKETS
+TO THE EVENT; AND TO ESTABLISH THAT THE DEPARTMENT SHALL REQUIRE THE APPLICANT
+TO COMPLETE THE NOTIFICATION PROVISION IN THE APPLICATION FORM, AND TO INCLUDE
+THAT THE APPLICANT SHALL NOTIFY THE DIVISION THAT ALCOHOLIC LIQUORS WILL BE
+SERVED AT LEAST TWENTY-FOUR HOURS PRIOR TO THE SPECIAL EVENT; AND BY AMENDING
+SECTION 61-4-550, RELATING TO SPECIAL PERMITS FOR USE AT FAIRS AND SPECIAL
+FUNCTIONS, SO AS TO MAKE CONFORMING CHANGES.<a name="at_830d5fe22"></a></p>
+
+<p class=scnoncodifiedsection>&nbsp;&nbsp;&nbsp; Amend Title To Conform</p>
+
+<p class=scnoncodifiedsection>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_75316d198">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_26be6cad6">S</a>ECTION 1.&nbsp; <a name="dl_6e53c3ec8">C</a>hapter 2, Title 61 of the S.C. Code is amended by
+adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T61C2N400_0531bc780">S</a>ection
+61-2-400.&nbsp; <a name="up_b3d2122b6">F</a>or the purpose of this section,</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400S1_lv1_66307c745">(</a>1)
+"Alcoholic beverages" and "alcoholic liquors by the drink" have the same
+meaning as defined in Chapter 4, Title 61, and Chapter 6, Title 61.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400S2_lv1_876f7d23b">(</a>2)
+"Caterer" means a for-profit business that operates a restaurant, or has a
+commercial kitchen facility; and is hired by an event host to provide food and
+beverage services, to include bartending services, at a private event for a
+predetermined fee. Such caterer must be a bona fide caterer engaged primarily
+and substantially in the preparation and serving of meals.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400S3_lv1_7f295cb60">(</a>3)
+"Private event" means an off-site event that is not open to the general public
+and that is temporary in nature. The premises of the private event shall
+consist of the physical space where the caterer has been approved to provide
+food and beverage services according to the contract which grants the caterer
+the right to use the premises for the contracted-for purpose. A caterer may not
+utilize a license granted under this section to serve alcoholic beverages at a
+location which is otherwise the principal place of business of a licensee
+holding any other license to serve or sell beer, wine, or liquor for on- or
+off-premises consumption. For purposes of this section, an "off-site" event
+does not include private events held at the principal place of business of a
+caterer that operates a commercial kitchen facility designed and used for
+private event functions, provided such events are contracted for by a private
+host and are not open to the general public.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400S4_lv1_311734dad">(</a>4)<a name="ss_T61C2N400Sa_lv2_32f061a1c">(</a>a) "Commercial kitchen" means a
+kitchen:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Si_lv3_d63250509">(</a>i)
+the operation of which is contingent upon the possession of a permit as a
+retail food establishment, pursuant to South Carolina Code of Regulations,
+Section 61-25.8-301 and the regulations thereunder;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Sii_lv3_a9c981331">(</a>ii)
+from which dine-in, takeout, and/or delivered meals are prepared for
+consumption by members of the public; and</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Siii_lv3_bb62d712c">(</a>iii)
+in which appliances used in preparation of food are permanently affixed to the
+building in which the kitchen operates.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Sb_lv2_a21e0ecf9">(</a>b)
+The definition does not include any kitchen that is:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Si_lv3_1530863e0">(</a>i)
+a public food service establishment used for the preparation of takeout or
+delivery-only meals housed in portable structures that are movable from place
+to place by a tow or are self-propelled or otherwise axel-mounted and that
+include self-contained utilities, including but not limited to, gas, water,
+electricity, or liquid waste disposal;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Sii_lv3_2808d8c9b">(</a>ii)
+located within a residence; or</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N400Siii_lv3_1e90a59ad">(</a>iii)
+a kitchen shared with other persons or business entities.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_2f2088741">S</a>ECTION 2.&nbsp; <a name="dl_ca25acd5e">C</a>hapter 2, Title 61 of the S.C. Code is amended by
+adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T61C2N410_215a852af">S</a>ection
+61-2-410.&nbsp; <a name="ss_T61C2N410SA_lv1_52fa9100e">(</a>A) The department is
+authorized to issue a retail alcoholic beverage caterer license subject to the
+licensing requirements of Chapters 4 and 6 of Title 61.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SB_lv1_7d6732a09">(</a>B)
+Notwithstanding any other provision of law, the retail alcoholic beverage
+caterer license shall allow the licensee to do the following:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S1_lv2_ee4adf0a8">(</a>1)
+serve alcoholic beverages for on-premises consumption in conjunction with food
+service by the caterer of prepared meals, which excludes the serving of snacks
+as the primary meal for the duration of the private event;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S2_lv2_aa6d21c7c">(</a>2)
+purchase beer and wine directly from a wholesaler;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S3_lv2_20e6fa126">(</a>3)
+purchase alcoholic liquor directly from a retail liquor store dealer with a
+wholesaler's basic permit issued pursuant to the Federal Alcohol Administration
+Act in any size except 1.75 liter bottles;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S4_lv2_aae375d8a">(</a>4)
+transfer alcoholic beverages from a wholesaler or a retailer to the licensee's
+principal place of business;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S5_lv2_625f74dd4">(</a>5)
+transfer alcoholic beverages directly to and from the licensee's principal
+place of business to an off-site event;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S6_lv2_fb5db3ee9">(</a>6)
+take delivery of and store alcoholic beverages at the licensee's principal
+place of business in a secure location that prevents access by anyone other
+than the licensee or the licensee's employees; and</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S7_lv2_01745d62f">(</a>7)
+store alcoholic beverages at the location of the off-site event in a secure
+location that prevents access by anyone other than the licensee or the
+licensee's employees for a period beginning three calendar days before the
+start of the event and ending at the conclusion of the event.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SC_lv1_ca379ee8d">(</a>C)
+Notwithstanding any other provision of law, a wholesaler in the case of beer
+and wine and retail liquor stores who holds a Class B Wholesaler's permit from
+the federal Alcohol and Tobacco Tax and Trade Bureau (TTB) in the case of
+liquor may offer credit for unused, unopened, and undamaged alcoholic beverages
+to a holder of a retail alcoholic beverage caterer license, provided that the
+licensee has not transferred the alcoholic beverages from the off-site event to
+the licensee's principal place of business and stored these beverages at that
+location for more than seventy-two hours after the termination of the off-site
+event.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SD_lv1_e49c78009">(</a>D) An
+employee of a caterer holding a retail alcoholic beverage caterer license may
+not serve or deliver to a purchaser alcohol in a business where these sales are
+authorized unless the employee is eighteen years of age or older. Nothing
+contained in this subsection may be construed as allowing bartenders under the
+age of twenty-one.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SE_lv1_d6ff1f5f1">(</a>E)
+Any licensee, employee, or agent of a caterer holding a retail alcoholic
+beverage catering license is prohibited from selling, making available for
+sale, or permitting the consumption of alcoholic liquor as defined in Section
+61-6-20 on the premises of the off-site event and their principal place of
+business between the hours of two o'clock a.m. and ten o'clock a.m. Selling,
+making available for sale, or permitting consumption of beer and wine as
+defined in Section 61-4-10 is permitted six days a week, twenty-four hours a
+day, except from twelve a.m. to eleven fifty-nine p.m. on Sundays. A violation
+of this subsection is a violation against the establishment's license.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SF_lv1_bcd151b58">(</a>F)
+Notwithstanding any other provision of law, any licensee, employee, or agent of
+a caterer holding a retail alcoholic beverage catering license is prohibited
+from selling, making available for sale, or permitting the consumption of
+alcoholic beverages on Sunday unless the off-site event is located in a county
+or municipality that has conducted a favorable referendum allowing the sale and
+consumption of alcoholic liquors by the drink on Sunday after the referendum
+provisions of Section 61-6-2010. A violation of this subsection is a violation
+against the establishment's license.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SG_lv1_07b9a7810">(</a>G) A
+caterer duly licensed under this section who serves alcoholic beverages for
+on-premises consumption at off-site events which take place after five o'clock
+p.m. is required to maintain a liquor liability insurance policy or a general
+liability insurance policy with a liquor liability endorsement pursuant to the
+provisions of Section 61-2-145.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SH_lv1_7c0c89a0b">(</a>H)
+The department shall add the liquor liability insurance requirement to
+applications for retail alcoholic beverage catering licenses, provided that
+such licensees sell alcoholic beverages for on-premises consumption at off-site
+events which take place after five o'clock p.m. Each applicant or person
+renewing his license or permit to whom the requirement applies shall provide
+the department with documentation of a liquor liability insurance policy or a
+general liability insurance policy with a liquor liability endorsement in the
+required amounts.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SI_lv1_0d34858c4">(</a>I)
+Each insurer writing liquor liability insurance policies or general liability
+insurance policies with a liquor liability endorsement to a person licensed or
+permitted under this section must notify the department in a manner prescribed
+by the department of the lapse or termination of the liquor liability insurance
+policy or the general liability insurance policy with a liquor liability
+endorsement.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SJ_lv1_f9cd12b38">(</a>J) A
+caterer seeking to obtain a retail alcoholic beverage caterer license must
+apply for a license and pay a filing fee of three hundred dollars, which is not
+refundable. The applicant must pay to the department two thousand three hundred
+dollars biennially for the retail alcoholic beverage caterer license. A caterer
+who initially applies for a permit after the first day of a permit period must
+pay permit fees in accordance with the schedule provided in Section
+61-6-1810(C) and abide by the provisions of Section 61-6-120.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SK_lv1_211be9828">(</a>K)
+The applicant shall notify the division that alcoholic beverages will be served
+at the site at least twenty-four hours before the off-site event.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SL_lv1_54e6ce47d">(</a>L)<a name="ss_T61C2N410S1_lv2_2c971de55">(</a>1) Notwithstanding Section 12-33-245
+or any other provision of law, a holder of a retail alcoholic beverage caterer
+license issued under this section may collect and remit liquor-by-the-drink
+excise tax and applicable sales and use tax on alcoholic beverages sold as part
+of an inclusive bar package, provided:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410Sa_lv3_6157296e7">(</a>a)
+the package price is a fixed charge per guest;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410Sb_lv3_a525f8ee4">(</a>b)
+taxes must be computed based on either actual consumption or a reasonable
+per-guest drink allocation method, calculated with reference to the number of
+guests and the types and quantities of alcoholic beverages prepared and served
+at the event, in accordance with the event contract. A caterer electing the
+per-guest drink-allocation method shall retain copies of the event contract and
+supporting records used to determine the tax due for a period of not less than
+three years after the date the return is filed, in accordance with Section
+12-54-240; and</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410Sc_lv3_59699386b">(</a>c)
+the subsection applies only to licensed caterers under this section and does
+not authorize inclusive or discounted pricing for restaurants, hotels,
+nonprofits private clubs, or other on-premises licensees governed by Section
+61-4-160 or 61-6-4550.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S2_lv2_e96a4c630">(</a>2)
+The department may promulgate regulations establishing default drink-equivalent
+ratios, allocation tables, and recordkeeping requirements for licensed caterers
+electing to use the inclusive-package method.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410S3_lv2_057e17af9">(</a>3)
+For purposes of this subsection, a "drink" means one serving for on-premise
+consumption consisting of twelve fluid ounces of beer, five fluid ounces of
+wine, or one and one-half fluid ounces of distilled spirits, whether served
+alone or in a mixed beverage.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SM_lv1_0e893acff">(</a>M)
+Nothing in this section authorizes the holder of a retail alcoholic beverage
+caterer license to sell beer, wine, or liquor at retail for off-premises
+consumption.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C2N410SN_lv1_718c1bb95">(</a>N)
+Unless otherwise specified, violations of this section are subject to the
+penalties provided in Title 61, Chapter 4. Violations of the requirements of
+Title 61, Chapters 3, 4, and 6 are a violation of this section, but are subject
+to the respective penalties of those chapters.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_1e4d54d61">S</a>ECTION 3.&nbsp; <a name="dl_06e8e9fff">C</a>hapter 2, Title 61 of the S.C. Code is amended by
+adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T61C2N420_2b72f0419">S</a>ection
+61-2-420.&nbsp; The holder of a valid retail alcoholic beverage caterer license, as
+provided in Section 61-2-410, or a valid business liquor by the drink license,
+as defined in Section 61-6-1610, may contract with an event host to provide for
+the sale and on-premises consumption of beer, wine, and liquor at their
+licensed premises. An event host may charge an entry fee to the event to raise
+money for charitable purposes and to cover the costs of food, beverages,
+entertainment, and other services provided by the license holder. The event
+host is not required to obtain a special temporary event permit, as defined by
+Sections 61-4-550 and 61-6-2000.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_2b9c8a2a0">S</a>ECTION 4.&nbsp; <a name="dl_1158af8a2">S</a>ection 61-4-160 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T61C4N160_17feee2d7">S</a>ection
+61-4-160.&nbsp; <a name="ss_T61C4N160SA_lv1_501fc83e7"><span class=scinsert>(</span></a><span class=scinsert>A) </span>No person who holds a biennial permit to sell beer or
+wine for on-premises consumption may advertise, sell, or dispense these
+beverages for free, at a price less than one-half of the price regularly
+charged, or on a two or more for the price of one basis.&nbsp; Beer or wine may be
+sold at a price less than the price regularly charged from four o'clock p.m.
+until eight o'clock p.m. only.&nbsp; The prohibition against dispensing the
+beverages for free does not apply to dispensing to a customer on an individual
+basis, to a fraternal organization in the course of its fund-raising
+activities, to a person attending a private function on premises for which a
+biennial permit has been issued, or to a customer attending a function
+sponsored by the person who holds a biennial permit.&nbsp; However, no more than <span class=scstrike>two </span><span class=scinsert>twelve </span>functions may be
+sponsored each year, and must be authorized by the department.&nbsp; A person who
+violates this section is guilty of a misdemeanor and, upon conviction, must be
+fined not less than one hundred dollars or imprisoned not less than three
+months, in the discretion of the court.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C4N160SB_lv1_c8bfbccf6"><span class=scinsert>(</span></a><span class=scinsert>B) </span>A person found guilty
+of a violation of Section 61-6-4550 and this section may not be sentenced under
+both sections for the same offense.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_5_7c7e99a55">S</a>ECTION 5.&nbsp; <a name="dl_08048847c">S</a>ection 61-6-2000 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T61C6N2000_3634a801c">S</a>ection
+61-6-2000. <a name="ss_T61C6N2000SA_lv1_fbd0064b4">(</a>A) In addition to the
+licenses authorized pursuant to the provisions of subarticle 1 of this article,
+the department <span class=scstrike>also may issue a temporary license to a
+nonprofit organization, as defined in Section 61-6-20, which authorizes that
+nonprofit organization to purchase and to sell alcoholic liquors by the drink
+for a period not to exceed twenty-four hours at a single social occasion. The
+nonprofit organization may sell tickets for the social occasion to nonmembers.
+Notwithstanding another provision of this article, the issuance of this license
+authorizes the nonprofit organization to purchase alcoholic liquors from licensed
+retail dealers in the same manner that a person with a biennial license issued
+pursuant to subarticle 1 of this article purchases its alcoholic liquors. The
+department shall charge a nonrefundable filing fee of thirty-five dollars for
+processing each event on the application. The temporary license application
+must include a statement by the applicant as to the nature and date of the
+special function at which the alcoholic liquors are to be sold. The department
+in its discretion may specify the terms and conditions of the license, pursuant
+to existing statutes and regulations governing these applications.</span><span class=scinsert>is authorized to issue the temporary special events alcoholic
+liquors permits subject to the restrictions of this section:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000S1_lv2_58ddf82c4">(</a>1) Special event permits may be
+issued to:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000Sa_lv3_13a5a7d50">(</a>a) a caterer in a for-profit
+business, as defined Section 61-2-400(2), who holds a valid caterer license;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000Sb_lv3_01e41393a">(</a>b) a food establishment service, as
+defined in Section 61-6-1610, that provides food and beverage service at the
+fair or special function; or</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000Sc_lv3_ffe0b6829">(</a>c) a non-profit organization, as
+defined in Section 61-6-20.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000S2_lv2_3c76c896f">(</a>2) The permit authorizes the licensee
+to sell alcoholic liquors for on-premises consumption for a period not to
+exceed twenty-four hours at a single event only at the fair or special function
+for which the alcoholic liquors special event license has been granted; and the
+permit holder may sell tickets for the event. Notwithstanding another provision
+of this article, the issuance of this permit authorizes the permit holder to
+purchase alcoholic liquors from licensed retail dealers in the same manner that
+a person with a biennial license issued pursuant to subarticle 1 of this
+article purchases his alcoholic liquors.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000S3_lv2_36c70d3c2">(</a>3) The department shall charge a
+nonrefundable filing fee of thirty-five dollars for processing each event on
+the application. The temporary license application must include a statement by
+the applicant as to the nature and date of special function at which the
+alcoholic liquors are to be sold. The department in its discretion may specify
+the terms and conditions of the license, pursuant to existing statutes and
+regulations governing these applications. The department may issue permits
+running for a period not exceeding fifteen days for a nonrefundable fee of
+fifty dollars per day.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000SB_lv1_04b68cfda">(</a>B)
+The department shall require <span class=scinsert>the applicant to:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000S1_lv2_f5c3639b0">(</a>1) </span><span class=scstrike>the
+applicant to obtain</span><span class=scinsert>obtain</span> a criminal
+background check conducted by the <span class=scstrike>State Law Enforcement
+Division</span><span class=scinsert>division</span> within ninety days prior to
+an application. The department shall deny the application if the criminal
+records check is not submitted with the application and filing fee or if it was
+obtained more than ninety days before.</p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000S2_lv2_2811ac7b0">(</a>2) complete the law enforcement
+notification provision contained in an application form and submit it with the
+application. The law enforcement notification provision shall be prepared by
+the department for inclusion in the application and, at a minimum, must contain
+sufficient information to inform the department that either the chief of
+police, if the event is located within city limits, or the county sheriff has
+been notified of the temporary permit application and given an opportunity to
+object.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000SC_lv1_8c4de9119R">(</a>C) The department shall require the
+applicant to complete the law enforcement notification contained in an
+application form and submit it with the application. The law enforcement
+notification provision shall be prepared by the department for inclusion in the
+application and, at a minimum, must contain sufficient information to inform
+the department that either the chief of police, if the event is located within
+the city limits, or the county sheriff has been notified of the temporary
+license application and given an opportunity to object.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <span class=scstrike>(D)</span><a name="ss_T61C6N2000SC_lv1_b8c691f07"><span class=scinsert>(</span></a><span class=scinsert>C)</span> The department may issue up to twenty-five temporary
+licenses on one application for special functions in a twelve-month period to
+the same <span class=scstrike>nonprofit organization</span><span class=scinsert> applicant</span>. This does not prohibit <span class=scstrike>the
+nonprofit organization</span><span class=scinsert>any applicant</span> from
+applying for additional temporary licenses within the same twelve-month period.</p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T61C6N2000SD_lv1_ed6e85dfb">(</a>D) The applicant shall notify the
+division that alcoholic liquors will be served at the site at least twenty-four
+hours before the fair or special function.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_6_539700356">S</a>ECTION 6.&nbsp; <a name="dl_5bc840672">S</a>ection 61-4-550 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T61C4N550_6531512a3">S</a>ection
+61-4-550.&nbsp; <a name="ss_T61C4N550SA_lv1_e43ac2b74">(</a>A) The department may
+issue permits running for a period not exceeding fifteen days for a fee of ten
+dollars per day. These special permits may be issued only for locations at
+fairs and special functions.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C4N550SB_lv1_966fee826">(</a>B)
+The department shall require the applicant to obtain a criminal records check
+conducted by the <span class=scstrike>State Law Enforcement Division</span><span class=scinsert>division</span> within ninety days prior to an application. The
+department shall deny the application if the criminal records check is not
+submitted with the application and filing fee or if it was obtained more than
+ninety days before.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C4N550SC_lv1_d7abe636c">(</a>C)
+The department shall require the applicant to complete the law enforcement
+notification provision contained in an application form and submit it with the
+application. The law enforcement notification provision shall be prepared by
+the department for inclusion in the application and, at a minimum, must contain
+sufficient information to inform the department that either the chief of
+police, if the event is located within the city limits, or the county sheriff
+has been notified of the temporary permit application and given an opportunity
+to object.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C4N550SD_lv1_8e63e1029">(</a>D)
+The department may issue up to twenty-five temporary permits to sell beer and
+wine on one application for special functions in a twelve-month period to the
+same applicant, if that applicant is also applying for up to twenty-five
+temporary licenses to sell alcoholic liquors by the drink, pursuant to Section
+61-6-2000<span class=scstrike>(D)</span><span class=scinsert>(C)</span>. This
+does not prohibit the applicant from applying for additional special permits
+within the same twelve-month period.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T61C4N550SE_lv1_94ceafb03">(</a>E) <span class=scstrike>Beginning January 1, 2021, at</span><span class=scinsert>At</span>
+least twenty-four hours before the fair or special function, the applicant
+shall notify the <span class=scstrike>State Law Enforcement Division</span><span class=scinsert>division</span> and all local law enforcement that have
+jurisdiction over the fair or special function site that alcohol will be served
+at the site.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_7_c6597c462">S</a>ECTION 7.&nbsp; <a name="dl_98c8f0f5a">S</a>ection 61-2-185(A)(1) of the S.C. Code is amended to
+read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection><a name="cs_T61C2N185_215d663d5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a><a name="ss_T61C2N185S1_lv1_0524072b6">(</a>1) The organization must be a
+nonprofit organization registered and in good standing with the South Carolina
+Secretary of State as a <span class=scstrike>domestic </span>nonprofit
+organization.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section"></a><a name="bs_num_8_lastsection">S</a>ECTION 8.&nbsp; This act takes effect upon approval
+by the Governor.</p>
+
+<p class=scbillendxx>----XX----</p>
+
+<p class=scbillendxx>&nbsp;</p>
+
+</div>
+
+<p>This web page was last updated on June 15, 2026 at 10:15 AM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
