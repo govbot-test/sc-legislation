@@ -1,0 +1,757 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnewcodesection, li.scnewcodesection, div.scnewcodesection
+	{mso-style-name:sc_new_code_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scinsertblue
+	{mso-style-name:sc_insert_blue;
+	font-variant:normal !important;
+	color:#0070C0;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+span.scstrikered
+	{mso-style-name:sc_strike_red;
+	color:red;
+	text-decoration:line-through;}
+p.sccoversheetfooter, li.sccoversheetfooter, div.sccoversheetfooter
+	{mso-style-name:sc_coversheet_footer;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 751 Text of Previous Version (Feb. 18, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="Prohibition of sale of nitrous oxide to minors"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 751</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken><a name="open_doc_here"></a>Indicates Matter
+Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Committee Report</p>
+
+<p class=sccoversheetinfo>February 18, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>S. 751</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Senators Sutton, Ott and Zell </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetinfo>S. Printed 2/18/26--S.</p>
+
+<p class=sccoversheetreadfirst>Read the first time January 13, 2026</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader>The committee on Senate Judiciary</p>
+
+<p class=sccommitteereporttitle>To whom was referred a Bill (S. 751) to amend
+the South Carolina Code of Laws by adding Section 44-53-2510 so as to define
+terms to include nitrous oxide and nitrous oxide products; by adding Section,
+etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader>Report:</p>
+
+<p class=sccommitteereporttitle>That they have duly and carefully considered
+the same, and recommend that the same do pass with amendment:</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="instruction_fc2827867">Amend the bill,
+as and if amended, SECTION 1, by striking Section 44-53-2510(2), (3), and (4)
+and inserting:</a></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S2_lv1_f33cc6d7I">(</a>2) "Division" means the State Law
+Enforcement Division.</span></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <span class=scstrikered>(2)</span><span class=scinsertblue>(3)</span> "Food" means any food, food product, food
+ingredient, dietary ingredient, dietary supplement, or beverage intended for
+human consumption.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <span class=scstrikered>(3)</span><span class=scinsertblue>(4)</span> "Nitrous oxide" means<span class=scstrikered> any
+</span><span class=scinsertblue>&nbsp;nitrogen monoxide (NâO) and any </span>compound,
+liquid, gas, or chemical that contains nitrous oxide<span class=scinsertblue>
+whether compressed, liquified, or contained in a cartridge, cylinder, tank,
+canister, or other vessel</span>.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <span class=scstrikered>(4)</span><span class=scinsertblue>(5)</span> "Nitrous oxide products"<span class=scstrikered>
+include products and accessories used to inhale nitrous oxide, including but
+not limited to canisters</span><span class=scinsertblue> means a cartridge,
+cylinder, tank, or other container that contain nitrous oxide</span>.</p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S6_lv1_7678ebadI">(</a>6) "Characterizing flavor" means a
+distinguishable taste or aroma described by reference to a fruit, candy,
+dessert, beverage, mint, menthol, or any other flavor or aroma. </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S7_lv1_3d5f1ed7I">(</a>7) "Flavored nitrous oxide product"
+means a nitrous oxide product that is labeled, advertised, marketed, or sold by
+reference to a characterizing flavor. </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S8_lv1_61ebdc19I">(</a>8) "Exempt entity" means: </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510Sa_lv2_d25f9b67I">(</a>a) a physician, dentist,
+veterinarian, hospital, clinic, or other licensed medical facility acting
+within the lawful scope of practice; </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510Sb_lv2_c7483119I">(</a>b) a licensed commercial food and
+beverage business that holds a valid South Carolina retail food establishment
+permit or food service permit and uses nitrous oxide solely for legitimate
+culinary or beverage preparation in the ordinary course of business; </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510Sc_lv2_f310f8ddI">(</a>c) an automotive business operating
+with a business license and with an authorized dealer or distributor agreement
+and having the primary purpose of providing automotive supplies and services
+and using nitrous oxide solely for a lawful automotive performance, testing, or
+competition purpose; </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510Sd_lv2_be35bfc8I">(</a>d) an industrial or manufacturing
+business operating with a business license using nitrous oxide solely for
+lawful industrial or manufacturing purposes; </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510Se_lv2_f2eaf9bfI">(</a>e) an institute of higher education,
+laboratory, or research facility using nitrous oxide solely for scientific
+research or instruction; or</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510Sf_lv2_77ea68e9I">(</a>f) a governmental entity or
+emergency services agency acting within the scope of official duties. </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S9_lv1_085d9929I">(</a>9) "Sell" or "sale" means to sell,
+furnish, give, distribute, provide, deliver, offer for sale, or possess with
+intent to sell, furnish, give, distribute, provide, deliver, or offer for sale.
+</span></p>
+
+<p class=sccodifiedsection><a name="instruction_5d3c36a3b">Amend the bill
+further, SECTION 1, by striking Section 44-53-2520(A), (B), (C), and (D) and
+inserting:</a></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; (A) <span class=scinsertblue>Except as provided
+in (E), </span><span class=scstrikered>It</span><span class=scinsertblue>it</span>
+is unlawful for an individual or a retailer to sell, furnish, give, distribute,
+or provide nitrous oxide or nitrous oxide products<span class=scstrikered> to a
+minor under the age of eighteen years</span><span class=scinsertblue> in this
+State</span>.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; (B) <span class=scinsertblue>Except as provided
+in (E), </span><span class=scstrikered>An</span><span class=scinsertblue> it is
+unlawful for a person to possess nitrous oxide or a nitrous oxide product with
+the intent to sell or distribute in this State. </span>&nbsp;</p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SC_lv1_e9a71511I">(</a>C) A person may not sell, market, or
+represent nitrous oxide for recreational inhalation. </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SD_lv1_eca2a7dfI">(</a>D)<a name="ss_T44C53N2520S1_lv2_7cfbcb5eI">(</a>1) It is unlawful for any person to
+sell, furnish, give, distribute, provide, deliver, offer for sale, or possess
+with intent to sell a flavored nitrous oxide product in this State. </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S2_lv2_864c37b7I">(</a>2) A person engaged in the sale of
+nitrous oxide or nitrous oxide products made through the internet or other
+remote sales methods shall perform an age verification through an independent,
+third-party age verification service that compares information available from
+public records to the personal information entered by the individual during the
+ordering process that establishes the individual is eighteen years of age or
+older, and shall use a method of mailing, shipping, or delivery that requires
+the signature of a person at least eighteen years of age purchasing for an
+exempted use before nitrous oxide or a nitrous oxide product will be released
+to the purchaser, unless the internet or other remote sales methods employ the
+following protections to ensure age verification:</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520Sa_lv3_b38d4726I">(</a>a) the customer creates an online
+profile or account with personal information including, but not limited to,
+name, address, social security information, and a valid phone number, and that
+personal information is verified through publicly available records; or</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520Sb_lv3_2e0d6a3eI">(</a>b) the customer is required to
+upload a copy of his government-issued identification in addition to a current
+photograph of the customer; and</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520Sc_lv3_a3ae12cfI">(</a>c) delivery is made to the
+customer's name and address.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SE_lv1_0a1a7c80I">(</a>E) Subsections (A) and (B) do not
+apply to the sale, distribution, or transfer of nitrous oxide or nitrous oxide
+products to an exempt entity or to an individual for the exempt entity's or
+individual's lawful purpose, provided the seller complies with Section
+44-53-2530. An individual who is over the age of eighteen may have the
+following lawful purpose:</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S1_lv2_09a89576I">(</a>1) for personal mechanical repair of
+automotive or recreational vehicles, provided the product was purchased from a
+licensed automotive business; </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S2_lv2_90f28f32I">(</a>2) for home culinary use, limited to
+nonrefillable cartridges of not more than 8 grams per cartridge; or</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S3_lv2_4cfd385bI">(</a>3) for medical use, as prescribed by
+a medical doctor.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SF_lv1_af0d09a5I">(</a>F) Each unlawful sale, delivery,
+distribution, or transfer constitutes a separate offense.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SG_lv1_93ea26ceI">(</a>G)<a name="ss_T44C53N2520S1_lv2_c381922fI">(</a>1) A retailer must not sell to an
+individual purchasing for an excepted personal use more than a case per day. A
+case contains a maximum of twenty-four individual cartridges that contain 8
+grams of nitrous oxide.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S2_lv2_d22f918cI">(</a>2) A retailer must only sell
+containers of nitrous oxide that contain 580 grams or more to exempt entities
+and either delivery must be to a business address or invoiced to an exempted
+entity. </span></p>
+
+<p class=scnewcodesection><span class=scinsert>&nbsp;</span><span class=scstrikered>individual
+who knowingly violates (A) is guilty of a misdemeanor and, upon conviction,
+shall be fined one hundred dollars or imprisoned for a term not to exceed
+thirty days, or both. Failure to demand identification to verify an
+individual's age is not a defense.</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp; (C) A minor who knowingly
+misrepresents his age to purchase or attempt to purchase a nitrous oxide
+product commits a noncriminal offense and is subject to a civil fine within the
+court's discretion.</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) The noncriminal
+offense is not grounds for denying, suspending, or revoking an individual's
+participation in a state college or university financial assistance program,
+including but not limited to, a Life Scholarship, a Palmetto Fellows
+Scholarship, or a need-based grant.</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) A violation of
+this subsection is not a criminal or delinquent offense, and no criminal or
+delinquent record may be maintained. A minor may not be taken into custody,
+arrested, placed in jail or in any other secure detention, or committed to the
+custody of the Department of Juvenile Justice.</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp; (D) The Department may
+promulgate regulations to administer and enforce the provisions of this
+section.</span></p>
+
+<p class=sccodifiedsection><a name="instruction_475eaca1a">Amend the bill
+further, SECTION 1, by striking Sections 44-53-2530 and 44-53-2540 and
+inserting:</a></p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; Section 44-53-2530.<span class=scstrikered>&nbsp;  It
+is unlawful for a retailer to display or store nitrous oxide products in a
+retail location in a manner that would allow the product to be accessed by an
+individual under the age of eighteen. A retailer found to be in violation of
+this section is subject to a civil penalty of not more than one thousand
+dollars for a first violation and a civil penalty of not more than two thousand
+dollars for a second or subsequent violation</span><a name="up_c91b9e63I">.</a></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530SA_lv1_ee26370cI">(</a>A) A person who sells or distributes
+nitrous oxide or nitrous oxide products pursuant to Section 44-53-2520(E) shall
+take reasonable steps to verify that the purchaser is an exempt entity or is
+using nitrous oxide or nitrous oxide products for an exempt purpose. </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530SB_lv1_05c5feebI">(</a>B) At a minimum, reasonable steps
+include obtaining and retaining: </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530S1_lv2_004a1ba8I">(</a>1) the purchaser's business name and
+business address or personal name and address;</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530S2_lv2_75068f9aI">(</a>2) a copy of, or the identifying
+number for, the purchaser's applicable license, permit, or registration
+demonstrating exempt entity status, or an electronic copy of the person's
+driver's license or other government-issued identification; and </span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530S3_lv2_59b8c4c5I">(</a>3) an invoice or receipt documenting
+the date of sale or transfer and the quantity and form of nitrous oxide or
+nitrous oxide products sold or transferred.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530SC_lv1_565a63f5I">(</a>C)<a name="ss_T44C53N2530S1_lv2_c5a3c18aI">(</a>1) Records required by this section
+must be retained for not less than two years and must be made available for
+inspection by the department, division, or local law enforcement during normal
+business hours upon reasonable request.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530S2_lv2_60bda57dI">(</a>2) The division may inspect premises
+during normal business hours for enforcement of this article.</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2530SD_lv1_25dc9624I">(</a>D) The department may promulgate
+regulations to administer and enforce the provisions of this article, including
+purchaser verification standards and recordkeeping requirements.</span></p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; Section 44-53-2540.&nbsp; <span class=scstrikered>(A)
+Exemptions for commercial use under this article apply to:</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) medical or dental
+applications;</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) food preparation;
+or</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3) manufacturing,
+including but not limited to automotive purposes.</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp; (B) Household goods that
+are used for the purpose of inhaling nitrous oxide are not exempt.</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp; (C) Nitrous oxide
+products must be accompanied by a clear label that provides adequate
+information for safe and effective use by consumers including but not limited
+to:</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) lists of
+ingredients;</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2) the number of
+servings per container and the recommended serving size;</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (3) any precautionary
+statements as to the safety and effectiveness of the product;</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (4) a statement that
+the product is not intended to be inhaled for recreational purposes; and</span></p>
+
+<p class=scnewcodesection><span class=scstrikered>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (5) a statement that
+the product should not be sold, furnished, given, distributed, or provided to a
+person under the age of eighteen.</span><span class=scinsertblue> <a name="ss_T44C53N2540SA_lv2_8eaf1516I">(</a>A) A person who knowingly violates
+Section 44-53-2520 is guilty of a misdemeanor and, upon conviction:</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S1_lv1_4c8ccfb0I">(</a>1) for a first offense, must be
+fined not more than one thousand dollars or imprisoned for a term not to exceed
+six months, or both;</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S2_lv1_01d48a15I">(</a>2) for a second offense, must be
+fined not more than five thousand dollars or imprisoned for a term not to
+exceed one year, or both; and</span></p>
+
+<p class=scnewcodesection><span class=scinsertblue>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S3_lv1_243b3902I">(</a>3) for a third or subsequent
+offense, must be fined not more than ten thousand dollars or imprisoned for a
+term not to exceed three years, or both. </span></p>
+
+<p class=sccodifiedsection><a name="instruction_ba9ebd44f">Amend the bill
+further, by striking SECTION 2, and inserting:</a></p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section_705376b54">SECTION 2.&nbsp; <span class=scstrikered>This act takes effect on January 1, 2027.</span><span class=scinsertblue>This act takes effect upon approval by the Governor.</span></a></p>
+
+<p class=sccommitteereporttitle>Renumber sections to conform.</p>
+
+<p class=sccommitteereporttitle>Amend title to conform.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson>LUKE RANKIN for Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>_______</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY ADDING SECTION
+44-53-2510 SO AS TO DEFINE TERMS TO INCLUDE NITROUS OXIDE AND NITROUS OXIDE
+PRODUCTS; BY ADDING SECTION 44-53-2520 SO AS TO CREATE THE OFFENSE OF SELLING
+OR PROVIDING NITROUS OXIDE TO MINORS, AND TO PROVIDE PENALTIES, AND TO CREATE A
+CIVIL PENALTY FOR A MINOR THAT MISREPRESENTS HIS AGE TO ATTEMPT TO OR TO
+PURCHASE NITROUS OXIDE; BY ADDING SECTION 44-53-2530 SO AS TO CREATE A CIVIL
+PENALTY FOR RETAILERS THAT DISPLAY OR STORE NITROUS OXIDE IN A RETAIL LOCATION
+WHERE MINORS CAN ACCESS NITROUS OXIDE OR NITROUS OXIDE PRODUCTS; BY ADDING
+SECTION 44-53-2540 SO AS TO ESTABLISH EXCEPTIONS TO THIS ARTICLE FOR COMMERCIAL
+USE.<a name="at_449935a16"></a></p>
+
+<p class=scbillwhereasclause>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_09cf079fa">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_9f78137bf">S</a>ECTION 1.&nbsp; <a name="dl_19a3d0436">C</a>hapter 53, Title 44 of the S.C. Code is amended by
+adding:</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection align=center style='text-align:center'><a name="up_bd15661d4">A</a>rticle 25</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection align=center style='text-align:center'><a name="up_6e61ba174">N</a>itrous Oxide</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T44C53N2510_e13a5c109">S</a>ection
+44-53-2510.&nbsp; <a name="up_fae239432">A</a>s used in this article:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S1_lv1_49cf5ca39">(</a>1)
+"Department" means the South Carolina Department of Public Health.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S2_lv1_cc9693dcd">(</a>2)
+"Food" means any food, food product, food ingredient, dietary ingredient,
+dietary supplement, or beverage intended for human consumption.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S3_lv1_8584d13bc">(</a>3)
+"Nitrous oxide" means any compound, liquid, gas, or chemical that contains
+nitrous oxide.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2510S4_lv1_197739484">(</a>4)
+"Nitrous oxide products" include products and accessories used to inhale
+nitrous oxide, including but not limited to canisters.</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T44C53N2520_5fd36e403">S</a>ection
+44-53-2520.&nbsp; <a name="ss_T44C53N2520SA_lv1_9ee285d14">(</a>A) It is unlawful
+for an individual or a retailer to sell, furnish, give, distribute, or provide
+nitrous oxide or nitrous oxide products to a minor under the age of eighteen
+years.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SB_lv1_f4e06ff16">(</a>B)
+An individual who knowingly violates (A) is guilty of a misdemeanor and, upon
+conviction, shall be fined one hundred dollars or imprisoned for a term not to
+exceed thirty days, or both. Failure to demand identification to verify an
+individual's age is not a defense.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SC_lv1_8450ebc32">(</a>C)
+A minor who knowingly misrepresents his age to purchase or attempt to purchase
+a nitrous oxide product commits a noncriminal offense and is subject to a civil
+fine within the court's discretion.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S1_lv2_a3389109d">(</a>1)
+The noncriminal offense is not grounds for denying, suspending, or revoking an
+individual's participation in a state college or university financial
+assistance program, including but not limited to, a Life Scholarship, a
+Palmetto Fellows Scholarship, or a need-based grant.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520S2_lv2_9b3c4cd3f">(</a>2)
+A violation of this subsection is not a criminal or delinquent offense, and no
+criminal or delinquent record may be maintained. A minor may not be taken into
+custody, arrested, placed in jail or in any other secure detention, or committed
+to the custody of the Department of Juvenile Justice.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2520SD_lv1_f1fd98feb">(</a>D)
+The Department may promulgate regulations to administer and enforce the
+provisions of this section.</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T44C53N2530_5cb8ae9ec">S</a>ection
+44-53-2530.&nbsp;  It is unlawful for a retailer to display or store nitrous oxide
+products in a retail location in a manner that would allow the product to be
+accessed by an individual under the age of eighteen. A retailer found to be in
+violation of this section is subject to a civil penalty of not more than one
+thousand dollars for a first violation and a civil penalty of not more than two
+thousand dollars for a second or subsequent violation.</p>
+
+<p class=scnewcodesection>&nbsp;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ns_T44C53N2540_54fa1f0e2">S</a>ection
+44-53-2540.&nbsp; <a name="ss_T44C53N2540SA_lv1_cdb143a8c">(</a>A) Exemptions for
+commercial use under this article apply to:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S1_lv2_24443347d">(</a>1)
+medical or dental applications;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S2_lv2_b7ee512f1">(</a>2)
+food preparation; or</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S3_lv2_00700c87d">(</a>3)
+manufacturing, including but not limited to automotive purposes.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540SB_lv1_d2d1cef7c">(</a>B)
+Household goods that are used for the purpose of inhaling nitrous oxide are not
+exempt.</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540SC_lv1_75ccb6078">(</a>C)
+Nitrous oxide products must be accompanied by a clear label that provides
+adequate information for safe and effective use by consumers including but not
+limited to:</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S1_lv2_8efefcb6a">(</a>1)
+lists of ingredients;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S2_lv2_3be4bc28e">(</a>2)
+the number of servings per container and the recommended serving size;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S3_lv2_5754c04c1">(</a>3)
+any precautionary statements as to the safety and effectiveness of the product;</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S4_lv2_8ab32815a">(</a>4)
+a statement that the product is not intended to be inhaled for recreational
+purposes; and</p>
+
+<p class=scnewcodesection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T44C53N2540S5_lv2_4131ae541">(</a>5)
+a statement that the product should not be sold, furnished, given, distributed,
+or provided to a person under the age of eighteen.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section_c4a3f6f47"></a><a name="bs_num_2_29c83a9dd">S</a>ECTION 2.&nbsp; This act takes effect on January 1,
+2027.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbillendxx>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on February 18, 2026 at 08:23 PM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>

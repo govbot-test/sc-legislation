@@ -1,0 +1,881 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Yu Gothic Light";
+	panose-1:2 11 3 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.scemptylineheader, li.scemptylineheader, div.scemptylineheader
+	{mso-style-name:sc_emptyline_header;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillheader, li.scbillheader, div.scbillheader
+	{mso-style-name:sc_bill_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:15.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.scbilltitle, li.scbilltitle, div.scbilltitle
+	{mso-style-name:sc_bill_title;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.scenactingwords, li.scenactingwords, div.scenactingwords
+	{mso-style-name:sc_enacting_words;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccodifiedsection, li.sccodifiedsection, div.sccodifiedsection
+	{mso-style-name:sc_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scdirectionallanguage, li.scdirectionallanguage, div.scdirectionallanguage
+	{mso-style-name:sc_directional_language;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scnoncodifiedsection, li.scnoncodifiedsection, div.scnoncodifiedsection
+	{mso-style-name:sc_non_codified_section;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scemptyline, li.scemptyline, div.scemptyline
+	{mso-style-name:sc_empty_line;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillfooter, li.scbillfooter, div.scbillfooter
+	{mso-style-name:sc_bill_footer;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstricken, li.sccoversheetstricken, div.sccoversheetstricken
+	{mso-style-name:sc_coversheet_stricken;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:line-through;}
+p.sccoversheetunderline, li.sccoversheetunderline, div.sccoversheetunderline
+	{mso-style-name:sc_coversheet_underline;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-decoration:underline;}
+p.sccoversheetemptyline, li.sccoversheetemptyline, div.sccoversheetemptyline
+	{mso-style-name:sc_coversheet_empty_line;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetstatus, li.sccoversheetstatus, div.sccoversheetstatus
+	{mso-style-name:sc_coversheet_status;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;}
+p.sccoversheetinfo, li.sccoversheetinfo, div.sccoversheetinfo
+	{mso-style-name:sc_coversheet_info;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetbillno, li.sccoversheetbillno, div.sccoversheetbillno
+	{mso-style-name:sc_coversheet_bill_no;
+	margin:0in;
+	text-align:right;
+	line-height:normal;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.sccoversheetsponsor6, li.sccoversheetsponsor6, div.sccoversheetsponsor6
+	{mso-style-name:sc_coversheet_sponsor_6;
+	margin:0in;
+	text-align:justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillendxx, li.scbillendxx, div.scbillendxx
+	{mso-style-name:sc_bill_end_xx;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.scbillwhereasclause, li.scbillwhereasclause, div.scbillwhereasclause
+	{mso-style-name:sc_bill_whereas_clause;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sctablecodifiedsection, li.sctablecodifiedsection, div.sctablecodifiedsection
+	{mso-style-name:sc_table_codified_section;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.scstrike
+	{mso-style-name:sc_strike;
+	text-decoration:line-through;}
+span.scinsert
+	{mso-style-name:sc_insert;
+	font-variant:normal !important;
+	text-transform:none;
+	text-decoration:underline;
+	vertical-align:baseline;}
+p.sccoversheetcommitteereportchairperson, li.sccoversheetcommitteereportchairperson, div.sccoversheetcommitteereportchairperson
+	{mso-style-name:sc_coversheet_committee_report_chairperson;
+	margin:0in;
+	text-align:justify;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportheader, li.sccoversheetcommitteereportheader, div.sccoversheetcommitteereportheader
+	{mso-style-name:sc_coversheet_committee_report_header;
+	margin:0in;
+	text-align:center;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	text-transform:uppercase;
+	font-weight:bold;}
+p.sccommitteereporttitle, li.sccommitteereporttitle, div.sccommitteereporttitle
+	{mso-style-name:sc_committee_report_title;
+	margin:0in;
+	text-align:justify;
+	text-indent:.15in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetcommitteereportemplyline, li.sccoversheetcommitteereportemplyline, div.sccoversheetcommitteereportemplyline
+	{mso-style-name:sc_coversheet_committee_report_emply_line;
+	margin:0in;
+	line-height:150%;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+p.sccoversheetreadfirst, li.sccoversheetreadfirst, div.sccoversheetreadfirst
+	{mso-style-name:sc_coversheet_readfirst;
+	margin:0in;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;}
+span.msoIns
+	{mso-style-name:"";
+	text-decoration:underline;
+	color:blue;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection2
+	{page:WordSection2;}
+@page WordSection3
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection3
+	{page:WordSection3;}
+@page WordSection4
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection4
+	{page:WordSection4;}
+@page WordSection5
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection5
+	{page:WordSection5;}
+@page WordSection6
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection6
+	{page:WordSection6;}
+@page WordSection7
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection7
+	{page:WordSection7;}
+@page WordSection8
+	{size:8.5in 11.0in;
+	margin:.7in 81.35pt .7in 81.35pt;}
+div.WordSection8
+	{page:WordSection8;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+<title>2025-2026 Bill 688 Text of Previous Version (Mar. 17, 2026) - South Carolina Legislature Online</title><meta name="keywords" content="DEW UI Tax Code"></head>
+
+<body lang=EN-US style='word-wrap:break-word'><p style="text-align: center;"><span style="font-weight: bold;">South Carolina General Assembly</span><br>126th Session, 2025-2026</p><p style="font-weight: bold;">Bill 688</p><hr><p><span style="text-decoration: line-through;">Indicates Matter Stricken</span><br><span style="text-decoration: underline;">Indicates New Matter</span></p><hr><p style="text-align: center;">(Text matches printed bills. Document has been reformatted to meet World Wide Web specifications.)</p>
+
+<div class=WordSection1>
+
+<p class=sccoversheetstricken>Indicates Matter Stricken</p>
+
+<p class=sccoversheetunderline>Indicates New Matter</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetstatus>Committee Report</p>
+
+<p class=sccoversheetinfo>March 12, 2026</p>
+
+<p class=sccoversheetinfo>&nbsp;</p>
+
+<p class=sccoversheetbillno>S. 688</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>&nbsp;</p>
+
+<p class=sccoversheetsponsor6 align=center style='text-align:center'>Introduced
+by Senator Massey </p>
+
+<p class=sccoversheetsponsor6>&nbsp;</p>
+
+<p class=sccoversheetreadfirst>S. Printed 3/12/26--S.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SEC
+3/17/2026 9:51 AM]</p>
+
+<p class=sccoversheetreadfirst>Read the first time January 13, 2026</p>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>________</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'><u><span style='text-decoration:none'>&nbsp;</span></u></p>
+
+<p class=sccoversheetcommitteereportheader>The committee on Senate Labor,
+Commerce and Industry</p>
+
+<p class=sccommitteereporttitle>To whom was referred a Bill (S. 688) to amend
+the South Carolina Code of Laws by amending Section 41-31-5, relating to
+contributions and payments to the unemployment trust fund definitions, so as to,
+etc., respectfully</p>
+
+<p class=sccoversheetcommitteereportheader>Report:</p>
+
+<p class=sccommitteereporttitle>That they have duly and carefully considered
+the same, and recommend that the same do pass:</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetcommitteereportchairperson>THOMAS DAVIS for Committee.</p>
+
+<p class=sccoversheetcommitteereportemplyline>&nbsp;</p>
+
+<p class=sccoversheetemptyline align=center style='text-align:center'>_______<br clear=all style='page-break-before:always'>
+</p>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection2>
+
+<p class=sccoversheetemptyline>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scemptylineheader>&nbsp;</p>
+
+<p class=scbillheader>A bill</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbilltitle>TO AMEND THE SOUTH CAROLINA CODE OF LAWS BY AMENDING
+SECTION 41-31-5, RELATING TO CONTRIBUTIONS AND PAYMENTS TO THE UNEMPLOYMENT
+TRUST FUND DEFINITIONS, SO AS TO CHANGE THE LOOKBACK PERIOD FOR THE BENEFIT
+RATIO; BY AMENDING SECTION 41-31-45, RELATING TO DEBT STATUS ESTIMATES, SO AS
+TO PROVIDE FOR A SOLVENCY TARGET FOR THE FUND; BY AMENDING SECTION 41-31-60,
+RELATING TO THE TAX RATE WHEN A DELINQUENT REPORT IS RECEIVED, SO AS TO CHANGE
+THE PENALTY FOR AN OUTSTANDING LIEN; BY AMENDING SECTION 41-31-350, RELATING TO
+THE PENALTY FOR FAILURE TO FILE A REPORT, SO AS TO REMOVE THE CAP ON THE
+PENALTY FOR FAILING TO FILE A REPORT; AND BY AMENDING SECTION 41-31-370,
+RELATING TO INTEREST ON UNPAID CONTRIBUTIONS, SO AS TO REMOVE THE CAP ON THE PENALTY
+FOR FAILURE TO PAY CONTRIBUTIONS.<a name="at_2b096bc51"></a></p>
+
+<p class=scbillwhereasclause>&nbsp;</p>
+
+<p class=scenactingwords><a name="ew_25efdcee9">B</a>e it enacted by the
+General Assembly of the State of South Carolina:</p>
+
+<p class=scenactingwords>&nbsp;</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_1_b50d3ab67">S</a>ECTION 1.&nbsp; <a name="dl_0b2e5ff66">S</a>ection 41-31-5 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T41C31N5_bbca3586b">S</a>ection
+41-31-5. <a name="up_75fc2e73c">A</a>s used in this chapter:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5S1_lv1_8396a7613">(</a>1)
+"Benefit ratio" means:</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5Sa_lv2_1184e8f95">(</a>a)
+for the period of January 1, 2011, through December 31, 2013, the number
+calculated by dividing the sum of all benefits charged to an employer during
+the forty calendar quarters immediately preceding the calculation date by the
+sum of the employer's taxable payroll for the same period. If fewer than forty
+but more than one calendar quarter of data are available, the data from those
+available calendar quarters shall be used in the calculation. The benefit ratio
+must be calculated annually using data for quarters filed through June
+thirtieth of the current year to the sixth decimal place;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5Sb_lv2_e80d3e78c">(</a>b)
+from January 1, 2014,<span class=scinsert> through tax year 2026,</span> the
+number calculated by dividing the sum of all benefits charged to an employer
+during the twelve calendar quarters immediately preceding the calculation date
+by the sum of the employer's taxable payroll for the same period. If fewer than
+twelve but more than one calendar quarters of data are available, the data from
+those available calendar quarters shall be used in the calculation. The benefit
+ratio must be calculated annually using data for quarters filed through June
+thirtieth of the current year to the sixth decimal place<span class=scstrike>.</span><span class=scinsert>;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5Sc_lv2_15e8b492e">(</a>c) For tax year 2027, the number
+calculated by dividing the sum of all benefits charged to an</span></p>
+
+</div>
+
+<span class=scinsert><span style='font-size:11.0pt;line-height:150%;font-family:
+"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span></span>
+
+<div class=WordSection3>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;employer during the sixteen
+calendar quarters immediately preceding the calculation date by the sum of the
+employer's taxable payroll for the same period. If fewer than sixteen but more
+than one calendar </span></p>
+
+<p class=sccodifiedsection><span class=scinsert>quarters of data are available,
+then the data from those available calendar quarters shall be used in the
+calculation. The benefit ratio must be calculated annually using data for
+quarters filed through June thirtieth of the current year to the sixth decimal
+place; and</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5Sd_lv2_d7a146dd0">(</a>d) Beginning in tax year 2028, the
+number calculated by dividing the sum of all benefits charged to an employer
+during the twenty calendar quarters immediately preceding the calculation date
+by the sum of the employer's taxable payroll for the same period. If fewer than
+twenty but more than one calendar quarters of data are available, then the data
+from those available calendar quarters shall be used in the calculation. The
+benefit ratio must be calculated annually using data for quarters filed through
+June thirtieth of the current year to the sixth decimal place.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5S2_lv1_52b9af224">(</a>2)
+"Department" means the Department of Employment and Workforce.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5S3_lv1_fd866885c">(</a>3)
+"Statewide average required rate" means the amount of income projected to be
+needed by the unemployment insurance trust fund for the upcoming calendar year
+divided by the estimated taxable wages over the same period rounded to the
+sixth decimal place.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N5S4_lv1_96850ca86">(</a>4)
+"Statewide average interest surcharge" means the amount of income projected to
+be needed to pay interest on outstanding federal advances during the upcoming
+calendar year divided by the</p>
+
+<p class=sccodifiedsection>&nbsp;estimated taxable wages for the upcoming calendar
+year.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_2_44ba9226f">S</a>ECTION 2.&nbsp; <a name="dl_ab401e562">S</a>ection 41-31-45 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T41C31N45_2118b3cc0">S</a>ection
+41-31-45.&nbsp; <a name="ss_T41C31N45SA_lv1_362a83dcb">(</a>A) For the purposes of
+this section:</p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S1_lv2_a00036caR">(</a>1) "Average high cost multiple" means
+the number of years the department could pay unemployment compensation, based
+upon the statewide reserve ratio, if the department paid the compensation at a
+rate equivalent to the average benefit cost rate in the three calendar years
+during the previous twenty calendar years, or the last three recessions, in
+which the benefit cost rates were the highest.</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S2_lv2_5f18ff66R">(</a>2) "Benefit cost rate" means the rate
+determined by dividing the unemployment compensation benefits paid during a
+calendar year by the total covered wages in the State during that year. The
+calculation of the benefit cost rate may not include the wages and unemployment
+compensation paid by employers covered under Section 3309 of the Internal
+Revenue Code of 1986.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class=scstrike>(3)</span><a name="ss_T41C31N45S1_lv2_c26cf440b"><span class=scinsert>(</span></a><span class=scinsert>1)</span> "Income needed to pay benefits" means the estimate of
+benefits payable in a given calendar year less the estimate of interest to be
+earned by the unemployment insurance trust fund for that calendar year.</p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S4_lv2_f22e6007R">(</a>4) "Statewide reserve ratio" means the
+ratio determined by dividing the balance in the trust fund reserve as of June
+thirtieth by the total covered wages for the previous twelve months in the
+State as of</span></p>
+
+</div>
+
+<span class=scstrike><span style='font-size:11.0pt;line-height:150%;font-family:
+"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span></span>
+
+<div class=WordSection4>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;June thirtieth. The
+calculation of the statewide reserve ratio may not include the wages and
+unemployment compensation paid by employers covered under Section 3309 of the
+Internal Revenue </span></p>
+
+<p class=sccodifiedsection><span class=scstrike>Code of 1986.</span></p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class=scstrike>(5)</span><a name="ss_T41C31N45S2_lv2_9a3e53b52"><span class=scinsert>(</span></a><span class=scinsert>2)</span> "Fund <span class=scstrike>adequacy</span><span class=scinsert>solvency</span> target" <span class=scstrike>means an average
+high-cost multiple of one</span><span class=scinsert> is defined as the value
+computed as the product of 0.08 and:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sa_lv3_cbc5eb090">(</a>a) the size of the South Carolina
+labor force as determined annually by the U.S. Bureau of Labor Statistics;</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sb_lv3_8039b7cee">(</a>b) the maximum weekly benefit amount
+set by the department in accordance with Section 41-35-40; and</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sc_lv3_9818df3cd">(</a>c) the maximum number of weeks of
+unemployment benefits available in accordance with Section 41-35-50</span>.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class=scstrike>(6)</span><a name="ss_T41C31N45S3_lv2_d2a716cea"><span class=scinsert>(</span></a><span class=scinsert>3)</span> "Trust fund reserve" excludes distributions from the
+federal government pursuant to 42 U.S.C. 1103, commonly referred to as the Reed
+Act.</p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S4_lv2_bca222d3c">(</a>4) &quot;Solvency surcharge&quot; is a
+surcharge imposed on contributory employers in each year the unemployment trust
+fund is solvent but the trust fund reserve does not meet the fund solvency
+target.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S5_lv2_5a1f1f161">(</a>5) &quot;Fiscal year&quot; begins on
+July first of each year and ends on June thirtieth of the succeeding year.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S6_lv2_f28d50171">(</a>6) &quot;Tax year&quot; begins on
+January first of each year and ends on December thirty-first of each year.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert><span style='text-decoration:
+ none'>&nbsp;</span></span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S7_lv2_277951e53">(</a>7) &quot;Cap&quot; is the maximum
+projected amount of revenue to be generated in a single year and is the greater
+amount of either:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sa_lv3_12767ff24">(</a>a) the actual benefits paid in the
+prior fiscal year; or</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sb_lv3_f49eb0ad3">(</a>b) the projected benefits for the next
+tax year.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S8_lv2_193d45606">(</a>8) "Actual tax collections" excludes
+all penalties, interests, contingency surcharges, and recording fees</span>.</p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45SB_lv1_c8574def2">(</a>B) Each year the department must
+calculate the income necessary to pay benefits and reach the fund solvency
+target for the unemployment trust fund. The department determines the total
+income needed as follows:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S1_lv2_728c194da">(</a>1) Projected benefits will be
+determined for the next tax year with annual historical data as well as
+unemployment rate projections provided by the Congressional Budget Office.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S2_lv2_c56e8157f">(</a>2) A solvency surcharge shall be in
+effect for each tax year the trust fund reserve is less than the fund solvency
+target, as of June thirtieth. The aggregate amount of the solvency surcharge
+will be determined for each tax year to be the amount calculated to return the
+unemployment trust fund to the fund solvency target within five years subject
+to:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sa_lv3_99daa6151">(</a>a) When actual benefits paid in the
+prior fiscal year are greater than the actual tax collections received in the
+prior fiscal year, then the cap is triggered. Once triggered, then:</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Si_lv4_695282806">(</a>i) If projected benefits for the next
+tax year are less than the actual benefits paid in the prior</span></p>
+
+</div>
+
+<span class=scinsert><span style='font-size:11.0pt;line-height:150%;font-family:
+"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span></span>
+
+<div class=WordSection5>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;fiscal year, then the solvency
+surcharge shall be the difference between the actual benefits paid in the prior
+fiscal year and the projected benefits.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sii_lv4_cb3d7ca4c">(</a>ii) If projected benefits for the
+next tax year are greater than the actual benefits paid in the </span></p>
+
+<p class=sccodifiedsection><span class=scinsert>prior fiscal year, then no
+additional solvency surcharge will be added for the next tax year.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45Sb_lv3_42c9e304d">(</a>b) After the cap has been triggered,
+once actual benefits paid in the prior fiscal year were less than actual tax
+collections in the prior fiscal year, then tax rates for the next tax year will
+be set based on returning the unemployment trust fund to the fund solvency
+target within the next five years.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S3_lv2_79d405484">(</a>3) If the balance of the unemployment
+trust fund, as of the end of the most recently completed fiscal year, is
+greater than the fund solvency target, then the department may use the surplus
+amount to reduce taxes in the next tax year.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S4_lv2_c48b6a915">(</a>4) Notwithstanding the provisions of
+subsection (2), once the fund solvency target has been met, in subsequent tax
+years, if the unemployment trust fund balance does not meet the fund solvency
+target as of the end of the most recently completed fiscal year, then the
+solvency surcharge shall be set as follows:</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 summary="table_draft_1731441987087" width=650 style='margin-left:-.5in;
+ border-collapse:collapse'>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sccodifiedsection align=right style='text-align:right'><span class=scinsert><span style='text-decoration:none'>15</span></span></p>
+  <p class=sccodifiedsection align=right style='text-align:right'><span class=scinsert><span style='text-decoration:none'>16</span></span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Percentage the
+  unemployment trust fund balance is below the fund adequacy target</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Rebuilding period</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sccodifiedsection align=right style='text-align:right'><span class=scinsert><span style='text-decoration:none'>17</span></span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>More than 0.0000%, but
+  less than 2.5000%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>One year</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sccodifiedsection align=right style='text-align:right'><span class=scinsert><span style='text-decoration:none'>18</span></span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>2.5000% or more, but
+  less than 5.0000%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Two years</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sccodifiedsection align=right style='text-align:right'><span class=scinsert><span style='text-decoration:none'>19</span></span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>5.0000% or more, but
+  less than 7.5000%</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Three years</span></p>
+  </td>
+ </tr>
+ <tr style='page-break-inside:avoid'>
+  <td width=40 valign=top style='width:30.05pt;border:none;border-right:solid windowtext 1.0pt;
+  padding:0in 12.2pt 0in 0in'>
+  <p class=sccodifiedsection align=right style='text-align:right'><span class=scinsert><span style='text-decoration:none'>20</span></span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>7.5000% or more</span></p>
+  </td>
+  <td width=305 valign=top style='width:228.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=sctablecodifiedsection><span class=scinsert>Four years</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<span style='font-size:11.0pt;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:auto'>
+</span>
+
+<div class=WordSection6>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <span class=scstrike>(B)</span><a name="ss_T41C31N45SC_lv1_27d746449"><span class=scinsert>(</span></a><span class=scinsert>C)</span> For each calendar year during which the state
+Unemployment Insurance Trust Fund is in debt status, the department must
+estimate the amount of income necessary to pay benefits for that year, the
+amount of income necessary to avoid automatic FUTA credit reductions, and an
+amount of income necessary to repay all outstanding federal loans within five
+years. Additional estimates of interest costs shall be determined concurrently.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S1_lv2_244295d4f">(</a>1)
+Estimates of the revenue needed to pay benefits will be based on Congressional
+Budget Office projections for the subsequent calendar year's total unemployment
+rate. This total unemployment rate will be adjusted for South Carolina based on
+the historic relationship between the unemployment rate in South Carolina and
+the national unemployment rate calculated from 1980 to present.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S2_lv2_6a6e7e775">(</a>2)
+The historic relationship, calculated from 1980 to present, between the total
+unemployment rate and the insured unemployment rate in South Carolina will be
+used to adjust the projected total unemployment rate to the rate of insured
+unemployment.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S3_lv2_b44feb263">(</a>3)
+Estimates of forecasted benefits will be based upon the prior three year
+average of the annual number of weeks compensated multiplied by an estimate of
+the average weekly benefit for the next year.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45S4_lv2_0cd4421bd">(</a>4)
+Estimates of amounts to pay to avoid FUTA credit reductions and amount of
+repayments on</p>
+
+</div>
+
+<span style='font-size:11.0pt;line-height:150%;font-family:"Times New Roman",serif'><br clear=all style='page-break-before:always'>
+</span>
+
+<div class=WordSection7>
+
+<p class=sccodifiedsection>&nbsp;the loan will be projected through consultation
+with officials at the US Department of Labor.</p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N45SC_lv1_92a6a5859R">(</a>C) After the fund returns to
+solvency, the department must promulgate regulations concerning the income
+needed to pay benefits in each year and return the trust fund to an adequate
+level as defined in </span></p>
+
+<p class=sccodifiedsection><span class=scstrike>subsection (A)(5).</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_3_e6b203388">S</a>ECTION 3.&nbsp; <a name="dl_802479a2e">S</a>ection 41-31-60 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T41C31N60_7fcd9adef">S</a>ection
+41-31-60.&nbsp; <a name="ss_T41C31N60SA_lv1_dd6148098">(</a>A) If on the computation
+date upon which an employer's tax rate is to be computed as provided in Section
+41-31-40 there is a delinquent report, the tax class twenty rate must be
+assigned to the employer until the next computation date or until all outstanding
+tax reports have been filed.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N60SB_lv1_acd21bbd5">(</a>B)<a name="ss_T41C31N60S1_lv2_0b647960a"><span class=scinsert>(</span></a><span class=scinsert>1)</span> No employer is permitted to pay his unemployment
+compensation tax at a reduced tax rate class for any quarter when a tax
+execution issued<span class=scinsert> prior to January 1, 2027,</span> in
+accordance with Section 41-31-390 with respect to delinquent unemployment
+compensation tax for a previous quarter is unpaid and outstanding against the
+employer.<span class=scstrike>&nbsp; If on the computation date upon which an
+employer's tax rate is computed as provided in Section 41-31-40 there is an
+outstanding tax execution, the tax class twenty rate must be assigned to the
+employer until the next computation date or until such time as all</span></p>
+
+<p class=sccodifiedsection><span class=scstrike>&nbsp;outstanding tax executions
+have been paid.&nbsp; An employer who has a department-approved installment payment
+agreement shall be permitted to pay its unemployment compensation tax at the
+annual rate as determined pursuant to Section 41-31-50.&nbsp; However, any such
+employer's tax rate shall immediately revert to the tax class twenty rate if
+the employer fails to make any one of the succeeding deferred payments or fails
+to submit any succeeding wage report and payment in a timely manner as required
+by the department-approved installment payment agreement.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N60S2_lv2_74a8f0e3c">(</a>2) For any quarter when a tax
+execution issued on or after January 1, 2027, in accordance with Section
+41-31-390 with respect to delinquent unemployment compensation tax for a
+previous quarter is unpaid and outstanding against the employer, an employer
+must pay his unemployment compensation tax at an increased rate of contribution
+that is the sum of two percent plus the employer's rate as otherwise determined
+pursuant to this chapter.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N60S3_lv2_e282b9661">(</a>3) When an employer has an outstanding
+tax execution issued on or after January 1, 2027, and a tax execution issued
+prior to January 1, 2027, also remains outstanding, the tax class twenty rate
+must be assigned to the employer until such time as all outstanding tax
+executions issued prior to January 1, 2027, have been paid.</span></p>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N60SC_lv1_09e6dd58d">(</a>C) An employer with an outstanding tax
+execution who has a department-approved installment payment agreement shall be
+permitted to pay its unemployment compensation tax at the annual rate as
+determined pursuant to this chapter. However, any such employer's tax rate
+shall immediately revert to the applicable increased rate if the employer fails
+to make any one of the succeeding deferred payments</span></p>
+
+</div>
+
+<span class=scinsert><span style='font-size:11.0pt;line-height:150%;font-family:
+"Times New Roman",serif'><span class=msoIns><ins cite="mailto:Danny%20Crook" datetime="2026-03-12T12:22"><br clear=all style='page-break-before:always'>
+</ins></span></span></span>
+
+<div class=WordSection8>
+
+<p class=sccodifiedsection><span class=scinsert>&nbsp;or fails to submit any
+succeeding wage report and payment in a timely manner as required by the
+department-approved installment payment agreement.</span></p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_4_5fbb3461c">S</a>ECTION 4.&nbsp; <a name="dl_947a2380b">S</a>ection 41-31-350 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T41C31N350_e7d0173a8">S</a>ection
+41-31-350. An employer that fails to file a report concerning wages or
+contributions pursuant to Chapters 27 through 41 of this title within fifteen
+days from the date upon which the department mailed a demand for the report,
+the department shall assess the employer a penalty of ten percent of the
+contributions due but no less than twenty-five <span class=scstrike>nor more
+than one thousand </span>dollars in addition to the contributions payable with
+respect to the report.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scdirectionallanguage><a name="bs_num_5_86e24f6ec">S</a>ECTION 5.&nbsp; <a name="dl_9cb21f9c5">S</a>ection 41-31-370 of the S.C. Code is amended to read:</p>
+
+<p class=sccodifiedsection>&nbsp;</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="cs_T41C31N370_54ff1a2e5">S</a>ection
+41-31-370. <a name="ss_T41C31N370SA_lv1_2f7b4f520">(</a>A) Contributions unpaid
+on the date on which they are due and payable, as prescribed by the department,
+shall bear interest at the rate of one percent for each month or fraction for
+which they remain unpaid but contributions as have accrued prior to the establishment
+of an employer's liability shall bear interest at the rate of one-half of one
+percent a month or fraction of a</p>
+
+<p class=sccodifiedsection>&nbsp;month, to the date on which liability is
+established, unless it is found by the department that the delay in the
+establishment of liability resulted from wilful negligence of the employer, and
+shall bear interest at the rate of one percent a month or fraction for which
+they remain unpaid thereafter.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N370SB_lv1_cb0ad21b9">(</a>B)
+If any employer's amount of contributions which are due and payable, as
+prescribed by the department, are unpaid ten days following the date on which
+an assessment or debit memorandum was issued, a penalty of ten percent of the
+amount of contributions due and payable<span class=scstrike>, not to exceed one
+thousand dollars,</span> must be paid in addition to any other interest or
+penalty which may be applicable.</p>
+
+<p class=sccodifiedsection>&nbsp;&nbsp;&nbsp; <a name="ss_T41C31N370SC_lv1_7a95cfe0c">(</a>C)
+The department may, for good cause, extend the time for the filing of reports
+and the payment of contributions. Any person to whom the extension is granted
+shall pay in addition to the contribution due, interest at the rate of one
+percent per month or fraction of a month from the due date of the contribution
+to the date of payment.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scnoncodifiedsection><a name="eff_date_section"></a><a name="bs_num_6_lastsection">S</a>ECTION 6.&nbsp; This act takes effect upon approval
+by the Governor on July 1, 2026.</p>
+
+<p class=scemptyline>&nbsp;</p>
+
+<p class=scbillendxx>----XX----</p>
+
+</div>
+
+<p>This web page was last updated on March 17, 2026 at 09:52 AM</p><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"565410926b6c467d84cc32520b0caede","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
